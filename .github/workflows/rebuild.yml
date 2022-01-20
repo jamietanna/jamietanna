@@ -23,7 +23,7 @@ jobs:
         run: go install gitlab.com/jamietanna/readme-generator@latest
 
       - name: "Generate README.md"
-        run: readme-generator > README.md
+        run: env README_HOST=github readme-generator > README.md
 
       - name: Commit and push (if changed)
         if: github.ref == 'refs/heads/master'
