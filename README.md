@@ -31,11 +31,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Reclaiming the lost art of Linux server administration_](https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration/?utm_campaign=github-jamietanna)
+- [_goldbergyoni/nodebestpractices: The Node.js best practices list (January 2022)_](https://github.com/goldbergyoni/nodebestpractices?utm_campaign=github-jamietanna)
 - [_stenh0use/docker-machine-for-mac: Docker Machine for Mac - an alternative to Docker for Mac_](https://github.com/stenh0use/docker-machine-for-mac?utm_campaign=github-jamietanna)
 - [_Quiq/webauthn_proxy: Proxy for enforcing webauthn authentication, written in Go_](https://github.com/Quiq/webauthn_proxy?utm_campaign=github-jamietanna)
 - [_JSON Serialization Benchmarks_](https://zacsweers.github.io/json-serialization-benchmarking/?utm_campaign=github-jamietanna)
-- [_Prefer to change the code rather than write a workaround_](https://catern.com/change_code.html?utm_campaign=github-jamietanna)
-- [_Linux system service bug gives root on all major distros, exploit released_](https://www.bleepingcomputer.com/news/security/linux-system-service-bug-gives-root-on-all-major-distros-exploit-released/?utm_campaign=github-jamietanna)
 
 ---
 
