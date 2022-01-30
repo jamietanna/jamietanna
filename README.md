@@ -11,9 +11,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Create Executables, not Shell Aliases or Functions_](https://www.jvt.me/posts/2022/01/30/executables-not-aliases/?utm_campaign=github-jamietanna)
 - [_Announcing spring-content-negotiator, a Java Library for Content Negotiation with Spring_](https://www.jvt.me/posts/2022/01/30/spring-content-negotiator/?utm_campaign=github-jamietanna)
 - [_Getting Started with jMolecules and the (Classical) Onion Architecture, with a Spring Boot project_](https://www.jvt.me/posts/2022/01/28/spring-boot-onion-architecture/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#03_](https://www.jvt.me/week-notes/2022/03/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -31,11 +31,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_stenh0use/docker-machine-for-mac: Docker Machine for Mac - an alternative to Docker for Mac_](https://github.com/stenh0use/docker-machine-for-mac?utm_campaign=github-jamietanna)
+- [_Quiq/webauthn_proxy: Proxy for enforcing webauthn authentication, written in Go_](https://github.com/Quiq/webauthn_proxy?utm_campaign=github-jamietanna)
 - [_JSON Serialization Benchmarks_](https://zacsweers.github.io/json-serialization-benchmarking/?utm_campaign=github-jamietanna)
 - [_Prefer to change the code rather than write a workaround_](https://catern.com/change_code.html?utm_campaign=github-jamietanna)
 - [_Linux system service bug gives root on all major distros, exploit released_](https://www.bleepingcomputer.com/news/security/linux-system-service-bug-gives-root-on-all-major-distros-exploit-released/?utm_campaign=github-jamietanna)
-- [_The truth about starting with microservices – Arnold Galovics_](https://arnoldgalovics.com/truth-about-microservices/?utm_campaign=github-jamietanna)
-- [_Don’t start with microservices – monoliths are your friend – Arnold Galovics_](https://arnoldgalovics.com/microservices-in-production/?utm_campaign=github-jamietanna)
 
 ---
 
