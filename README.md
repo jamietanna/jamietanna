@@ -11,20 +11,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Running Swagger UI to Verify Local OpenAPI/Swagger Documents_](https://www.jvt.me/posts/2022/01/31/swagger-ui-local/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#04_](https://www.jvt.me/week-notes/2022/04/?utm_campaign=github-jamietanna)
 - [_Create Executables, not Shell Aliases or Functions_](https://www.jvt.me/posts/2022/01/30/executables-not-aliases/?utm_campaign=github-jamietanna)
-- [_Announcing spring-content-negotiator, a Java Library for Content Negotiation with Spring_](https://www.jvt.me/posts/2022/01/30/spring-content-negotiator/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Running Swagger UI to Verify Local OpenAPI/Swagger Documents_](https://www.jvt.me/posts/2022/01/31/swagger-ui-local/?utm_campaign=github-jamietanna)
 - [_Getting Started with jMolecules and the (Classical) Onion Architecture, with a Spring Boot project_](https://www.jvt.me/posts/2022/01/28/spring-boot-onion-architecture/?utm_campaign=github-jamietanna)
 - [_How to Create and Unit Test Java Bean Validation Annotations_](https://www.jvt.me/posts/2022/01/23/java-bean-validation/?utm_campaign=github-jamietanna)
 - [_Codifying Your Technical / Architectural Standards with ArchUnit_](https://www.jvt.me/posts/2022/01/21/code-standards-archunit/?utm_campaign=github-jamietanna)
 - [_Appending to a Querystring using Go_](https://www.jvt.me/posts/2022/01/20/go-append-querystring/?utm_campaign=github-jamietanna)
-- [_Simplifying Spring (Boot) ExceptionHandlers with ResponseStatus Annotations_](https://www.jvt.me/posts/2022/01/20/spring-annotation-exceptions/?utm_campaign=github-jamietanna)
 
 ---
 
