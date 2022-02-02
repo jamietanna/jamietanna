@@ -11,31 +11,31 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Validating a MockMvc Response Has No Content Type_](https://www.jvt.me/posts/2022/02/02/mockmvc-no-content-type/?utm_campaign=github-jamietanna)
 - [_Replacing Text in Vim with the Output of a Command_](https://www.jvt.me/posts/2022/02/01/vim-replace-with-command-execution/?utm_campaign=github-jamietanna)
 - [_Integration Testing Your Spring RestTemplates with RestClientTest_](https://www.jvt.me/posts/2022/02/01/resttemplate-integration-test/?utm_campaign=github-jamietanna)
-- [_Running Swagger UI to Verify Local OpenAPI/Swagger Documents_](https://www.jvt.me/posts/2022/01/31/swagger-ui-local/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Validating a MockMvc Response Has No Content Type_](https://www.jvt.me/posts/2022/02/02/mockmvc-no-content-type/?utm_campaign=github-jamietanna)
 - [_Replacing Text in Vim with the Output of a Command_](https://www.jvt.me/posts/2022/02/01/vim-replace-with-command-execution/?utm_campaign=github-jamietanna)
 - [_Integration Testing Your Spring RestTemplates with RestClientTest_](https://www.jvt.me/posts/2022/02/01/resttemplate-integration-test/?utm_campaign=github-jamietanna)
 - [_Running Swagger UI to Verify Local OpenAPI/Swagger Documents_](https://www.jvt.me/posts/2022/01/31/swagger-ui-local/?utm_campaign=github-jamietanna)
 - [_Getting Started with jMolecules and the (Classical) Onion Architecture, with a Spring Boot project_](https://www.jvt.me/posts/2022/01/28/spring-boot-onion-architecture/?utm_campaign=github-jamietanna)
-- [_How to Create and Unit Test Java Bean Validation Annotations_](https://www.jvt.me/posts/2022/01/23/java-bean-validation/?utm_campaign=github-jamietanna)
 
 ---
 
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Opinion | The Case Against Loving Your Job - The New York Times_](https://www.nytimes.com/2021/11/19/opinion/ezra-klein-podcast-sarah-jaffe.html?utm_campaign=github-jamietanna)
 - [_Do you feel burnt out? Know that it’s not just about working too much | Caroline Dooner_](https://www.theguardian.com/commentisfree/2022/feb/01/burnout-not-just-about-working-too-much?utm_campaign=github-jamietanna)
 - [_Feed Your Email - Send newsletters to your feed reader_](https://feedyour.email/?utm_campaign=github-jamietanna)
 - [_Reclaiming the lost art of Linux server administration_](https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration/?utm_campaign=github-jamietanna)
 - [_goldbergyoni/nodebestpractices: The Node.js best practices list (January 2022)_](https://github.com/goldbergyoni/nodebestpractices?utm_campaign=github-jamietanna)
-- [_stenh0use/docker-machine-for-mac: Docker Machine for Mac - an alternative to Docker for Mac_](https://github.com/stenh0use/docker-machine-for-mac?utm_campaign=github-jamietanna)
 
 ---
 
