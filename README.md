@@ -31,11 +31,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Do you feel burnt out? Know that it’s not just about working too much | Caroline Dooner_](https://www.theguardian.com/commentisfree/2022/feb/01/burnout-not-just-about-working-too-much?utm_campaign=github-jamietanna)
 - [_Feed Your Email - Send newsletters to your feed reader_](https://feedyour.email/?utm_campaign=github-jamietanna)
 - [_Reclaiming the lost art of Linux server administration_](https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration/?utm_campaign=github-jamietanna)
 - [_goldbergyoni/nodebestpractices: The Node.js best practices list (January 2022)_](https://github.com/goldbergyoni/nodebestpractices?utm_campaign=github-jamietanna)
 - [_stenh0use/docker-machine-for-mac: Docker Machine for Mac - an alternative to Docker for Mac_](https://github.com/stenh0use/docker-machine-for-mac?utm_campaign=github-jamietanna)
-- [_Quiq/webauthn_proxy: Proxy for enforcing webauthn authentication, written in Go_](https://github.com/Quiq/webauthn_proxy?utm_campaign=github-jamietanna)
 
 ---
 
