@@ -11,20 +11,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Generate Plain Old Java Objects (POJOs) from OpenAPI Model Definitions with Gradle_](https://www.jvt.me/posts/2022/02/05/gradle-openapi-pojo/?utm_campaign=github-jamietanna)
 - [_Running Elements API Viewer to Verify Local OpenAPI/Swagger Documents_](https://www.jvt.me/posts/2022/02/03/elements-local/?utm_campaign=github-jamietanna)
 - [_I don't think you should be logging that? 😳_](https://www.jvt.me/posts/2022/02/03/common-dangerous-logs/?utm_campaign=github-jamietanna)
-- [_Validating a MockMvc Response Has No Content Type_](https://www.jvt.me/posts/2022/02/02/mockmvc-no-content-type/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Generate Plain Old Java Objects (POJOs) from OpenAPI Model Definitions with Gradle_](https://www.jvt.me/posts/2022/02/05/gradle-openapi-pojo/?utm_campaign=github-jamietanna)
 - [_Running Elements API Viewer to Verify Local OpenAPI/Swagger Documents_](https://www.jvt.me/posts/2022/02/03/elements-local/?utm_campaign=github-jamietanna)
 - [_I don't think you should be logging that? 😳_](https://www.jvt.me/posts/2022/02/03/common-dangerous-logs/?utm_campaign=github-jamietanna)
 - [_Validating a MockMvc Response Has No Content Type_](https://www.jvt.me/posts/2022/02/02/mockmvc-no-content-type/?utm_campaign=github-jamietanna)
 - [_Replacing Text in Vim with the Output of a Command_](https://www.jvt.me/posts/2022/02/01/vim-replace-with-command-execution/?utm_campaign=github-jamietanna)
-- [_Integration Testing Your Spring RestTemplates with RestClientTest_](https://www.jvt.me/posts/2022/02/01/resttemplate-integration-test/?utm_campaign=github-jamietanna)
 
 ---
 
