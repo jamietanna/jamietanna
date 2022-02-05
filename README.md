@@ -31,11 +31,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Lock-in and Multi-Cloud_](https://www.tbray.org/ongoing/When/202x/2022/01/30/Cloud-Lock-In?utm_campaign=github-jamietanna)
 - [_Building a Reliable Cloud-Based Bank in Java_](https://www.infoq.com/presentations/starling-bank/?utm_campaign=github-jamietanna)
 - [_Opinion | The Case Against Loving Your Job - The New York Times_](https://www.nytimes.com/2021/11/19/opinion/ezra-klein-podcast-sarah-jaffe.html?utm_campaign=github-jamietanna)
 - [_Do you feel burnt out? Know that it’s not just about working too much | Caroline Dooner_](https://www.theguardian.com/commentisfree/2022/feb/01/burnout-not-just-about-working-too-much?utm_campaign=github-jamietanna)
 - [_Feed Your Email - Send newsletters to your feed reader_](https://feedyour.email/?utm_campaign=github-jamietanna)
-- [_Reclaiming the lost art of Linux server administration_](https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration/?utm_campaign=github-jamietanna)
 
 ---
 
