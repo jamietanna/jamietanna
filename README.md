@@ -11,20 +11,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Generating Favicons using ImageMagick on the Command-Line_](https://www.jvt.me/posts/2022/02/07/favicon-cli/?utm_campaign=github-jamietanna)
 - [_Please Add a Relevant Publish Time to Blog Posts_](https://www.jvt.me/posts/2022/02/07/blog-publish-date/?utm_campaign=github-jamietanna)
 - [_Excluding Filters When using WebMvcTest_](https://www.jvt.me/posts/2022/02/07/webmvctest-exclude-filter/?utm_campaign=github-jamietanna)
-- [_Capturing HTTP Requests with okhttp's MockWebServer.takeRequest_](https://www.jvt.me/posts/2022/02/07/okhttp-mockwebserver-takerequest/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Generating Favicons using ImageMagick on the Command-Line_](https://www.jvt.me/posts/2022/02/07/favicon-cli/?utm_campaign=github-jamietanna)
 - [_Excluding Filters When using WebMvcTest_](https://www.jvt.me/posts/2022/02/07/webmvctest-exclude-filter/?utm_campaign=github-jamietanna)
 - [_Capturing HTTP Requests with okhttp's MockWebServer.takeRequest_](https://www.jvt.me/posts/2022/02/07/okhttp-mockwebserver-takerequest/?utm_campaign=github-jamietanna)
 - [_Integration Testing Your Spring WebClients with okhttp's MockWebServer_](https://www.jvt.me/posts/2022/02/07/webclient-integration-test/?utm_campaign=github-jamietanna)
 - [_Generate Plain Old Java Objects (POJOs) from OpenAPI Model Definitions with Gradle_](https://www.jvt.me/posts/2022/02/05/gradle-openapi-pojo/?utm_campaign=github-jamietanna)
-- [_Running Elements API Viewer to Verify Local OpenAPI/Swagger Documents_](https://www.jvt.me/posts/2022/02/03/elements-local/?utm_campaign=github-jamietanna)
 
 ---
 
