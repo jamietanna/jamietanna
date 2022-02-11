@@ -31,11 +31,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Patterns for Authorization in Microservices_](https://www.osohq.com/post/microservices-authorization-patterns?utm_campaign=github-jamietanna)
 - [_Checklist to service: scaling Stripe’s incident response_](https://retool.com/blog/incident-response-tools-stripe/?utm_campaign=github-jamietanna)
 - [_Request bodies in GET requests_](https://evertpot.com/get-request-bodies/?utm_campaign=github-jamietanna)
 - [_The naive Lambda-as-transaction-coordinator pattern | Serverless First_](https://serverlessfirst.com/emails/the-naive-lambda-as-transaction-coordinator-pattern/?utm_campaign=github-jamietanna)
 - [_Precision In Technical Discussions_](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html?utm_campaign=github-jamietanna)
-- [_Contract Testing a Laravel API with OpenAPI | APIs You Won't Hate_](https://apisyouwonthate.com/blog/contract-testing-apis-laravel-php-openapi?utm_campaign=github-jamietanna)
 
 ---
 
