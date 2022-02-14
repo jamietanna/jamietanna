@@ -11,9 +11,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#06_](https://www.jvt.me/week-notes/2022/06/?utm_campaign=github-jamietanna)
 - [_Adding a Wiretap to a Spring WebFlux WebClient to Log All Request/Response Data_](https://www.jvt.me/posts/2022/02/13/log-webflux-client/?utm_campaign=github-jamietanna)
 - [_Determining if the Spring Boot Application is Running in Debug or Trace Mode_](https://www.jvt.me/posts/2022/02/13/spring-debug-mode/?utm_campaign=github-jamietanna)
-- [_Simplifying Spring (Boot) on Handling by extending ResponseStatusException_](https://www.jvt.me/posts/2022/02/12/spring-responsestatusexception/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -39,7 +39,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#05](https://www.jvt.me/week-notes/2022/05/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#06](https://www.jvt.me/week-notes/2022/06/?utm_campaign=github-jamietanna).
 
 ---
 
