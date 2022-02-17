@@ -11,31 +11,31 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Combining an Audio-only and Video-only MP4 with ffmpeg on the command-line_](https://www.jvt.me/posts/2022/02/17/ffmpeg-combine-mp4/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#06_](https://www.jvt.me/week-notes/2022/06/?utm_campaign=github-jamietanna)
 - [_Adding a Wiretap to a Spring WebFlux WebClient to Log All Request/Response Data_](https://www.jvt.me/posts/2022/02/13/log-webflux-client/?utm_campaign=github-jamietanna)
-- [_Determining if the Spring Boot Application is Running in Debug or Trace Mode_](https://www.jvt.me/posts/2022/02/13/spring-debug-mode/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Combining an Audio-only and Video-only MP4 with ffmpeg on the command-line_](https://www.jvt.me/posts/2022/02/17/ffmpeg-combine-mp4/?utm_campaign=github-jamietanna)
 - [_Adding a Wiretap to a Spring WebFlux WebClient to Log All Request/Response Data_](https://www.jvt.me/posts/2022/02/13/log-webflux-client/?utm_campaign=github-jamietanna)
 - [_Determining if the Spring Boot Application is Running in Debug or Trace Mode_](https://www.jvt.me/posts/2022/02/13/spring-debug-mode/?utm_campaign=github-jamietanna)
 - [_Simplifying Spring (Boot) on Handling by extending ResponseStatusException_](https://www.jvt.me/posts/2022/02/12/spring-responsestatusexception/?utm_campaign=github-jamietanna)
 - [_Bundling Multi-File OpenAPI Documents into a Single File_](https://www.jvt.me/posts/2022/02/10/bundle-openapi/?utm_campaign=github-jamietanna)
-- [_Generating Favicons using ImageMagick on the Command-Line_](https://www.jvt.me/posts/2022/02/07/favicon-cli/?utm_campaign=github-jamietanna)
 
 ---
 
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_From Tumblr girl to engineer: How the platform inspired a generation of women to code_](https://mashable.com/article/tumblr-girl-learn-code?utm_campaign=github-jamietanna)
 - [_When you're a manager, your behavior is under a microscope - Jacob Kaplan-Moss_](https://jacobian.org/2021/oct/26/manager-microscope/?utm_campaign=github-jamietanna)
 - [_Code that Doesn’t Rot_](https://pointersgonewild.com/2022/02/11/code-that-doesnt-rot/?utm_campaign=github-jamietanna)
 - [_The case against serverless_](https://blog.cyborch.com/the-case-against-serverless/?utm_campaign=github-jamietanna)
 - [_Patterns for Authorization in Microservices_](https://www.osohq.com/post/microservices-authorization-patterns?utm_campaign=github-jamietanna)
-- [_Checklist to service: scaling Stripe’s incident response_](https://retool.com/blog/incident-response-tools-stripe/?utm_campaign=github-jamietanna)
 
 ---
 
