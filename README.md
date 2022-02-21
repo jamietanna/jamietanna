@@ -11,9 +11,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#07_](https://www.jvt.me/week-notes/2022/07/?utm_campaign=github-jamietanna)
 - [_Exporting a Git repo as an archive_](https://www.jvt.me/posts/2022/02/18/git-export-archive/?utm_campaign=github-jamietanna)
 - [_How to interpolate a property inside Spring Security @PreAuthorize / @PostAuthorize_](https://www.jvt.me/posts/2022/02/17/spring-security-value-preauthorize/?utm_campaign=github-jamietanna)
-- [_Combining an Audio-only and Video-only MP4 with ffmpeg on the command-line_](https://www.jvt.me/posts/2022/02/17/ffmpeg-combine-mp4/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -39,7 +39,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#06](https://www.jvt.me/week-notes/2022/06/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#07](https://www.jvt.me/week-notes/2022/07/?utm_campaign=github-jamietanna).
 
 ---
 
