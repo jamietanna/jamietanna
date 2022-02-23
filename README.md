@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Creating a "Manual of Me"_](https://www.jvt.me/posts/2022/02/23/manual-of-me/?utm_campaign=github-jamietanna)
 - [_Pretty Printing JSON on the Command Line with Go_](https://www.jvt.me/posts/2022/02/21/go-json-pretty-print/?utm_campaign=github-jamietanna)
 - [_Reading all of stdin on the command-line with Go_](https://www.jvt.me/posts/2022/02/21/go-stdin/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#07_](https://www.jvt.me/week-notes/2022/07/?utm_campaign=github-jamietanna)
 
 ---
 
