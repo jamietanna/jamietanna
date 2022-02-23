@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Why do we need API design guidelines?_](https://apihandyman.io/why-do-we-need-api-design-guidelines/?utm_campaign=github-jamietanna)
+- [_Why Change Jobs?_](https://candost.blog/do-not-change-jobs/?utm_campaign=github-jamietanna)
 - [_Using a federated model for API discovery in government - Data in government_](https://dataingovernment.blog.gov.uk/2022/02/18/using-a-federated-model-for-api-discovery-in-government/?utm_campaign=github-jamietanna)
 - [_From Tumblr girl to engineer: How the platform inspired a generation of women to code_](https://mashable.com/article/tumblr-girl-learn-code?utm_campaign=github-jamietanna)
 - [_When you're a manager, your behavior is under a microscope - Jacob Kaplan-Moss_](https://jacobian.org/2021/oct/26/manager-microscope/?utm_campaign=github-jamietanna)
-- [_Code that Doesn’t Rot_](https://pointersgonewild.com/2022/02/11/code-that-doesnt-rot/?utm_campaign=github-jamietanna)
-- [_The case against serverless_](https://blog.cyborch.com/the-case-against-serverless/?utm_campaign=github-jamietanna)
 
 ---
 
