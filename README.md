@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#08_](https://www.jvt.me/week-notes/2022/08/?utm_campaign=github-jamietanna)
 - [_Converting Spring Boot Property Variables to Environment Variables with Go_](https://www.jvt.me/posts/2022/02/26/spring-environment-variable-go/?utm_campaign=github-jamietanna)
 - [_Pretty Printing JSON Web Tokens (JWTs) on the Command Line using Go_](https://www.jvt.me/posts/2022/02/26/pretty-printing-jwt-go/?utm_campaign=github-jamietanna)
-- [_Gotcha: Field casing is important when marshalling structs to JSON in Go_](https://www.jvt.me/posts/2022/02/25/go-struct-json-case-gotcha/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -41,7 +41,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#07](https://www.jvt.me/week-notes/2022/07/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#08](https://www.jvt.me/week-notes/2022/08/?utm_campaign=github-jamietanna).
 
 ---
 
