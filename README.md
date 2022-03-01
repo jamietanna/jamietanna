@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Introducing a Go command-line tool for interacting with Micropub servers_](https://www.jvt.me/posts/2022/03/01/micropub-go-cli/?utm_campaign=github-jamietanna)
 - [_Automagically formatting on save, with Neovim and Language Server Protocol (LSP)_](https://www.jvt.me/posts/2022/03/01/neovim-format-on-save/?utm_campaign=github-jamietanna)
 - [_Gotcha: Segfault when HTTP headers include newlines with Go_](https://www.jvt.me/posts/2022/02/28/go-segfault-http-newline/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#08_](https://www.jvt.me/week-notes/2022/08/?utm_campaign=github-jamietanna)
 
 ---
 
