@@ -13,20 +13,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Automagically formatting on save, with Neovim and Language Server Protocol (LSP)_](https://www.jvt.me/posts/2022/03/01/neovim-format-on-save/?utm_campaign=github-jamietanna)
 - [_Gotcha: Segfault when HTTP headers include newlines with Go_](https://www.jvt.me/posts/2022/02/28/go-segfault-http-newline/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#08_](https://www.jvt.me/week-notes/2022/08/?utm_campaign=github-jamietanna)
-- [_Converting Spring Boot Property Variables to Environment Variables with Go_](https://www.jvt.me/posts/2022/02/26/spring-environment-variable-go/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Automagically formatting on save, with Neovim and Language Server Protocol (LSP)_](https://www.jvt.me/posts/2022/03/01/neovim-format-on-save/?utm_campaign=github-jamietanna)
 - [_Gotcha: Segfault when HTTP headers include newlines with Go_](https://www.jvt.me/posts/2022/02/28/go-segfault-http-newline/?utm_campaign=github-jamietanna)
 - [_Converting Spring Boot Property Variables to Environment Variables with Go_](https://www.jvt.me/posts/2022/02/26/spring-environment-variable-go/?utm_campaign=github-jamietanna)
 - [_Pretty Printing JSON Web Tokens (JWTs) on the Command Line using Go_](https://www.jvt.me/posts/2022/02/26/pretty-printing-jwt-go/?utm_campaign=github-jamietanna)
 - [_Gotcha: Field casing is important when marshalling structs to JSON in Go_](https://www.jvt.me/posts/2022/02/25/go-struct-json-case-gotcha/?utm_campaign=github-jamietanna)
-- [_Testing @Scheduled annotations with Spring (Boot)_](https://www.jvt.me/posts/2022/02/25/spring-scheduled-test/?utm_campaign=github-jamietanna)
 
 ---
 
