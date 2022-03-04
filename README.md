@@ -13,20 +13,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
-- [_Running a command on a visual selection in Vim_](https://www.jvt.me/posts/2022/03/03/vim-command-visual-selection/?utm_campaign=github-jamietanna)
-- [_Updating the CA Certificate bundle in Chef Installations_](https://www.jvt.me/posts/2022/03/02/chefdk-update-cacerts/?utm_campaign=github-jamietanna)
-- [_Introducing a Go command-line tool for interacting with Micropub servers_](https://www.jvt.me/posts/2022/03/01/micropub-go-cli/?utm_campaign=github-jamietanna)
+- [_Generate a running mock server from an OpenAPI specification using Prism_](https://www.jvt.me/posts/2022/03/04/openapi-local-prism/?utm_campaign=github-jamietanna)
+- [_Gotcha: checked and unchecked exception handling from Spring WebFlux WebClient_](https://www.jvt.me/posts/2022/03/04/spring-webflux-exceptions/?utm_campaign=github-jamietanna)
+- [_Accessing the response body with Spring WebFlux WebClient with onStatus_](https://www.jvt.me/posts/2022/03/04/spring-webflux-onstatus-body/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Generate a running mock server from an OpenAPI specification using Prism_](https://www.jvt.me/posts/2022/03/04/openapi-local-prism/?utm_campaign=github-jamietanna)
+- [_Gotcha: checked and unchecked exception handling from Spring WebFlux WebClient_](https://www.jvt.me/posts/2022/03/04/spring-webflux-exceptions/?utm_campaign=github-jamietanna)
+- [_Accessing the response body with Spring WebFlux WebClient with onStatus_](https://www.jvt.me/posts/2022/03/04/spring-webflux-onstatus-body/?utm_campaign=github-jamietanna)
 - [_Running a command on a visual selection in Vim_](https://www.jvt.me/posts/2022/03/03/vim-command-visual-selection/?utm_campaign=github-jamietanna)
 - [_Updating the CA Certificate bundle in Chef Installations_](https://www.jvt.me/posts/2022/03/02/chefdk-update-cacerts/?utm_campaign=github-jamietanna)
-- [_Automagically formatting on save, with Neovim and Language Server Protocol (LSP)_](https://www.jvt.me/posts/2022/03/01/neovim-format-on-save/?utm_campaign=github-jamietanna)
-- [_Gotcha: Segfault when HTTP headers include newlines with Go_](https://www.jvt.me/posts/2022/02/28/go-segfault-http-newline/?utm_campaign=github-jamietanna)
-- [_Converting Spring Boot Property Variables to Environment Variables with Go_](https://www.jvt.me/posts/2022/02/26/spring-environment-variable-go/?utm_campaign=github-jamietanna)
 
 ---
 
