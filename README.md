@@ -13,31 +13,31 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Converting an x5c from a JSON Web Key to a PEM with Node.JS_](https://www.jvt.me/posts/2022/03/06/jwks-to-pem-node/?utm_campaign=github-jamietanna)
+- [_Converting an x5c from a JSON Web Key to a PEM with Node.JS_](https://www.jvt.me/posts/2022/03/06/x5c-to-pem-node/?utm_campaign=github-jamietanna)
 - [_Generate a running mock server from an OpenAPI specification using Prism_](https://www.jvt.me/posts/2022/03/04/openapi-local-prism/?utm_campaign=github-jamietanna)
-- [_Gotcha: checked and unchecked exception handling from Spring WebFlux WebClient_](https://www.jvt.me/posts/2022/03/04/spring-webflux-exceptions/?utm_campaign=github-jamietanna)
-- [_Accessing the response body with Spring WebFlux WebClient with onStatus_](https://www.jvt.me/posts/2022/03/04/spring-webflux-onstatus-body/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Converting an x5c from a JSON Web Key to a PEM with Node.JS_](https://www.jvt.me/posts/2022/03/06/jwks-to-pem-node/?utm_campaign=github-jamietanna)
+- [_Converting an x5c from a JSON Web Key to a PEM with Node.JS_](https://www.jvt.me/posts/2022/03/06/x5c-to-pem-node/?utm_campaign=github-jamietanna)
 - [_Generate a running mock server from an OpenAPI specification using Prism_](https://www.jvt.me/posts/2022/03/04/openapi-local-prism/?utm_campaign=github-jamietanna)
 - [_Gotcha: checked and unchecked exception handling from Spring WebFlux WebClient_](https://www.jvt.me/posts/2022/03/04/spring-webflux-exceptions/?utm_campaign=github-jamietanna)
 - [_Accessing the response body with Spring WebFlux WebClient with onStatus_](https://www.jvt.me/posts/2022/03/04/spring-webflux-onstatus-body/?utm_campaign=github-jamietanna)
-- [_Running a command on a visual selection in Vim_](https://www.jvt.me/posts/2022/03/03/vim-command-visual-selection/?utm_campaign=github-jamietanna)
-- [_Updating the CA Certificate bundle in Chef Installations_](https://www.jvt.me/posts/2022/03/02/chefdk-update-cacerts/?utm_campaign=github-jamietanna)
 
 ---
 
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_How we automatically fixed thousands of Ruby 2.7 deprecation warnings_](https://about.gitlab.com/blog/2021/02/03/how-we-automatically-fixed-hundreds-of-ruby-2-7-deprecation-warnings/?utm_campaign=github-jamietanna)
 - [_Building robust distributed systems | Kislay Verma_](https://kislayverma.com/software-architecture/building-robust-distributed-systems/?utm_campaign=github-jamietanna)
 - [_Why do we need API design guidelines?_](https://apihandyman.io/why-do-we-need-api-design-guidelines/?utm_campaign=github-jamietanna)
 - [_Why Change Jobs?_](https://candost.blog/do-not-change-jobs/?utm_campaign=github-jamietanna)
 - [_Using a federated model for API discovery in government - Data in government_](https://dataingovernment.blog.gov.uk/2022/02/18/using-a-federated-model-for-api-discovery-in-government/?utm_campaign=github-jamietanna)
-- [_From Tumblr girl to engineer: How the platform inspired a generation of women to code_](https://mashable.com/article/tumblr-girl-learn-code?utm_campaign=github-jamietanna)
 
 ---
 
