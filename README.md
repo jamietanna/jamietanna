@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#09_](https://www.jvt.me/week-notes/2022/09/?utm_campaign=github-jamietanna)
 - [_Converting an x5c from a JSON Web Key to a PEM with Node.JS_](https://www.jvt.me/posts/2022/03/06/x5c-to-pem-node/?utm_campaign=github-jamietanna)
 - [_Extracting x5cs from a JSON Web Key Set (JWKS) to PEM files with Node.js_](https://www.jvt.me/posts/2022/03/06/jwks-to-pem-node/?utm_campaign=github-jamietanna)
-- [_Generate a running mock server from an OpenAPI specification using Prism_](https://www.jvt.me/posts/2022/03/04/openapi-local-prism/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -41,7 +41,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#08](https://www.jvt.me/week-notes/2022/08/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#09](https://www.jvt.me/week-notes/2022/09/?utm_campaign=github-jamietanna).
 
 ---
 
