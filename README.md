@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_w3id.org - Permanent Identifiers for the Web_](https://w3id.org/?utm_campaign=github-jamietanna)
 - [_Just say no to `:latest` - Platformers_](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/?utm_campaign=github-jamietanna)
 - [_Retrieving your browsing history through a CAPTCHA_](https://varun.ch/history?utm_campaign=github-jamietanna)
 - [_How we automatically fixed thousands of Ruby 2.7 deprecation warnings_](https://about.gitlab.com/blog/2021/02/03/how-we-automatically-fixed-hundreds-of-ruby-2-7-deprecation-warnings/?utm_campaign=github-jamietanna)
 - [_Building robust distributed systems | Kislay Verma_](https://kislayverma.com/software-architecture/building-robust-distributed-systems/?utm_campaign=github-jamietanna)
-- [_Why do we need API design guidelines?_](https://apihandyman.io/why-do-we-need-api-design-guidelines/?utm_campaign=github-jamietanna)
 
 ---
 
