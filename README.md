@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Rewriting Bash scripts in Go using black box testing_](https://stackoverflow.blog/2022/03/09/rewriting-bash-scripts-in-go-using-black-box-testing/?utm_campaign=github-jamietanna)
+- [_A sysadmin's rant about feed readers and crawlers_](https://rachelbythebay.com/w/2022/03/07/get/?utm_campaign=github-jamietanna)
 - [_Behind the Twitter Bot Posting the Gender Pay Gap of Brands Celebrating IWD_](https://www.vice.com/en/article/m7vkpx/who-made-gender-pay-gap-bot-international-womens-day?utm_campaign=github-jamietanna)
 - [_w3id.org - Permanent Identifiers for the Web_](https://w3id.org/?utm_campaign=github-jamietanna)
 - [_Just say no to `:latest` - Platformers_](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/?utm_campaign=github-jamietanna)
-- [_Retrieving your browsing history through a CAPTCHA_](https://varun.ch/history?utm_campaign=github-jamietanna)
-- [_How we automatically fixed thousands of Ruby 2.7 deprecation warnings_](https://about.gitlab.com/blog/2021/02/03/how-we-automatically-fixed-hundreds-of-ruby-2-7-deprecation-warnings/?utm_campaign=github-jamietanna)
 
 ---
 
