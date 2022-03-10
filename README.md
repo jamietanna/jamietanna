@@ -13,20 +13,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_How to fix Failed to load ApplicationContext in Spring (Boot) applications_](https://www.jvt.me/posts/2022/03/10/spring-failed-applicationcontext/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#09_](https://www.jvt.me/week-notes/2022/09/?utm_campaign=github-jamietanna)
 - [_Converting an x5c from a JSON Web Key to a PEM with Node.JS_](https://www.jvt.me/posts/2022/03/06/x5c-to-pem-node/?utm_campaign=github-jamietanna)
-- [_Extracting x5cs from a JSON Web Key Set (JWKS) to PEM files with Node.js_](https://www.jvt.me/posts/2022/03/06/jwks-to-pem-node/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_How to fix Failed to load ApplicationContext in Spring (Boot) applications_](https://www.jvt.me/posts/2022/03/10/spring-failed-applicationcontext/?utm_campaign=github-jamietanna)
 - [_Converting an x5c from a JSON Web Key to a PEM with Node.JS_](https://www.jvt.me/posts/2022/03/06/x5c-to-pem-node/?utm_campaign=github-jamietanna)
 - [_Extracting x5cs from a JSON Web Key Set (JWKS) to PEM files with Node.js_](https://www.jvt.me/posts/2022/03/06/jwks-to-pem-node/?utm_campaign=github-jamietanna)
 - [_Generate a running mock server from an OpenAPI specification using Prism_](https://www.jvt.me/posts/2022/03/04/openapi-local-prism/?utm_campaign=github-jamietanna)
 - [_Gotcha: checked and unchecked exception handling from Spring WebFlux WebClient_](https://www.jvt.me/posts/2022/03/04/spring-webflux-exceptions/?utm_campaign=github-jamietanna)
-- [_Accessing the response body with Spring WebFlux WebClient with onStatus_](https://www.jvt.me/posts/2022/03/04/spring-webflux-onstatus-body/?utm_campaign=github-jamietanna)
 
 ---
 
