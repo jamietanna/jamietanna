@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Introducing opengraph-mf2 a library, and service opengraph-mf2.tanna.dev, for converting OpenGraph metadata to Microformats2_](https://www.jvt.me/posts/2022/03/14/opengraph-mf2/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#10_](https://www.jvt.me/week-notes/2022/10/?utm_campaign=github-jamietanna)
 - [_How to fix Failed to load ApplicationContext in Spring (Boot) applications_](https://www.jvt.me/posts/2022/03/10/spring-failed-applicationcontext/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#09_](https://www.jvt.me/week-notes/2022/09/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Tech Debts_](https://pauldambra.dev/2021/07/tech-debts.html?utm_campaign=github-jamietanna)
 - [_More Than a Dozen Command Line Tools I've Written—and So Can You! · The Ethically-Trained Programmer_](https://blog.carlmjohnson.net/post/2018/go-cli-tools/?utm_campaign=github-jamietanna)
 - [_How to design better APIs_](https://r.bluethl.net/how-to-design-better-apis?utm_campaign=github-jamietanna)
 - [_Rewriting Bash scripts in Go using black box testing_](https://stackoverflow.blog/2022/03/09/rewriting-bash-scripts-in-go-using-black-box-testing/?utm_campaign=github-jamietanna)
 - [_A sysadmin's rant about feed readers and crawlers_](https://rachelbythebay.com/w/2022/03/07/get/?utm_campaign=github-jamietanna)
-- [_Behind the Twitter Bot Posting the Gender Pay Gap of Brands Celebrating IWD_](https://www.vice.com/en/article/m7vkpx/who-made-gender-pay-gap-bot-international-womens-day?utm_campaign=github-jamietanna)
 
 ---
 
