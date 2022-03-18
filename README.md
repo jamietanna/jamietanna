@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Wordle to yaml | Katy DeCorah_](https://katydecorah.com/code/wordle-to-yaml/?utm_campaign=github-jamietanna)
 - [_API Warfare_](https://matt-rickard.com/api-warfare/?utm_campaign=github-jamietanna)
 - [_Avoid using else - Freek Van der Herten's blog on PHP, Laravel and JavaScript_](https://freek.dev/2212-avoid-using-else?utm_campaign=github-jamietanna)
 - [_Why does java.net.URL's hashcode resolve the host to an IP? - Stack Overflow_](https://stackoverflow.com/questions/2348399/why-does-java-net-urls-hashcode-resolve-the-host-to-an-ip?utm_campaign=github-jamietanna)
 - [_Tech Debts_](https://pauldambra.dev/2021/07/tech-debts.html?utm_campaign=github-jamietanna)
-- [_More Than a Dozen Command Line Tools I've Written—and So Can You! · The Ethically-Trained Programmer_](https://blog.carlmjohnson.net/post/2018/go-cli-tools/?utm_campaign=github-jamietanna)
 
 ---
 
