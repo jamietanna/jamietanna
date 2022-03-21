@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#11_](https://www.jvt.me/week-notes/2022/11/?utm_campaign=github-jamietanna)
 - [_Accessing the OpenAPI Specification for a Kubernetes Cluster_](https://www.jvt.me/posts/2022/03/16/kubernetes-openapi/?utm_campaign=github-jamietanna)
 - [_Solving ConnectExceptions with the Kubernetes Java ApiClient_](https://www.jvt.me/posts/2022/03/16/kubernetes-connectionexception-java/?utm_campaign=github-jamietanna)
-- [_Automagically Auditing GitHub (Actions) Security using OpenSSF Scorecards_](https://www.jvt.me/posts/2022/03/15/github-actions-supply-chain-security/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -41,7 +41,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#10](https://www.jvt.me/week-notes/2022/10/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#11](https://www.jvt.me/week-notes/2022/11/?utm_campaign=github-jamietanna).
 
 ---
 
