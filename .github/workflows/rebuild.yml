@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install readme-generator
-        run: go install gitlab.com/jamietanna/readme-generator@latest
+        run: go install gitlab.com/jamietanna/readme-generator@main
 
       - name: "Generate README.md"
         run: env README_HOST=github readme-generator > README.md
