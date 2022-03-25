@@ -35,9 +35,9 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 - [_Looking for a job while looking after yourself_](https://carol.gg/blog/looking-for-a-job/?utm_campaign=github-jamietanna)
 - [_Wordle to yaml_](https://katydecorah.com/code/wordle-to-yaml/?utm_campaign=github-jamietanna)
-- [_https://matt-rickard.com/api-warfare/_](https://matt-rickard.com/api-warfare/?utm_campaign=github-jamietanna)
-- [_https://freek.dev/2212-avoid-using-else_](https://freek.dev/2212-avoid-using-else?utm_campaign=github-jamietanna)
-- [_https://stackoverflow.com/questions/2348399/why-does-java-net-urls-hashcode-resolve-the-host-to-an-ip_](https://stackoverflow.com/questions/2348399/why-does-java-net-urls-hashcode-resolve-the-host-to-an-ip?utm_campaign=github-jamietanna)
+- [_API Warfare_](https://matt-rickard.com/api-warfare/?utm_campaign=github-jamietanna)
+- [_Avoid using else | freek.dev_](https://freek.dev/2212-avoid-using-else?utm_campaign=github-jamietanna)
+- [_Why does java.net.URL's hashcode resolve the host to an IP?_](https://stackoverflow.com/questions/2348399/why-does-java-net-urls-hashcode-resolve-the-host-to-an-ip?utm_campaign=github-jamietanna)
 
 ---
 
