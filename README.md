@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_https://opensource.org/open-source-protestware-harms-open-source_](https://opensource.org/open-source-protestware-harms-open-source?utm_campaign=github-jamietanna)
 - [_You Need Feeds_](https://www.youneedfeeds.com?utm_campaign=github-jamietanna)
 - [_Russian plugin, go fuck yourself – Hi, I’m Heather Burns_](https://webdevlaw.uk/2022/03/25/russian-plugin-go-fuck-yourself/?utm_campaign=github-jamietanna)
 - [_Looking for a job while looking after yourself_](https://carol.gg/blog/looking-for-a-job/?utm_campaign=github-jamietanna)
 - [_Wordle to yaml_](https://katydecorah.com/code/wordle-to-yaml/?utm_campaign=github-jamietanna)
-- [_API Warfare_](https://matt-rickard.com/api-warfare/?utm_campaign=github-jamietanna)
 
 ---
 
