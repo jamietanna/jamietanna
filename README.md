@@ -13,20 +13,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Creating a minimal AWS S3 Bucket Policy for deploying with Hugo via hugo deploy._](https://www.jvt.me/posts/2022/03/30/hugo-aws-s3-bucket-policy/?utm_campaign=github-jamietanna)
+- [_Automagically deploying Architect Framework applications to AWS uisng GitLab CI_](https://www.jvt.me/posts/2022/03/30/architect-aws-gitlab-ci/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#12_](https://www.jvt.me/week-notes/2022/12/?utm_campaign=github-jamietanna)
-- [_Avoiding Spring context issues when parallelising @Nested Spring integration tests_](https://www.jvt.me/posts/2022/03/22/spring-integration-test-nested/?utm_campaign=github-jamietanna)
-- [_Providing a basic implementation of Ruby's ARGF.read in Go_](https://www.jvt.me/posts/2022/03/22/go-argf-read/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Creating a minimal AWS S3 Bucket Policy for deploying with Hugo via hugo deploy._](https://www.jvt.me/posts/2022/03/30/hugo-aws-s3-bucket-policy/?utm_campaign=github-jamietanna)
+- [_Automagically deploying Architect Framework applications to AWS uisng GitLab CI_](https://www.jvt.me/posts/2022/03/30/architect-aws-gitlab-ci/?utm_campaign=github-jamietanna)
 - [_Avoiding Spring context issues when parallelising @Nested Spring integration tests_](https://www.jvt.me/posts/2022/03/22/spring-integration-test-nested/?utm_campaign=github-jamietanna)
 - [_Providing a basic implementation of Ruby's ARGF.read in Go_](https://www.jvt.me/posts/2022/03/22/go-argf-read/?utm_campaign=github-jamietanna)
 - [_Integration Testing Your Spring WebClients with Wiremock_](https://www.jvt.me/posts/2022/03/22/webclient-integration-test-wiremock/?utm_campaign=github-jamietanna)
-- [_Accessing the OpenAPI Specification for a Kubernetes Cluster_](https://www.jvt.me/posts/2022/03/16/kubernetes-openapi/?utm_campaign=github-jamietanna)
-- [_Solving ConnectExceptions with the Kubernetes Java ApiClient_](https://www.jvt.me/posts/2022/03/16/kubernetes-connectionexception-java/?utm_campaign=github-jamietanna)
 
 ---
 
