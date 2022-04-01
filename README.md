@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Introducing tiktok-mf2.tanna.dev, for converting TikTok video metadata to Microformats2_](https://www.jvt.me/posts/2022/04/01/tiktok-mf2/?utm_campaign=github-jamietanna)
 - [_Adding a Non-AWS Hosted Custom Domain to an AWS API Gateway without CloudFront_](https://www.jvt.me/posts/2022/04/01/api-gateway-domain/?utm_campaign=github-jamietanna)
 - [_Creating a minimal AWS S3 Bucket Policy for deploying with Hugo via hugo deploy._](https://www.jvt.me/posts/2022/03/30/hugo-aws-s3-bucket-policy/?utm_campaign=github-jamietanna)
-- [_Automagically deploying Architect Framework applications to AWS uisng GitLab CI_](https://www.jvt.me/posts/2022/03/30/architect-aws-gitlab-ci/?utm_campaign=github-jamietanna)
 
 ---
 
