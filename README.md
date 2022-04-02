@@ -1,6 +1,6 @@
 Hey, I'm Jamie Tanna (he/him/his) 👋
 
-I'm currently a Senior Software Engineer at [Central Digital and Data Office](https://www.gov.uk/government/organisations/central-digital-and-data-office), and I'm currently based in Nottingham.
+I'm currently between jobs, and I'm currently based in Nottingham.
 
 I have a [/now page](https://www.jvt.me/now/?utm_campaign=github-jamietanna), which aims to be a more up-to-date about page.
 
