@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#13_](https://www.jvt.me/week-notes/2022/13/?utm_campaign=github-jamietanna)
 - [_Introducing tiktok-mf2.tanna.dev, for converting TikTok video metadata to Microformats2_](https://www.jvt.me/posts/2022/04/01/tiktok-mf2/?utm_campaign=github-jamietanna)
 - [_Adding a Non-AWS Hosted Custom Domain to an AWS API Gateway without CloudFront_](https://www.jvt.me/posts/2022/04/01/api-gateway-domain/?utm_campaign=github-jamietanna)
-- [_Creating a minimal AWS S3 Bucket Policy for deploying with Hugo via hugo deploy._](https://www.jvt.me/posts/2022/03/30/hugo-aws-s3-bucket-policy/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -41,7 +41,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#12](https://www.jvt.me/week-notes/2022/12/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#13](https://www.jvt.me/week-notes/2022/13/?utm_campaign=github-jamietanna).
 
 ---
 
