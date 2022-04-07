@@ -13,20 +13,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Parsing the Cookie and Set-Cookie headers with Go_](https://www.jvt.me/posts/2022/04/07/go-cookie-header/?utm_campaign=github-jamietanna)
 - [_Generating a Go HTTP Client from OpenAPI schemas_](https://www.jvt.me/posts/2022/04/06/generate-go-client-openapi/?utm_campaign=github-jamietanna)
 - [_Generating Go structs from OpenAPI schemas_](https://www.jvt.me/posts/2022/04/06/generate-go-struct-openapi/?utm_campaign=github-jamietanna)
-- [_Setting up GitLab CI for Go projects_](https://www.jvt.me/posts/2022/04/06/go-gitlab-ci/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Parsing the Cookie and Set-Cookie headers with Go_](https://www.jvt.me/posts/2022/04/07/go-cookie-header/?utm_campaign=github-jamietanna)
 - [_Generating a Go HTTP Client from OpenAPI schemas_](https://www.jvt.me/posts/2022/04/06/generate-go-client-openapi/?utm_campaign=github-jamietanna)
 - [_Generating Go structs from OpenAPI schemas_](https://www.jvt.me/posts/2022/04/06/generate-go-struct-openapi/?utm_campaign=github-jamietanna)
 - [_Setting up GitLab CI for Go projects_](https://www.jvt.me/posts/2022/04/06/go-gitlab-ci/?utm_campaign=github-jamietanna)
 - [_Adding a Non-AWS Hosted Custom Domain to an AWS API Gateway without CloudFront_](https://www.jvt.me/posts/2022/04/01/api-gateway-domain/?utm_campaign=github-jamietanna)
-- [_Creating a minimal AWS S3 Bucket Policy for deploying with Hugo via hugo deploy._](https://www.jvt.me/posts/2022/03/30/hugo-aws-s3-bucket-policy/?utm_campaign=github-jamietanna)
 
 ---
 
