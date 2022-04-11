@@ -13,31 +13,31 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Protecting an Architect Framework Application with OAuth2 or OpenID Connect Authentication_](https://www.jvt.me/posts/2022/04/11/architect-oidc-login/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#14_](https://www.jvt.me/week-notes/2022/14/?utm_campaign=github-jamietanna)
 - [_Getting node-canvas to run on AWS Lambda_](https://www.jvt.me/posts/2022/04/08/node-canvas-lambda/?utm_campaign=github-jamietanna)
-- [_Parsing the Cookie and Set-Cookie headers with Go_](https://www.jvt.me/posts/2022/04/07/go-cookie-header/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Protecting an Architect Framework Application with OAuth2 or OpenID Connect Authentication_](https://www.jvt.me/posts/2022/04/11/architect-oidc-login/?utm_campaign=github-jamietanna)
 - [_Getting node-canvas to run on AWS Lambda_](https://www.jvt.me/posts/2022/04/08/node-canvas-lambda/?utm_campaign=github-jamietanna)
 - [_Parsing the Cookie and Set-Cookie headers with Go_](https://www.jvt.me/posts/2022/04/07/go-cookie-header/?utm_campaign=github-jamietanna)
 - [_Generating a Go HTTP Client from OpenAPI schemas_](https://www.jvt.me/posts/2022/04/06/generate-go-client-openapi/?utm_campaign=github-jamietanna)
 - [_Generating Go structs from OpenAPI schemas_](https://www.jvt.me/posts/2022/04/06/generate-go-struct-openapi/?utm_campaign=github-jamietanna)
-- [_Setting up GitLab CI for Go projects_](https://www.jvt.me/posts/2022/04/06/go-gitlab-ci/?utm_campaign=github-jamietanna)
 
 ---
 
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Random Indie Weblog Posts_](https://indieblog.page/?utm_campaign=github-jamietanna)
 - [_https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/_](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/?utm_campaign=github-jamietanna)
 - [_https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/_](https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/?utm_campaign=github-jamietanna)
 - [_The Squeaky Blog | Why we don’t use a staging environment_](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment?utm_campaign=github-jamietanna)
 - [_That simple script is still someone's bad day_](https://rachelbythebay.com/w/2022/04/05/pipe/?utm_campaign=github-jamietanna)
-- [_In Soviet Musk Twitter, Twitter edits you_](http://www.kevinmarks.com/twittereditsyou.html?utm_campaign=github-jamietanna)
 
 ---
 
