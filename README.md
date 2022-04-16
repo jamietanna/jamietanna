@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_https://wesbos.com/scoped-github-access-token/_](https://wesbos.com/scoped-github-access-token/?utm_campaign=github-jamietanna)
 - [_https://joshghent.com/mid-to-senior-dev/_](https://joshghent.com/mid-to-senior-dev/?utm_campaign=github-jamietanna)
 - [_AWS RDS Vulnerability Leads to AWS Internal Service Credentials_](https://blog.lightspin.io/aws-rds-critical-security-vulnerability?utm_campaign=github-jamietanna)
 - [_Random Indie Weblog Posts_](https://indieblog.page/?utm_campaign=github-jamietanna)
 - [_https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/_](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/?utm_campaign=github-jamietanna)
-- [_https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/_](https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/?utm_campaign=github-jamietanna)
 
 ---
 
