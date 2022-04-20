@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_CVE-2022-21449: Psychic Signatures in Java_](https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/?utm_campaign=github-jamietanna)
+- [_Be the browser’s mentor, not its micromanager. - Build Excellent Websites_](https://buildexcellentwebsit.es/?utm_campaign=github-jamietanna)
+- [_Testing in Go: Subtests_](https://ieftimov.com/posts/testing-in-go-subtests/?utm_campaign=github-jamietanna)
 - [_Making a Golang Vanity URL_](https://medium.com/@JonNRb/making-a-golang-vanity-url-f56d8eec5f6c?utm_campaign=github-jamietanna)
 - [_Vanity URL for Go packages_](https://ayada.dev/posts/vanity-url-for-go-packages/?utm_campaign=github-jamietanna)
-- [_https://wesbos.com/scoped-github-access-token/_](https://wesbos.com/scoped-github-access-token/?utm_campaign=github-jamietanna)
-- [_https://joshghent.com/mid-to-senior-dev/_](https://joshghent.com/mid-to-senior-dev/?utm_campaign=github-jamietanna)
-- [_AWS RDS Vulnerability Leads to AWS Internal Service Credentials_](https://blog.lightspin.io/aws-rds-critical-security-vulnerability?utm_campaign=github-jamietanna)
 
 ---
 
