@@ -13,20 +13,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Automagically setting the project version for Go projects_](https://www.jvt.me/posts/2022/04/20/sonar-go-version/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#15_](https://www.jvt.me/week-notes/2022/15/?utm_campaign=github-jamietanna)
 - [_Converting a Byte Array to String from a Node.JS Buffer, in Go_](https://www.jvt.me/posts/2022/04/12/buffer-array-to-string-go/?utm_campaign=github-jamietanna)
-- [_Prefactoring: Preparatory Refactoring_](https://www.jvt.me/posts/2022/04/12/prefactor/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Automagically setting the project version for Go projects_](https://www.jvt.me/posts/2022/04/20/sonar-go-version/?utm_campaign=github-jamietanna)
 - [_Converting a Byte Array to String from a Node.JS Buffer, in Go_](https://www.jvt.me/posts/2022/04/12/buffer-array-to-string-go/?utm_campaign=github-jamietanna)
 - [_Prefactoring: Preparatory Refactoring_](https://www.jvt.me/posts/2022/04/12/prefactor/?utm_campaign=github-jamietanna)
 - [_Protecting an Architect Framework Application with OAuth2 or OpenID Connect Authentication_](https://www.jvt.me/posts/2022/04/11/architect-oidc-login/?utm_campaign=github-jamietanna)
 - [_Getting node-canvas to run on AWS Lambda_](https://www.jvt.me/posts/2022/04/08/node-canvas-lambda/?utm_campaign=github-jamietanna)
-- [_Parsing the Cookie and Set-Cookie headers with Go_](https://www.jvt.me/posts/2022/04/07/go-cookie-header/?utm_campaign=github-jamietanna)
 
 ---
 
