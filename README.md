@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Transparently running binaries from any architecture in Linux with QEMU and binfmt_misc_](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/?utm_campaign=github-jamietanna)
 - [_IndieAuth Spec Updates 2022_](https://david.shanske.com/2022/04/21/indieauth-spec-updates-2022/?utm_campaign=github-jamietanna)
 - [_CVE-2022-21449: Psychic Signatures in Java_](https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/?utm_campaign=github-jamietanna)
 - [_Be the browser’s mentor, not its micromanager. - Build Excellent Websites_](https://buildexcellentwebsit.es/?utm_campaign=github-jamietanna)
 - [_Testing in Go: Subtests_](https://ieftimov.com/posts/testing-in-go-subtests/?utm_campaign=github-jamietanna)
-- [_Making a Golang Vanity URL_](https://medium.com/@JonNRb/making-a-golang-vanity-url-f56d8eec5f6c?utm_campaign=github-jamietanna)
 
 ---
 
