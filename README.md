@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#16_](https://www.jvt.me/week-notes/2022/16/?utm_campaign=github-jamietanna)
 - [_Automagically setting the project version for Go projects in SonarQube_](https://www.jvt.me/posts/2022/04/20/sonar-go-version/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#15_](https://www.jvt.me/week-notes/2022/15/?utm_campaign=github-jamietanna)
-- [_Converting a Byte Array to String from a Node.JS Buffer, in Go_](https://www.jvt.me/posts/2022/04/12/buffer-array-to-string-go/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -41,7 +41,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#15](https://www.jvt.me/week-notes/2022/15/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#16](https://www.jvt.me/week-notes/2022/16/?utm_campaign=github-jamietanna).
 
 ---
 
