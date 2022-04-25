@@ -1,6 +1,6 @@
 Hey, I'm Jamie Tanna (he/him/his) 👋
 
-I'm currently between jobs, and I'm currently based in Nottingham.
+I'm currently a Senior Software Engineer at [Deliveroo](https://deliveroo.engineering/), and I'm currently based in Nottingham.
 
 I have a [/now page](https://www.jvt.me/now/?utm_campaign=github-jamietanna), which aims to be a more up-to-date about page.
 
@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_I'm Joining Deliveroo_](https://www.jvt.me/posts/2022/04/25/joining-deliveroo/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#16_](https://www.jvt.me/week-notes/2022/16/?utm_campaign=github-jamietanna)
 - [_Automagically setting the project version for Go projects in SonarQube_](https://www.jvt.me/posts/2022/04/20/sonar-go-version/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#15_](https://www.jvt.me/week-notes/2022/15/?utm_campaign=github-jamietanna)
 
 ---
 
