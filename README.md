@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Cool Things People Do With Their Blogs_](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/?utm_campaign=github-jamietanna)
+- [_https://www.brimdata.io/blog/introducing-zq/_](https://www.brimdata.io/blog/introducing-zq/?utm_campaign=github-jamietanna)
+- [_NPM Bug Allowed Attackers to Distribute Malware as Legitimate Packages_](https://thehackernews.com/2022/04/npm-bug-allowed-attackers-to-distribute.html?utm_campaign=github-jamietanna)
 - [_Transparently running binaries from any architecture in Linux with QEMU and binfmt_misc_](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/?utm_campaign=github-jamietanna)
 - [_IndieAuth Spec Updates 2022_](https://david.shanske.com/2022/04/21/indieauth-spec-updates-2022/?utm_campaign=github-jamietanna)
-- [_CVE-2022-21449: Psychic Signatures in Java_](https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/?utm_campaign=github-jamietanna)
-- [_Be the browser’s mentor, not its micromanager. - Build Excellent Websites_](https://buildexcellentwebsit.es/?utm_campaign=github-jamietanna)
-- [_Testing in Go: Subtests_](https://ieftimov.com/posts/testing-in-go-subtests/?utm_campaign=github-jamietanna)
 
 ---
 
