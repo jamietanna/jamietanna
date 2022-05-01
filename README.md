@@ -13,20 +13,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Installing Nokogiri on an M1 Mac_](https://www.jvt.me/posts/2022/05/01/nokogiri-m1-mac/?utm_campaign=github-jamietanna)
 - [_Determining if there are uncommitted changes in Git_](https://www.jvt.me/posts/2022/04/29/git-uncommitted-changes/?utm_campaign=github-jamietanna)
 - [_Building a fault-tolerant work queue for command-line executions with GNU Parallel_](https://www.jvt.me/posts/2022/04/28/shell-queue/?utm_campaign=github-jamietanna)
-- [_Extracting Podcast Addict listening history from the SQLite database_](https://www.jvt.me/posts/2022/04/28/podcast-addict-sqlite/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Installing Nokogiri on an M1 Mac_](https://www.jvt.me/posts/2022/05/01/nokogiri-m1-mac/?utm_campaign=github-jamietanna)
 - [_Determining if there are uncommitted changes in Git_](https://www.jvt.me/posts/2022/04/29/git-uncommitted-changes/?utm_campaign=github-jamietanna)
 - [_Building a fault-tolerant work queue for command-line executions with GNU Parallel_](https://www.jvt.me/posts/2022/04/28/shell-queue/?utm_campaign=github-jamietanna)
 - [_Extracting Podcast Addict listening history from the SQLite database_](https://www.jvt.me/posts/2022/04/28/podcast-addict-sqlite/?utm_campaign=github-jamietanna)
 - [_Removing 'smart' quotes from a file, on the command-line_](https://www.jvt.me/posts/2022/04/28/cli-remove-smartquotes/?utm_campaign=github-jamietanna)
-- [_Automagically setting the project version for Go projects in SonarQube_](https://www.jvt.me/posts/2022/04/20/sonar-go-version/?utm_campaign=github-jamietanna)
 
 ---
 
