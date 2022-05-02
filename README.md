@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Lessons learned from the recent job hunt_](https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#17_](https://www.jvt.me/week-notes/2022/17/?utm_campaign=github-jamietanna)
 - [_Installing Nokogiri on an M1 Mac_](https://www.jvt.me/posts/2022/05/01/nokogiri-m1-mac/?utm_campaign=github-jamietanna)
-- [_Determining if there are uncommitted changes in Git_](https://www.jvt.me/posts/2022/04/29/git-uncommitted-changes/?utm_campaign=github-jamietanna)
 
 ---
 
