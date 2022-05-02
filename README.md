@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#17_](https://www.jvt.me/week-notes/2022/17/?utm_campaign=github-jamietanna)
 - [_Installing Nokogiri on an M1 Mac_](https://www.jvt.me/posts/2022/05/01/nokogiri-m1-mac/?utm_campaign=github-jamietanna)
 - [_Determining if there are uncommitted changes in Git_](https://www.jvt.me/posts/2022/04/29/git-uncommitted-changes/?utm_campaign=github-jamietanna)
-- [_Building a fault-tolerant work queue for command-line executions with GNU Parallel_](https://www.jvt.me/posts/2022/04/28/shell-queue/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -41,7 +41,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#16](https://www.jvt.me/week-notes/2022/16/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#17](https://www.jvt.me/week-notes/2022/17/?utm_campaign=github-jamietanna).
 
 ---
 
