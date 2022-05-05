@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Ruby 3.1’s incompatible changes to its YAML module (Psych 4)_](https://www.ctrl.blog/entry/ruby-psych4.html?utm_campaign=github-jamietanna)
 - [_https://xenitab.github.io/blog/2022/02/23/12factor/_](https://xenitab.github.io/blog/2022/02/23/12factor/?utm_campaign=github-jamietanna)
 - [_Experience Report: 6 months of Go_](https://typesanitizer.com/blog/go-experience-report.html?utm_campaign=github-jamietanna)
 - [_Cool Things People Do With Their Blogs_](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/?utm_campaign=github-jamietanna)
 - [_https://www.brimdata.io/blog/introducing-zq/_](https://www.brimdata.io/blog/introducing-zq/?utm_campaign=github-jamietanna)
-- [_NPM Bug Allowed Attackers to Distribute Malware as Legitimate Packages_](https://thehackernews.com/2022/04/npm-bug-allowed-attackers-to-distribute.html?utm_campaign=github-jamietanna)
 
 ---
 
