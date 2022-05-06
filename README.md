@@ -13,20 +13,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Getting the fingerprint of a certificate in Go_](https://www.jvt.me/posts/2022/05/06/go-cert-fingerprint/?utm_campaign=github-jamietanna)
+- [_Getting the OpenID Connect thumbprint for AWS on the command-line with Go_](https://www.jvt.me/posts/2022/05/06/oidc-thumbprint/?utm_campaign=github-jamietanna)
 - [_Setting up a Go package structure for a combined library and CLI tool_](https://www.jvt.me/posts/2022/05/06/go-cli-package-structure/?utm_campaign=github-jamietanna)
-- [_Parsing AWS ALB/ELB access logs into SQLite_](https://www.jvt.me/posts/2022/05/06/elb-alb-logs-sqlite/?utm_campaign=github-jamietanna)
-- [_When should I use env to start a command with environment variables?_](https://www.jvt.me/posts/2022/05/05/env-environment-variables/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Getting the fingerprint of a certificate in Go_](https://www.jvt.me/posts/2022/05/06/go-cert-fingerprint/?utm_campaign=github-jamietanna)
+- [_Getting the OpenID Connect thumbprint for AWS on the command-line with Go_](https://www.jvt.me/posts/2022/05/06/oidc-thumbprint/?utm_campaign=github-jamietanna)
 - [_Setting up a Go package structure for a combined library and CLI tool_](https://www.jvt.me/posts/2022/05/06/go-cli-package-structure/?utm_campaign=github-jamietanna)
 - [_Parsing AWS ALB/ELB access logs into SQLite_](https://www.jvt.me/posts/2022/05/06/elb-alb-logs-sqlite/?utm_campaign=github-jamietanna)
 - [_When should I use env to start a command with environment variables?_](https://www.jvt.me/posts/2022/05/05/env-environment-variables/?utm_campaign=github-jamietanna)
-- [_Should I commit generated Go code?_](https://www.jvt.me/posts/2022/05/05/commit-go-generate/?utm_campaign=github-jamietanna)
-- [_Installing Nokogiri on an M1 Mac_](https://www.jvt.me/posts/2022/05/01/nokogiri-m1-mac/?utm_campaign=github-jamietanna)
 
 ---
 
