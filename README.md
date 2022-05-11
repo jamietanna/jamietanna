@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_If Programming Languages Were Futurama Characters_](https://www.netmeister.org/blog/futurama.html?utm_campaign=github-jamietanna)
 - [_RSS Feed Best Practises_](https://kevincox.ca/2022/05/06/rss-feed-best-practices/?utm_campaign=github-jamietanna)
 - [_Short URLs: why and how | Derek Sivers_](https://sive.rs/su?utm_campaign=github-jamietanna)
 - [_testing-in-go_](https://ieftimov.com/categories/testing-in-go/?utm_campaign=github-jamietanna)
 - [_Ruby 3.1’s incompatible changes to its YAML module (Psych 4)_](https://www.ctrl.blog/entry/ruby-psych4.html?utm_campaign=github-jamietanna)
-- [_https://xenitab.github.io/blog/2022/02/23/12factor/_](https://xenitab.github.io/blog/2022/02/23/12factor/?utm_campaign=github-jamietanna)
 
 ---
 
