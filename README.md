@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#19_](https://www.jvt.me/week-notes/2022/19/?utm_campaign=github-jamietanna)
 - [_Constructing a serialised YAML string in Ruby_](https://www.jvt.me/posts/2022/05/13/yaml-string/?utm_campaign=github-jamietanna)
 - [_Lessons learned from modernising a lesser maintained (Spring Boot) service_](https://www.jvt.me/posts/2022/05/12/modernise-spring-boot-lessons/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#18_](https://www.jvt.me/week-notes/2022/18/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -41,7 +41,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#18](https://www.jvt.me/week-notes/2022/18/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#19](https://www.jvt.me/week-notes/2022/19/?utm_campaign=github-jamietanna).
 
 ---
 
