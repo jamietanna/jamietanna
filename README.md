@@ -13,20 +13,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Testing Go net/http handlers_](https://www.jvt.me/posts/2022/05/21/go-test-http-handler/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#19_](https://www.jvt.me/week-notes/2022/19/?utm_campaign=github-jamietanna)
 - [_Constructing a serialised YAML string in Ruby_](https://www.jvt.me/posts/2022/05/13/yaml-string/?utm_campaign=github-jamietanna)
-- [_Lessons learned from modernising a lesser maintained (Spring Boot) service_](https://www.jvt.me/posts/2022/05/12/modernise-spring-boot-lessons/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Testing Go net/http handlers_](https://www.jvt.me/posts/2022/05/21/go-test-http-handler/?utm_campaign=github-jamietanna)
 - [_Constructing a serialised YAML string in Ruby_](https://www.jvt.me/posts/2022/05/13/yaml-string/?utm_campaign=github-jamietanna)
 - [_Lessons learned from modernising a lesser maintained (Spring Boot) service_](https://www.jvt.me/posts/2022/05/12/modernise-spring-boot-lessons/?utm_campaign=github-jamietanna)
 - [_Getting the fingerprint of a certificate in Go_](https://www.jvt.me/posts/2022/05/06/go-cert-fingerprint/?utm_campaign=github-jamietanna)
 - [_Getting the OpenID Connect thumbprint for AWS on the command-line with Go_](https://www.jvt.me/posts/2022/05/06/oidc-thumbprint/?utm_campaign=github-jamietanna)
-- [_Setting up a Go package structure for a combined library and CLI tool_](https://www.jvt.me/posts/2022/05/06/go-cli-package-structure/?utm_campaign=github-jamietanna)
 
 ---
 
