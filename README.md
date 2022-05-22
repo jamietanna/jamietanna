@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Introducing a library for OpenAPI contract testing with Go's net/http package_](https://www.jvt.me/posts/2022/05/22/go-openapi-contract-test/?utm_campaign=github-jamietanna)
 - [_Testing Go net/http handlers_](https://www.jvt.me/posts/2022/05/21/go-test-http-handler/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#19_](https://www.jvt.me/week-notes/2022/19/?utm_campaign=github-jamietanna)
-- [_Constructing a serialised YAML string in Ruby_](https://www.jvt.me/posts/2022/05/13/yaml-string/?utm_campaign=github-jamietanna)
 
 ---
 
