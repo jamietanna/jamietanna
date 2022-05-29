@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Describing JSON Patch operations with OpenAPI_](https://www.jvt.me/posts/2022/05/29/openapi-json-patch/?utm_campaign=github-jamietanna)
 - [_Weirdness with git diff-index showing 1 file changed, 0 insertions(+), 0 deletions(-)_](https://www.jvt.me/posts/2022/05/23/git-diff-index-0-changed/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#20_](https://www.jvt.me/week-notes/2022/20/?utm_campaign=github-jamietanna)
-- [_Introducing a library for OpenAPI contract testing with Go's net/http package_](https://www.jvt.me/posts/2022/05/22/go-openapi-contract-test/?utm_campaign=github-jamietanna)
 
 ---
 
