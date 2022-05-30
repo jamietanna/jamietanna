@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#21_](https://www.jvt.me/week-notes/2022/21/?utm_campaign=github-jamietanna)
 - [_Describing JSON Patch operations with OpenAPI_](https://www.jvt.me/posts/2022/05/29/openapi-json-patch/?utm_campaign=github-jamietanna)
 - [_Weirdness with git diff-index showing 1 file changed, 0 insertions(+), 0 deletions(-)_](https://www.jvt.me/posts/2022/05/23/git-diff-index-0-changed/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#20_](https://www.jvt.me/week-notes/2022/20/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -41,7 +41,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#20](https://www.jvt.me/week-notes/2022/20/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#21](https://www.jvt.me/week-notes/2022/21/?utm_campaign=github-jamietanna).
 
 ---
 
