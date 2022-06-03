@@ -13,7 +13,7 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
-- [_Only testing your public interface API in a Go package_](https://www.jvt.me/posts/2022/06/03/go-public-api-test/?utm_campaign=github-jamietanna)
+- [_Only testing your public API in a Go package_](https://www.jvt.me/posts/2022/06/03/go-public-api-test/?utm_campaign=github-jamietanna)
 - [_API Design tip: use objects for similar data_](https://www.jvt.me/posts/2022/06/02/api-design-objects/?utm_campaign=github-jamietanna)
 - [_Idea for Open Source/Startup: monetising the supply chain_](https://www.jvt.me/posts/2022/06/01/idea-supply-chain-monetisation/?utm_campaign=github-jamietanna)
 
@@ -22,7 +22,7 @@ I write a fair bit on my blog:
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
-- [_Only testing your public interface API in a Go package_](https://www.jvt.me/posts/2022/06/03/go-public-api-test/?utm_campaign=github-jamietanna)
+- [_Only testing your public API in a Go package_](https://www.jvt.me/posts/2022/06/03/go-public-api-test/?utm_campaign=github-jamietanna)
 - [_Weirdness with git diff-index showing 1 file changed, 0 insertions(+), 0 deletions(-)_](https://www.jvt.me/posts/2022/05/23/git-diff-index-0-changed/?utm_campaign=github-jamietanna)
 - [_Testing Go net/http handlers_](https://www.jvt.me/posts/2022/05/21/go-test-http-handler/?utm_campaign=github-jamietanna)
 - [_Constructing a serialised YAML string in Ruby_](https://www.jvt.me/posts/2022/05/13/yaml-string/?utm_campaign=github-jamietanna)
