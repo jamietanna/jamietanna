@@ -13,20 +13,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Managing your Go tool versions with go.mod and a tools.go_](https://www.jvt.me/posts/2022/06/15/go-tools-dependency-management/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#23_](https://www.jvt.me/week-notes/2022/23/?utm_campaign=github-jamietanna)
 - [_Setting up OpenAPI Contract Tests with a Rails and RSpec codebase_](https://www.jvt.me/posts/2022/06/07/rails-rspec-openapi-contract-test/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#22_](https://www.jvt.me/week-notes/2022/22/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Managing your Go tool versions with go.mod and a tools.go_](https://www.jvt.me/posts/2022/06/15/go-tools-dependency-management/?utm_campaign=github-jamietanna)
 - [_Setting up OpenAPI Contract Tests with a Rails and RSpec codebase_](https://www.jvt.me/posts/2022/06/07/rails-rspec-openapi-contract-test/?utm_campaign=github-jamietanna)
 - [_Only testing your public API in a Go package_](https://www.jvt.me/posts/2022/06/03/go-public-api-test/?utm_campaign=github-jamietanna)
 - [_Describing JSON Patch operations with OpenAPI_](https://www.jvt.me/posts/2022/05/29/openapi-json-patch/?utm_campaign=github-jamietanna)
 - [_Weirdness with git diff-index showing 1 file changed, 0 insertions(+), 0 deletions(-)_](https://www.jvt.me/posts/2022/05/23/git-diff-index-0-changed/?utm_campaign=github-jamietanna)
-- [_Testing Go net/http handlers_](https://www.jvt.me/posts/2022/05/21/go-test-http-handler/?utm_campaign=github-jamietanna)
 
 ---
 
