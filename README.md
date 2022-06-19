@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#24_](https://www.jvt.me/week-notes/2022/24/?utm_campaign=github-jamietanna)
+- [_Automagically determining feeds provided for a given URL on the command-line_](https://www.jvt.me/posts/2022/06/19/cli-feed-discovery/?utm_campaign=github-jamietanna)
 - [_Managing your Go tool versions with go.mod and a tools.go_](https://www.jvt.me/posts/2022/06/15/go-tools-dependency-management/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#23_](https://www.jvt.me/week-notes/2022/23/?utm_campaign=github-jamietanna)
-- [_Setting up OpenAPI Contract Tests with a Rails and RSpec codebase_](https://www.jvt.me/posts/2022/06/07/rails-rspec-openapi-contract-test/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -41,7 +41,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#23](https://www.jvt.me/week-notes/2022/23/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#24](https://www.jvt.me/week-notes/2022/24/?utm_campaign=github-jamietanna).
 
 ---
 
