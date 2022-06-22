@@ -13,20 +13,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Describing a multi-value querystring parameter in OpenAPI_](https://www.jvt.me/posts/2022/06/22/openapi-multi-value-query/?utm_campaign=github-jamietanna)
 - [_Stubbing out the Go http.Client to test an HTTP HandlerFunc_](https://www.jvt.me/posts/2022/06/22/go-stub-http-client/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#24_](https://www.jvt.me/week-notes/2022/24/?utm_campaign=github-jamietanna)
-- [_Automagically determining feeds provided for a given URL on the command-line_](https://www.jvt.me/posts/2022/06/19/cli-feed-discovery/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Describing a multi-value querystring parameter in OpenAPI_](https://www.jvt.me/posts/2022/06/22/openapi-multi-value-query/?utm_campaign=github-jamietanna)
 - [_Stubbing out the Go http.Client to test an HTTP HandlerFunc_](https://www.jvt.me/posts/2022/06/22/go-stub-http-client/?utm_campaign=github-jamietanna)
 - [_Managing your Go tool versions with go.mod and a tools.go_](https://www.jvt.me/posts/2022/06/15/go-tools-dependency-management/?utm_campaign=github-jamietanna)
 - [_Setting up OpenAPI Contract Tests with a Rails and RSpec codebase_](https://www.jvt.me/posts/2022/06/07/rails-rspec-openapi-contract-test/?utm_campaign=github-jamietanna)
 - [_Only testing your public API in a Go package_](https://www.jvt.me/posts/2022/06/03/go-public-api-test/?utm_campaign=github-jamietanna)
-- [_Describing JSON Patch operations with OpenAPI_](https://www.jvt.me/posts/2022/05/29/openapi-json-patch/?utm_campaign=github-jamietanna)
 
 ---
 
