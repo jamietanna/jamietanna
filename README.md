@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#25_](https://www.jvt.me/week-notes/2022/25/?utm_campaign=github-jamietanna)
 - [_Automating boilerplate/scaffolding code with custom code generation in Go_](https://www.jvt.me/posts/2022/06/26/go-custom-generate/?utm_campaign=github-jamietanna)
 - [_Describing a multi-value querystring parameter in OpenAPI_](https://www.jvt.me/posts/2022/06/22/openapi-multi-value-query/?utm_campaign=github-jamietanna)
-- [_Stubbing out the Go http.Client to test an HTTP HandlerFunc_](https://www.jvt.me/posts/2022/06/22/go-stub-http-client/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -41,7 +41,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#24](https://www.jvt.me/week-notes/2022/24/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#25](https://www.jvt.me/week-notes/2022/25/?utm_campaign=github-jamietanna).
 
 ---
 
