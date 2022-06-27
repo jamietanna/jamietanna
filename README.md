@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Shipping services more quickly with design-first OpenAPI contracts_](https://www.jvt.me/posts/2022/06/27/roo-openapi-design-first/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#25_](https://www.jvt.me/week-notes/2022/25/?utm_campaign=github-jamietanna)
 - [_Automating boilerplate/scaffolding code with custom code generation in Go_](https://www.jvt.me/posts/2022/06/26/go-custom-generate/?utm_campaign=github-jamietanna)
-- [_Describing a multi-value querystring parameter in OpenAPI_](https://www.jvt.me/posts/2022/06/22/openapi-multi-value-query/?utm_campaign=github-jamietanna)
 
 ---
 
