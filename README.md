@@ -13,20 +13,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Converting HTTP requests to Wiremock stubs, with Go_](https://www.jvt.me/posts/2022/08/12/wiremock-from-http/?utm_campaign=github-jamietanna)
+- [_The first script I write in a new job: gg_](https://www.jvt.me/posts/2022/08/12/gg-script/?utm_campaign=github-jamietanna)
 - [_Learning a new language, or how I gained familiarity with Go_](https://www.jvt.me/posts/2022/08/12/learning-new-language-go/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#31_](https://www.jvt.me/week-notes/2022/31/?utm_campaign=github-jamietanna)
-- [_Releasing a set of test cases for Content Negotiation_](https://www.jvt.me/posts/2022/08/07/content-negotiation-tests/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Converting HTTP requests to Wiremock stubs, with Go_](https://www.jvt.me/posts/2022/08/12/wiremock-from-http/?utm_campaign=github-jamietanna)
 - [_Using generics to get a pointer to any type, in Go_](https://www.jvt.me/posts/2022/07/29/go-pointer-generic/?utm_campaign=github-jamietanna)
 - [_Optional configuration for configuring Go code_](https://www.jvt.me/posts/2022/07/22/go-optional-options/?utm_campaign=github-jamietanna)
 - [_Building a Go RESTful API with design-first OpenAPI contracts_](https://www.jvt.me/posts/2022/07/12/go-openapi-server/?utm_campaign=github-jamietanna)
 - [_Pointing to a fork of a Go module_](https://www.jvt.me/posts/2022/07/07/go-mod-fork/?utm_campaign=github-jamietanna)
-- [_Running Go tests in Parallel_](https://www.jvt.me/posts/2022/07/01/go-parallel-test/?utm_campaign=github-jamietanna)
 
 ---
 
