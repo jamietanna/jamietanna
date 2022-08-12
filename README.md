@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Learning a new language, or how I gained familiarity with Go_](https://www.jvt.me/posts/2022/08/12/learning-new-language-go/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#31_](https://www.jvt.me/week-notes/2022/31/?utm_campaign=github-jamietanna)
 - [_Releasing a set of test cases for Content Negotiation_](https://www.jvt.me/posts/2022/08/07/content-negotiation-tests/?utm_campaign=github-jamietanna)
-- [_Releasing a Go library for content-type negotiation_](https://www.jvt.me/posts/2022/08/05/content-negotiation-go/?utm_campaign=github-jamietanna)
 
 ---
 
