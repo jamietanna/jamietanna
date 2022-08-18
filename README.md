@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Introducing the tidied tool, to more easily check whether go mod tidy has been run_](https://www.jvt.me/posts/2022/08/18/tidied/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#32_](https://www.jvt.me/week-notes/2022/32/?utm_campaign=github-jamietanna)
 - [_Converting HTTP requests to Wiremock stubs, with Go_](https://www.jvt.me/posts/2022/08/12/wiremock-from-http/?utm_campaign=github-jamietanna)
-- [_The first script I write in a new job: gg_](https://www.jvt.me/posts/2022/08/12/gg-script/?utm_campaign=github-jamietanna)
 
 ---
 
