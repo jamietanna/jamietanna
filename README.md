@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#33_](https://www.jvt.me/week-notes/2022/33/?utm_campaign=github-jamietanna)
 - [_Introducing the tidied tool, to more easily check whether go mod tidy has been run_](https://www.jvt.me/posts/2022/08/18/tidied/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#32_](https://www.jvt.me/week-notes/2022/32/?utm_campaign=github-jamietanna)
-- [_Converting HTTP requests to Wiremock stubs, with Go_](https://www.jvt.me/posts/2022/08/12/wiremock-from-http/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -41,7 +41,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#32](https://www.jvt.me/week-notes/2022/32/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#33](https://www.jvt.me/week-notes/2022/33/?utm_campaign=github-jamietanna).
 
 ---
 
