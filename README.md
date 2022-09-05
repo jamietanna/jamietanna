@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#35_](https://www.jvt.me/week-notes/2022/35/?utm_campaign=github-jamietanna)
 - [_Gotcha: testable examples in Go need an output comment_](https://www.jvt.me/posts/2022/08/30/gotcha-go-example-comment/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#34_](https://www.jvt.me/week-notes/2022/34/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#33_](https://www.jvt.me/week-notes/2022/33/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -41,7 +41,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#34](https://www.jvt.me/week-notes/2022/34/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#35](https://www.jvt.me/week-notes/2022/35/?utm_campaign=github-jamietanna).
 
 ---
 
