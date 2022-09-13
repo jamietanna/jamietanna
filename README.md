@@ -33,11 +33,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Take Care of Your Blog_](https://www.robinrendle.com/notes/take-care-of-your-blog-/?utm_campaign=github-jamietanna)
 - [_Your attention span is being robbed!_](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/?utm_campaign=github-jamietanna)
 - [_Operational convergence, for REPL-less languages like Go — brandur.org_](https://brandur.org/fragments/operational-convergence?utm_campaign=github-jamietanna)
 - [_https://marcusnoble.co.uk/2022-07-04-managing-kubernetes-without-losing-your-cool/_](https://marcusnoble.co.uk/2022-07-04-managing-kubernetes-without-losing-your-cool/?utm_campaign=github-jamietanna)
 - [_The Future of Tech Nottingham Events - 2022 and beyond — Tech Nottingham - Your local tech community_](https://www.technottingham.com/news/2022/6/8/the-future-of-tech-nottingham-events-2022-and-beyond?utm_campaign=github-jamietanna)
-- [_People in your software supply chain_](https://sethmlarson.dev/blog/people-in-your-software-supply-chain?utm_campaign=github-jamietanna)
 
 ---
 
