@@ -13,9 +13,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Analysing our dependency trees to determine where we should send Open Source contributions for Hacktoberfest_](https://www.jvt.me/posts/2022/09/29/roo-hacktoberfest-dependency-analysis/?utm_campaign=github-jamietanna)
 - [_Lessons learned since posting my salary history publicly_](https://www.jvt.me/posts/2022/09/21/year-later-salary-history/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#37_](https://www.jvt.me/week-notes/2022/37/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#36_](https://www.jvt.me/week-notes/2022/36/?utm_campaign=github-jamietanna)
 
 ---
 
