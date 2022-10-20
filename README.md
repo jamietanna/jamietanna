@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Retrofitting OpenAPI documentation to your Rails codebase_](https://www.jvt.me/posts/2022/10/20/rails-openapi-contract-test-retrofit/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#41_](https://www.jvt.me/week-notes/2022/41/?utm_campaign=github-jamietanna)
 - [_Phew, that's a lot of traffic 😅 What happens when a blog post goes viral?_](https://www.jvt.me/posts/2022/10/14/blog-viral/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#40_](https://www.jvt.me/week-notes/2022/40/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Retrofitting OpenAPI documentation to your Rails codebase_](https://www.jvt.me/posts/2022/10/20/rails-openapi-contract-test-retrofit/?utm_campaign=github-jamietanna)
 - [_Gotcha: testable examples in Go need an output comment_](https://www.jvt.me/posts/2022/08/30/gotcha-go-example-comment/?utm_campaign=github-jamietanna)
 - [_Converting HTTP requests to Wiremock stubs, with Go_](https://www.jvt.me/posts/2022/08/12/wiremock-from-http/?utm_campaign=github-jamietanna)
 - [_Using generics to get a pointer to any type, in Go_](https://www.jvt.me/posts/2022/07/29/go-pointer-generic/?utm_campaign=github-jamietanna)
 - [_Optional configuration for configuring Go code_](https://www.jvt.me/posts/2022/07/22/go-optional-options/?utm_campaign=github-jamietanna)
-- [_Building a Go RESTful API with design-first OpenAPI contracts_](https://www.jvt.me/posts/2022/07/12/go-openapi-server/?utm_campaign=github-jamietanna)
 
 ---
 
