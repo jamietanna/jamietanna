@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_as days pass by — Don’t Read Off The Screen_](https://www.kryogenix.org/days/2022/10/18/don-t-read-off-the-screen/?utm_campaign=github-jamietanna)
 - [_How to Build Software like an SRE_](https://www.willett.io/posts/precepts/?utm_campaign=github-jamietanna)
 - [_https://snarfed.org/2022-03-10_were-drowning-software-dependencies#beans_](https://snarfed.org/2022-03-10_were-drowning-software-dependencies?utm_campaign=github-jamietanna#beans)
 - [_Why microservices are stupid_](https://tyk.io/blog/why-microservices-are-stupid/?utm_campaign=github-jamietanna)
 - [_https://githubcopilotinvestigation.com/_](https://githubcopilotinvestigation.com/?utm_campaign=github-jamietanna)
-- [_10 months on: Has our four-day week been a success?_](https://www.atombank.co.uk/blog/four-day-week-10-months-on/?utm_campaign=github-jamietanna)
 
 ---
 
