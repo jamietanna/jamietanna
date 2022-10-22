@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_'Should I be able to learn how to be more productive at work?'_](https://www.jvt.me/posts/2022/10/22/technical-self-improvement-work/?utm_campaign=github-jamietanna)
 - [_Does the tech industry thrive on free work?_](https://www.jvt.me/posts/2022/10/22/tech-industry-free-labour/?utm_campaign=github-jamietanna)
 - [_Retrofitting OpenAPI documentation to your Rails codebase_](https://www.jvt.me/posts/2022/10/20/rails-openapi-contract-test-retrofit/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#41_](https://www.jvt.me/week-notes/2022/41/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_How to Build Software like an SRE_](https://www.willett.io/posts/precepts/?utm_campaign=github-jamietanna)
 - [_https://snarfed.org/2022-03-10_were-drowning-software-dependencies#beans_](https://snarfed.org/2022-03-10_were-drowning-software-dependencies?utm_campaign=github-jamietanna#beans)
 - [_Why microservices are stupid_](https://tyk.io/blog/why-microservices-are-stupid/?utm_campaign=github-jamietanna)
 - [_https://githubcopilotinvestigation.com/_](https://githubcopilotinvestigation.com/?utm_campaign=github-jamietanna)
 - [_10 months on: Has our four-day week been a success?_](https://www.atombank.co.uk/blog/four-day-week-10-months-on/?utm_campaign=github-jamietanna)
-- [_An incomplete list of skills senior engineers need, beyond coding_](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f?utm_campaign=github-jamietanna)
 
 ---
 
