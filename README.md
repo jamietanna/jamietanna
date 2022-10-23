@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#42_](https://www.jvt.me/week-notes/2022/42/?utm_campaign=github-jamietanna)
 - [_'Should I be able to learn how to be more productive at work?'_](https://www.jvt.me/posts/2022/10/22/technical-self-improvement-work/?utm_campaign=github-jamietanna)
 - [_Does the tech industry thrive on free work?_](https://www.jvt.me/posts/2022/10/22/tech-industry-free-labour/?utm_campaign=github-jamietanna)
-- [_Retrofitting OpenAPI documentation to your Rails codebase_](https://www.jvt.me/posts/2022/10/20/rails-openapi-contract-test-retrofit/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#41](https://www.jvt.me/week-notes/2022/41/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#42](https://www.jvt.me/week-notes/2022/42/?utm_campaign=github-jamietanna).
 
 ---
 
