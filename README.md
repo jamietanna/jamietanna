@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Extracting the dependency tree from Renovate for given repositories_](https://www.jvt.me/posts/2022/11/01/renovate-dependency-graph/?utm_campaign=github-jamietanna)
 - [_Listing all GitHub repositories in a GitHub Organisation_](https://www.jvt.me/posts/2022/10/26/list-github-repos-org/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#42_](https://www.jvt.me/week-notes/2022/42/?utm_campaign=github-jamietanna)
-- [_'Should I be able to learn how to be more productive at work?'_](https://www.jvt.me/posts/2022/10/22/technical-self-improvement-work/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Extracting the dependency tree from Renovate for given repositories_](https://www.jvt.me/posts/2022/11/01/renovate-dependency-graph/?utm_campaign=github-jamietanna)
 - [_Listing all GitHub repositories in a GitHub Organisation_](https://www.jvt.me/posts/2022/10/26/list-github-repos-org/?utm_campaign=github-jamietanna)
 - [_Retrofitting OpenAPI documentation to your Rails codebase_](https://www.jvt.me/posts/2022/10/20/rails-openapi-contract-test-retrofit/?utm_campaign=github-jamietanna)
 - [_Gotcha: testable examples in Go need an output comment_](https://www.jvt.me/posts/2022/08/30/gotcha-go-example-comment/?utm_campaign=github-jamietanna)
 - [_Converting HTTP requests to Wiremock stubs, with Go_](https://www.jvt.me/posts/2022/08/12/wiremock-from-http/?utm_campaign=github-jamietanna)
-- [_Using generics to get a pointer to any type, in Go_](https://www.jvt.me/posts/2022/07/29/go-pointer-generic/?utm_campaign=github-jamietanna)
 
 ---
 
