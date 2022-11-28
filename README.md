@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#47_](https://www.jvt.me/week-notes/2022/47/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#46_](https://www.jvt.me/week-notes/2022/46/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#45_](https://www.jvt.me/week-notes/2022/45/?utm_campaign=github-jamietanna)
-- [_Performing AND conditionals in HAProxy_](https://www.jvt.me/posts/2022/11/10/haproxy-and-conditional/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#46](https://www.jvt.me/week-notes/2022/46/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#47](https://www.jvt.me/week-notes/2022/47/?utm_campaign=github-jamietanna).
 
 ---
 
