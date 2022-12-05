@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Prefilling OAuth2 scopes for GitHub Personal Access Tokens_](https://www.jvt.me/posts/2022/12/04/prefill-oauth-scopes-github/?utm_campaign=github-jamietanna)
+- [_Prefilling OAuth2 scopes for GitLab Personal Access Tokens_](https://www.jvt.me/posts/2022/12/04/prefill-oauth-scopes-gitlab/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#48_](https://www.jvt.me/week-notes/2022/48/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#47_](https://www.jvt.me/week-notes/2022/47/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#46_](https://www.jvt.me/week-notes/2022/46/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Prefilling OAuth2 scopes for GitHub Personal Access Tokens_](https://www.jvt.me/posts/2022/12/04/prefill-oauth-scopes-github/?utm_campaign=github-jamietanna)
+- [_Prefilling OAuth2 scopes for GitLab Personal Access Tokens_](https://www.jvt.me/posts/2022/12/04/prefill-oauth-scopes-gitlab/?utm_campaign=github-jamietanna)
 - [_Performing AND conditionals in HAProxy_](https://www.jvt.me/posts/2022/11/10/haproxy-and-conditional/?utm_campaign=github-jamietanna)
 - [_Creating a JSON Patch endpoint in Go_](https://www.jvt.me/posts/2022/11/09/http-json-patch-go/?utm_campaign=github-jamietanna)
 - [_Extracting the dependency tree from Renovate for given repositories_](https://www.jvt.me/posts/2022/11/01/renovate-dependency-graph/?utm_campaign=github-jamietanna)
-- [_Listing all GitHub repositories in a GitHub Organisation_](https://www.jvt.me/posts/2022/10/26/list-github-repos-org/?utm_campaign=github-jamietanna)
-- [_Retrofitting OpenAPI documentation to your Rails codebase_](https://www.jvt.me/posts/2022/10/20/rails-openapi-contract-test-retrofit/?utm_campaign=github-jamietanna)
 
 ---
 
