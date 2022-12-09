@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Getting diagnosed with ADHD_](https://www.jvt.me/posts/2022/12/09/adhd-diagnosis-process/?utm_campaign=github-jamietanna)
 - [_Prefilling OAuth2 scopes for GitHub Personal Access Tokens_](https://www.jvt.me/posts/2022/12/04/prefill-oauth-scopes-github/?utm_campaign=github-jamietanna)
 - [_Prefilling OAuth2 scopes for GitLab Personal Access Tokens_](https://www.jvt.me/posts/2022/12/04/prefill-oauth-scopes-gitlab/?utm_campaign=github-jamietanna)
-- [_Week Notes 22#48_](https://www.jvt.me/week-notes/2022/48/?utm_campaign=github-jamietanna)
 
 ---
 
