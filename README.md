@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Using Renovate to manage updates to go install commands_](https://www.jvt.me/posts/2022/12/20/renovate-go-install/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#50_](https://www.jvt.me/week-notes/2022/50/?utm_campaign=github-jamietanna)
 - [_Using Renovate to manage updates to golangci-lint versions_](https://www.jvt.me/posts/2022/12/15/renovate-golangci-lint/?utm_campaign=github-jamietanna)
-- [_Performing arbitrary executions with Renovate_](https://www.jvt.me/posts/2022/12/12/renovate-one-off/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Using Renovate to manage updates to go install commands_](https://www.jvt.me/posts/2022/12/20/renovate-go-install/?utm_campaign=github-jamietanna)
 - [_Using Renovate to manage updates to golangci-lint versions_](https://www.jvt.me/posts/2022/12/15/renovate-golangci-lint/?utm_campaign=github-jamietanna)
 - [_Performing arbitrary executions with Renovate_](https://www.jvt.me/posts/2022/12/12/renovate-one-off/?utm_campaign=github-jamietanna)
 - [_Prefilling OAuth2 scopes for GitHub Personal Access Tokens_](https://www.jvt.me/posts/2022/12/04/prefill-oauth-scopes-github/?utm_campaign=github-jamietanna)
 - [_Prefilling OAuth2 scopes for GitLab Personal Access Tokens_](https://www.jvt.me/posts/2022/12/04/prefill-oauth-scopes-gitlab/?utm_campaign=github-jamietanna)
-- [_Performing AND conditionals in HAProxy_](https://www.jvt.me/posts/2022/11/10/haproxy-and-conditional/?utm_campaign=github-jamietanna)
 
 ---
 
