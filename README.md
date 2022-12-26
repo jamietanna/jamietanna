@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 22#51_](https://www.jvt.me/week-notes/2022/51/?utm_campaign=github-jamietanna)
 - [_Using Renovate to manage updates to go install commands_](https://www.jvt.me/posts/2022/12/20/renovate-go-install/?utm_campaign=github-jamietanna)
 - [_Week Notes 22#50_](https://www.jvt.me/week-notes/2022/50/?utm_campaign=github-jamietanna)
-- [_Using Renovate to manage updates to golangci-lint versions_](https://www.jvt.me/posts/2022/12/15/renovate-golangci-lint/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#50](https://www.jvt.me/week-notes/2022/50/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 22#51](https://www.jvt.me/week-notes/2022/51/?utm_campaign=github-jamietanna).
 
 ---
 
