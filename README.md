@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Bring Back Blogging - Chris Coyier_](https://chriscoyier.net/2022/12/26/bring-back-blogging/?utm_campaign=github-jamietanna)
 - [_By Buying Twitter, Elon Musk Has Created His Own Hilarious Nightmare_](https://theintercept.com/2022/10/28/elon-musk-twitter/?utm_campaign=github-jamietanna)
 - [_Welcome to hell, Elon_](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation?utm_campaign=github-jamietanna)
 - [_as days pass by — Don’t Read Off The Screen_](https://www.kryogenix.org/days/2022/10/18/don-t-read-off-the-screen/?utm_campaign=github-jamietanna)
 - [_How to Build Software like an SRE_](https://www.willett.io/posts/precepts/?utm_campaign=github-jamietanna)
-- [_We’re drowning_](https://snarfed.org/2022-03-10_were-drowning-software-dependencies?utm_campaign=github-jamietanna)
 
 ---
 
