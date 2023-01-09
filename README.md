@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Who do these AWS credentials belong to?_](https://www.jvt.me/posts/2023/01/09/aws-who-credentials/?utm_campaign=github-jamietanna)
+- [_What I learned rebuilding our CI/CD pipelines for Chef Cookbooks_](https://www.jvt.me/posts/2023/01/09/capital-one-chef-pipeline/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#01_](https://www.jvt.me/week-notes/2023/01/?utm_campaign=github-jamietanna)
-- [_Listing secrets stored in CircleCI_](https://www.jvt.me/posts/2023/01/06/circleci-list-secrets/?utm_campaign=github-jamietanna)
-- [_2022's Music In Review_](https://www.jvt.me/music-in-review/2022/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Who do these AWS credentials belong to?_](https://www.jvt.me/posts/2023/01/09/aws-who-credentials/?utm_campaign=github-jamietanna)
 - [_Listing secrets stored in CircleCI_](https://www.jvt.me/posts/2023/01/06/circleci-list-secrets/?utm_campaign=github-jamietanna)
 - [_Enabling/Disabling GitHub Issues via the GitHub API_](https://www.jvt.me/posts/2023/01/03/github-issues-enable-api/?utm_campaign=github-jamietanna)
 - [_Using Renovate to manage updates to go install commands_](https://www.jvt.me/posts/2022/12/20/renovate-go-install/?utm_campaign=github-jamietanna)
 - [_Using Renovate to manage updates to golangci-lint versions_](https://www.jvt.me/posts/2022/12/15/renovate-golangci-lint/?utm_campaign=github-jamietanna)
-- [_Performing arbitrary executions with Renovate_](https://www.jvt.me/posts/2022/12/12/renovate-one-off/?utm_campaign=github-jamietanna)
 
 ---
 
