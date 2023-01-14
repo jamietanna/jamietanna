@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_https://localghost.dev/blog/i-miss-twitter/_](https://localghost.dev/blog/i-miss-twitter/?utm_campaign=github-jamietanna)
 - [_CircleCI incident report for January 4, 2023 security incident_](https://circleci.com/blog/jan-4-2023-incident-report/?utm_campaign=github-jamietanna)
 - [_Logs as end user UI_](https://snarfed.org/2023-01-11_logs-as-end-user-ui?utm_campaign=github-jamietanna)
 - [_Lies we tell ourselves to keep using Golang_](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang?utm_campaign=github-jamietanna)
 - [_Bring Back Blogging - Chris Coyier_](https://chriscoyier.net/2022/12/26/bring-back-blogging/?utm_campaign=github-jamietanna)
-- [_By Buying Twitter, Elon Musk Has Created His Own Hilarious Nightmare_](https://theintercept.com/2022/10/28/elon-musk-twitter/?utm_campaign=github-jamietanna)
 
 ---
 
