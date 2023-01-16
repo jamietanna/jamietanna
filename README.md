@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#02_](https://www.jvt.me/week-notes/2023/02/?utm_campaign=github-jamietanna)
 - [_Automagically determining which AWS Lambda runtimes are deprecated or end-of-life_](https://www.jvt.me/posts/2023/01/13/lambda-end-of-life-checker/?utm_campaign=github-jamietanna)
 - [_Who do these AWS credentials belong to?_](https://www.jvt.me/posts/2023/01/09/aws-who-credentials/?utm_campaign=github-jamietanna)
-- [_What I learned rebuilding our CI/CD pipelines for Chef Cookbooks_](https://www.jvt.me/posts/2023/01/09/capital-one-chef-pipeline/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#01](https://www.jvt.me/week-notes/2023/01/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#02](https://www.jvt.me/week-notes/2023/02/?utm_campaign=github-jamietanna).
 
 ---
 
