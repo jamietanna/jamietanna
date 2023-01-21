@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Performing bulk changes across Git(Hub) Repos with Turbolift and Microplane_](https://www.jvt.me/posts/2023/01/21/bulk-git-repo-changes/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#02_](https://www.jvt.me/week-notes/2023/02/?utm_campaign=github-jamietanna)
 - [_Automagically determining which AWS Lambda runtimes are deprecated or end-of-life_](https://www.jvt.me/posts/2023/01/13/lambda-end-of-life-checker/?utm_campaign=github-jamietanna)
-- [_Who do these AWS credentials belong to?_](https://www.jvt.me/posts/2023/01/09/aws-who-credentials/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Performing bulk changes across Git(Hub) Repos with Turbolift and Microplane_](https://www.jvt.me/posts/2023/01/21/bulk-git-repo-changes/?utm_campaign=github-jamietanna)
 - [_Automagically determining which AWS Lambda runtimes are deprecated or end-of-life_](https://www.jvt.me/posts/2023/01/13/lambda-end-of-life-checker/?utm_campaign=github-jamietanna)
 - [_Who do these AWS credentials belong to?_](https://www.jvt.me/posts/2023/01/09/aws-who-credentials/?utm_campaign=github-jamietanna)
 - [_Listing secrets stored in CircleCI_](https://www.jvt.me/posts/2023/01/06/circleci-list-secrets/?utm_campaign=github-jamietanna)
 - [_Enabling/Disabling GitHub Issues via the GitHub API_](https://www.jvt.me/posts/2023/01/03/github-issues-enable-api/?utm_campaign=github-jamietanna)
-- [_Using Renovate to manage updates to go install commands_](https://www.jvt.me/posts/2022/12/20/renovate-go-install/?utm_campaign=github-jamietanna)
 
 ---
 
