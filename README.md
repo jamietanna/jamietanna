@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Determining missing translation keys from gettext .po files_](https://www.jvt.me/posts/2023/02/01/missing-translations/?utm_campaign=github-jamietanna)
 - [_Setting up default Renovate configuration while allowing overriding of that configuration_](https://www.jvt.me/posts/2023/01/30/renovate-global-defaults/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#04_](https://www.jvt.me/week-notes/2023/04/?utm_campaign=github-jamietanna)
-- [_Does this Slack Webhook still work?_](https://www.jvt.me/posts/2023/01/23/slack-webhooks-active/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Determining missing translation keys from gettext .po files_](https://www.jvt.me/posts/2023/02/01/missing-translations/?utm_campaign=github-jamietanna)
 - [_Setting up default Renovate configuration while allowing overriding of that configuration_](https://www.jvt.me/posts/2023/01/30/renovate-global-defaults/?utm_campaign=github-jamietanna)
 - [_Does this Slack Webhook still work?_](https://www.jvt.me/posts/2023/01/23/slack-webhooks-active/?utm_campaign=github-jamietanna)
 - [_Who does this NPM token belong to?_](https://www.jvt.me/posts/2023/01/23/npm-who-token/?utm_campaign=github-jamietanna)
 - [_Performing bulk changes across Git(Hub) Repos with Turbolift and Microplane_](https://www.jvt.me/posts/2023/01/21/bulk-git-repo-changes/?utm_campaign=github-jamietanna)
-- [_Automagically determining which AWS Lambda runtimes are deprecated or end-of-life_](https://www.jvt.me/posts/2023/01/13/lambda-end-of-life-checker/?utm_campaign=github-jamietanna)
 
 ---
 
