@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Getting comfortable with the lack of privacy with my Week Notes_](https://www.jvt.me/posts/2023/02/01/privacy-week-notes/?utm_campaign=github-jamietanna)
 - [_Determining missing translation keys from gettext .po files_](https://www.jvt.me/posts/2023/02/01/missing-translations/?utm_campaign=github-jamietanna)
 - [_Setting up default Renovate configuration while allowing overriding of that configuration_](https://www.jvt.me/posts/2023/01/30/renovate-global-defaults/?utm_campaign=github-jamietanna)
-- [_Week Notes 23#04_](https://www.jvt.me/week-notes/2023/04/?utm_campaign=github-jamietanna)
 
 ---
 
