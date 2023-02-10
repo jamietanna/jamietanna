@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
-- [_Week Notes 23#05_](https://www.jvt.me/week-notes/2023/05/?utm_campaign=github-jamietanna)
-- [_Listing the status of your branch protection in GitHub_](https://www.jvt.me/posts/2023/02/03/github-branch-protection-report/?utm_campaign=github-jamietanna)
-- [_Getting comfortable with the lack of privacy with my Week Notes_](https://www.jvt.me/posts/2023/02/01/privacy-week-notes/?utm_campaign=github-jamietanna)
+- [_2022's Site In Review_](https://www.jvt.me/site-in-review/2022/?utm_campaign=github-jamietanna)
+- [_2021's Site In Review_](https://www.jvt.me/site-in-review/2021/?utm_campaign=github-jamietanna)
+- [_2020's Site In Review_](https://www.jvt.me/site-in-review/2020/?utm_campaign=github-jamietanna)
 
 ---
 
