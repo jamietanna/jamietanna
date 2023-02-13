@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_No I won't make it 'sexy'. - Lex Lofthouse_](https://loftio.co.uk/no-i-wont-make-it-sexy/?utm_campaign=github-jamietanna)
 - [_https://localghost.dev/blog/everything-should-have-an-api-adventures-in-trying-to-automate-stuff/_](https://localghost.dev/blog/everything-should-have-an-api-adventures-in-trying-to-automate-stuff/?utm_campaign=github-jamietanna)
 - [_https://localghost.dev/blog/i-miss-twitter/_](https://localghost.dev/blog/i-miss-twitter/?utm_campaign=github-jamietanna)
 - [_CircleCI incident report for January 4, 2023 security incident_](https://circleci.com/blog/jan-4-2023-incident-report/?utm_campaign=github-jamietanna)
 - [_Logs as end user UI_](https://snarfed.org/2023-01-11_logs-as-end-user-ui?utm_campaign=github-jamietanna)
-- [_Lies we tell ourselves to keep using Golang_](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang?utm_campaign=github-jamietanna)
 
 ---
 
