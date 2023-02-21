@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Introducing dmd, a command-line tool for Dependency Management Data (DMD)_](https://www.jvt.me/posts/2023/02/20/dmd-cli/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#07_](https://www.jvt.me/week-notes/2023/07/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#06_](https://www.jvt.me/week-notes/2023/06/?utm_campaign=github-jamietanna)
-- [_Getting a GitHub App installation token on the command-line_](https://www.jvt.me/posts/2023/02/11/github-app-token-typescript/?utm_campaign=github-jamietanna)
 
 ---
 
