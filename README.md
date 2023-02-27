@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#08_](https://www.jvt.me/week-notes/2023/08/?utm_campaign=github-jamietanna)
 - [_Cross-compiling a CGO project using Goreleaser_](https://www.jvt.me/posts/2023/02/24/goreleaser-cgo-cross-compile/?utm_campaign=github-jamietanna)
 - [_Introducing dmd, a command-line tool for Dependency Management Data (DMD)_](https://www.jvt.me/posts/2023/02/20/dmd-cli/?utm_campaign=github-jamietanna)
-- [_Week Notes 23#07_](https://www.jvt.me/week-notes/2023/07/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#07](https://www.jvt.me/week-notes/2023/07/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#08](https://www.jvt.me/week-notes/2023/08/?utm_campaign=github-jamietanna).
 
 ---
 
