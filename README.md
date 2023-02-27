@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Getting a --version flag for Cobra CLIs in Go_](https://www.jvt.me/posts/2023/02/27/go-cobra-goreleaser-version/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#08_](https://www.jvt.me/week-notes/2023/08/?utm_campaign=github-jamietanna)
 - [_Cross-compiling a CGO project using Goreleaser_](https://www.jvt.me/posts/2023/02/24/goreleaser-cgo-cross-compile/?utm_campaign=github-jamietanna)
-- [_Introducing dmd, a command-line tool for Dependency Management Data (DMD)_](https://www.jvt.me/posts/2023/02/20/dmd-cli/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Getting a --version flag for Cobra CLIs in Go_](https://www.jvt.me/posts/2023/02/27/go-cobra-goreleaser-version/?utm_campaign=github-jamietanna)
 - [_Cross-compiling a CGO project using Goreleaser_](https://www.jvt.me/posts/2023/02/24/goreleaser-cgo-cross-compile/?utm_campaign=github-jamietanna)
 - [_Getting a GitHub App installation token on the command-line_](https://www.jvt.me/posts/2023/02/11/github-app-token-typescript/?utm_campaign=github-jamietanna)
 - [_Passing a private key as an environment variable_](https://www.jvt.me/posts/2023/02/11/pem-environment-variable/?utm_campaign=github-jamietanna)
 - [_Listing the status of your branch protection in GitHub_](https://www.jvt.me/posts/2023/02/03/github-branch-protection-report/?utm_campaign=github-jamietanna)
-- [_Determining missing translation keys from gettext .po files_](https://www.jvt.me/posts/2023/02/01/missing-translations/?utm_campaign=github-jamietanna)
 
 ---
 
