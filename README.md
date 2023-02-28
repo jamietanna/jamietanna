@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_The Fediverse is Already Dead | Nora Codes_](https://nora.codes/post/the-fediverse-is-already-dead/?utm_campaign=github-jamietanna)
 - [_I Lived the Majority of My 4000 Weeks – a post by Marc Thiele_](https://marcthiele.com/notes/i-lived-the-majority-of-my-weeks?utm_campaign=github-jamietanna)
 - [_Tech's Elite Hates Labor_](https://ez.substack.com/p/techs-elite-hates-labor?utm_campaign=github-jamietanna)
 - [_An Introduction To Class Warfare For The Software Engineer_](https://medium.com/@lloyd-f-hough/an-introduction-to-class-warfare-for-the-software-engineer-1810833055d7?utm_campaign=github-jamietanna)
 - [_No I won't make it 'sexy'. - Lex Lofthouse_](https://loftio.co.uk/no-i-wont-make-it-sexy/?utm_campaign=github-jamietanna)
-- [_https://localghost.dev/blog/everything-should-have-an-api-adventures-in-trying-to-automate-stuff/_](https://localghost.dev/blog/everything-should-have-an-api-adventures-in-trying-to-automate-stuff/?utm_campaign=github-jamietanna)
 
 ---
 
