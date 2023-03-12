@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Dynamically retrieving the version of a Node.JS/Typescript dependency, at runtime_](https://www.jvt.me/posts/2023/03/12/nodejs-dynamic-version/?utm_campaign=github-jamietanna)
 - [_Automating boilerplate/scaffolding code with custom code generation in Go, with jen_](https://www.jvt.me/posts/2023/03/11/go-custom-generate-jen/?utm_campaign=github-jamietanna)
 - [_Debugging HTTP Client requests with Go_](https://www.jvt.me/posts/2023/03/11/go-debug-http/?utm_campaign=github-jamietanna)
-- [_Who do these Twilio credentials belong to?_](https://www.jvt.me/posts/2023/03/08/twilio-who-credentials/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Dynamically retrieving the version of a Node.JS/Typescript dependency, at runtime_](https://www.jvt.me/posts/2023/03/12/nodejs-dynamic-version/?utm_campaign=github-jamietanna)
 - [_Automating boilerplate/scaffolding code with custom code generation in Go, with jen_](https://www.jvt.me/posts/2023/03/11/go-custom-generate-jen/?utm_campaign=github-jamietanna)
 - [_Debugging HTTP Client requests with Go_](https://www.jvt.me/posts/2023/03/11/go-debug-http/?utm_campaign=github-jamietanna)
 - [_Who do these Twilio credentials belong to?_](https://www.jvt.me/posts/2023/03/08/twilio-who-credentials/?utm_campaign=github-jamietanna)
 - [_Getting a --version flag for Cobra CLIs in Go_](https://www.jvt.me/posts/2023/02/27/go-cobra-goreleaser-version/?utm_campaign=github-jamietanna)
-- [_Cross-compiling a CGO project using Goreleaser_](https://www.jvt.me/posts/2023/02/24/goreleaser-cgo-cross-compile/?utm_campaign=github-jamietanna)
 
 ---
 
