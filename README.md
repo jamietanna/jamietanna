@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#10_](https://www.jvt.me/week-notes/2023/10/?utm_campaign=github-jamietanna)
 - [_Dynamically retrieving the version of a Node.JS/Typescript dependency, at runtime_](https://www.jvt.me/posts/2023/03/12/nodejs-dynamic-version/?utm_campaign=github-jamietanna)
 - [_Automating boilerplate/scaffolding code with custom code generation in Go, with jen_](https://www.jvt.me/posts/2023/03/11/go-custom-generate-jen/?utm_campaign=github-jamietanna)
-- [_Debugging HTTP Client requests with Go_](https://www.jvt.me/posts/2023/03/11/go-debug-http/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#09](https://www.jvt.me/week-notes/2023/09/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#10](https://www.jvt.me/week-notes/2023/10/?utm_campaign=github-jamietanna).
 
 ---
 
