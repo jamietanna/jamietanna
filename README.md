@@ -14,31 +14,31 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Working out which Docker namespaces and images you most depend on_](https://www.jvt.me/posts/2023/03/15/dmd-docker-usage/?utm_campaign=github-jamietanna)
 - [_Querying JSON with SQLite_](https://www.jvt.me/posts/2023/03/13/sqlite-json/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#10_](https://www.jvt.me/week-notes/2023/10/?utm_campaign=github-jamietanna)
-- [_Dynamically retrieving the version of a Node.JS/Typescript dependency, at runtime_](https://www.jvt.me/posts/2023/03/12/nodejs-dynamic-version/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Working out which Docker namespaces and images you most depend on_](https://www.jvt.me/posts/2023/03/15/dmd-docker-usage/?utm_campaign=github-jamietanna)
 - [_Querying JSON with SQLite_](https://www.jvt.me/posts/2023/03/13/sqlite-json/?utm_campaign=github-jamietanna)
 - [_Dynamically retrieving the version of a Node.JS/Typescript dependency, at runtime_](https://www.jvt.me/posts/2023/03/12/nodejs-dynamic-version/?utm_campaign=github-jamietanna)
 - [_Automating boilerplate/scaffolding code with custom code generation in Go, with jen_](https://www.jvt.me/posts/2023/03/11/go-custom-generate-jen/?utm_campaign=github-jamietanna)
 - [_Debugging HTTP Client requests with Go_](https://www.jvt.me/posts/2023/03/11/go-debug-http/?utm_campaign=github-jamietanna)
-- [_Who do these Twilio credentials belong to?_](https://www.jvt.me/posts/2023/03/08/twilio-who-credentials/?utm_campaign=github-jamietanna)
 
 ---
 
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Docker is deleting Open Source organisations - what you need to know_](https://blog.alexellis.io/docker-is-deleting-open-source-images/?utm_campaign=github-jamietanna)
 - [_Be Careful Using tmux and Environment Variables_](https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/?utm_campaign=github-jamietanna)
 - [_The Fediverse is Already Dead | Nora Codes_](https://nora.codes/post/the-fediverse-is-already-dead/?utm_campaign=github-jamietanna)
 - [_I Lived the Majority of My 4000 Weeks – a post by Marc Thiele_](https://marcthiele.com/notes/i-lived-the-majority-of-my-weeks?utm_campaign=github-jamietanna)
 - [_Tech's Elite Hates Labor_](https://ez.substack.com/p/techs-elite-hates-labor?utm_campaign=github-jamietanna)
-- [_An Introduction To Class Warfare For The Software Engineer_](https://medium.com/@lloyd-f-hough/an-introduction-to-class-warfare-for-the-software-engineer-1810833055d7?utm_campaign=github-jamietanna)
 
 ---
 
