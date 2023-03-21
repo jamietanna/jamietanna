@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_It’s worth putting in the effort to regularly update dependencies_](https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies?utm_campaign=github-jamietanna)
 - [_Docker is deleting Open Source organisations - what you need to know_](https://blog.alexellis.io/docker-is-deleting-open-source-images/?utm_campaign=github-jamietanna)
 - [_Be Careful Using tmux and Environment Variables_](https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/?utm_campaign=github-jamietanna)
 - [_The Fediverse is Already Dead | Nora Codes_](https://nora.codes/post/the-fediverse-is-already-dead/?utm_campaign=github-jamietanna)
 - [_I Lived the Majority of My 4000 Weeks – a post by Marc Thiele_](https://marcthiele.com/notes/i-lived-the-majority-of-my-weeks?utm_campaign=github-jamietanna)
-- [_Tech's Elite Hates Labor_](https://ez.substack.com/p/techs-elite-hates-labor?utm_campaign=github-jamietanna)
 
 ---
 
