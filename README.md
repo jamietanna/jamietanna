@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Feedly launches strikebreaking as a service_](https://newsletter.mollywhite.net/p/feedly-launches-strikebreaking-as?utm_campaign=github-jamietanna)
 - [_Continuous Productivity Is Toxic_](https://brainbaking.com/post/2023/03/continuous-productivity-is-toxic/?utm_campaign=github-jamietanna)
 - [_Why Engineers Need To Write_](https://www.developing.dev/p/why-engineers-need-to-write?utm_campaign=github-jamietanna)
 - [_SOS: Sustainable Open Source_](https://thenewstack.io/sos-sustainable-open-source/?utm_campaign=github-jamietanna)
 - [_It’s worth putting in the effort to regularly update dependencies_](https://felixcrux.com/blog/it-is-worth-regularly-updating-dependencies?utm_campaign=github-jamietanna)
-- [_Docker is deleting Open Source organisations - what you need to know_](https://blog.alexellis.io/docker-is-deleting-open-source-images/?utm_campaign=github-jamietanna)
 
 ---
 
