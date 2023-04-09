@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#14_](https://www.jvt.me/week-notes/2023/14/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#13_](https://www.jvt.me/week-notes/2023/13/?utm_campaign=github-jamietanna)
 - [_Generating Equal methods for Go structs with goderive_](https://www.jvt.me/posts/2023/03/27/go-generate-equal-goderive/?utm_campaign=github-jamietanna)
-- [_Week Notes 23#12_](https://www.jvt.me/week-notes/2023/12/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#13](https://www.jvt.me/week-notes/2023/13/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#14](https://www.jvt.me/week-notes/2023/14/?utm_campaign=github-jamietanna).
 
 ---
 
