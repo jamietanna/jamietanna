@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Six ways to shoot yourself in the foot with healthchecks_](https://philbooth.me/blog/six-ways-to-shoot-yourself-in-the-foot-with-healthchecks?utm_campaign=github-jamietanna)
+- [_Silence Isn't Consent_](https://shkspr.mobi/blog/2023/04/silence-isnt-consent/?utm_campaign=github-jamietanna)
+- [_Mastodon Is Doomed_](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/?utm_campaign=github-jamietanna)
 - [_Jamie Tanna (or why I decided to resume writing)_](https://manuelschmidt.net/jamie-tanna/?utm_campaign=github-jamietanna)
 - [_People in your software supply chain_](https://sethmlarson.dev/people-in-your-software-supply-chain?utm_campaign=github-jamietanna)
-- [_Google Assured OSS_](https://sethmlarson.dev/google-assured-oss?utm_campaign=github-jamietanna)
-- [_Announcing the deps.dev API: critical dependency data for secure supply chains_](https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html?utm_campaign=github-jamietanna)
-- [_Make Your CLI Demos a Breeze with Zero Stress and Zero Mistakes | Martin Heinz | Personal Website & Blog_](https://martinheinz.dev/blog/94?utm_campaign=github-jamietanna)
 
 ---
 
