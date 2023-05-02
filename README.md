@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Serving the current directory over HTTP with Go_](https://www.jvt.me/posts/2023/05/02/serve-http-directory-go/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#17_](https://www.jvt.me/week-notes/2023/17/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#16_](https://www.jvt.me/week-notes/2023/16/?utm_campaign=github-jamietanna)
-- [_Getting the commit author details for a GitHub App account_](https://www.jvt.me/posts/2023/04/20/github-app-email-address/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Serving the current directory over HTTP with Go_](https://www.jvt.me/posts/2023/05/02/serve-http-directory-go/?utm_campaign=github-jamietanna)
 - [_Getting the commit author details for a GitHub App account_](https://www.jvt.me/posts/2023/04/20/github-app-email-address/?utm_campaign=github-jamietanna)
 - [_Generating Equal methods for Go structs with goderive_](https://www.jvt.me/posts/2023/03/27/go-generate-equal-goderive/?utm_campaign=github-jamietanna)
 - [_Ensuring files are synced between repos with GitHub Actions_](https://www.jvt.me/posts/2023/03/23/github-actions-sync-files/?utm_campaign=github-jamietanna)
 - [_Working out which Docker namespaces and images you most depend on_](https://www.jvt.me/posts/2023/03/15/dmd-docker-usage/?utm_campaign=github-jamietanna)
-- [_Querying JSON with SQLite_](https://www.jvt.me/posts/2023/03/13/sqlite-json/?utm_campaign=github-jamietanna)
 
 ---
 
