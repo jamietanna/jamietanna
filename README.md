@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Monoliths are not dinosaurs_](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html?utm_campaign=github-jamietanna)
 - [_Just Simply | Stop saying how simple things are in our docs_](https://justsimply.dev/?utm_campaign=github-jamietanna)
 - [_Does OAuth2 have a usability problem? (yes!)_](https://evertpot.com/oauth2-usability/?utm_campaign=github-jamietanna)
 - [_Why is OAuth still hard in 2023? | Nango Blog_](https://www.nango.dev/blog/why-is-oauth-still-hard?utm_campaign=github-jamietanna)
 - [_Six ways to shoot yourself in the foot with healthchecks_](https://philbooth.me/blog/six-ways-to-shoot-yourself-in-the-foot-with-healthchecks?utm_campaign=github-jamietanna)
-- [_Silence Isn't Consent_](https://shkspr.mobi/blog/2023/04/silence-isnt-consent/?utm_campaign=github-jamietanna)
 
 ---
 
