@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#19_](https://www.jvt.me/week-notes/2023/19/?utm_campaign=github-jamietanna)
 - [_Creating an HTTP 404 handler for Go net/http servers_](https://www.jvt.me/posts/2023/05/11/go-404-handler/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#18_](https://www.jvt.me/week-notes/2023/18/?utm_campaign=github-jamietanna)
-- [_Serving the current directory over HTTP with Go_](https://www.jvt.me/posts/2023/05/02/serve-http-directory-go/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#18](https://www.jvt.me/week-notes/2023/18/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#19](https://www.jvt.me/week-notes/2023/19/?utm_campaign=github-jamietanna).
 
 ---
 
