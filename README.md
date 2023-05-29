@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Learn how to build tools_](https://www.jvt.me/posts/2023/05/29/learn-how-to-build-tools/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#21_](https://www.jvt.me/week-notes/2023/21/?utm_campaign=github-jamietanna)
 - [_Getting a --version flag for Cobra CLIs in Go_](https://www.jvt.me/posts/2023/05/27/go-cobra-version/?utm_campaign=github-jamietanna)
-- [_Performing downtime-inducing AWS RDS changes with no downtime☆_](https://www.jvt.me/posts/2023/05/23/aws-rds-downtimeless/?utm_campaign=github-jamietanna)
 
 ---
 
