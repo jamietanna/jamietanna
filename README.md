@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Introducing openapi-sorbet, a command-line tool for generating Sorbet types from OpenAPI_](https://www.jvt.me/posts/2023/05/31/openapi-sorbet/?utm_campaign=github-jamietanna)
 - [_Learn how to build tools_](https://www.jvt.me/posts/2023/05/29/learn-how-to-build-tools/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#21_](https://www.jvt.me/week-notes/2023/21/?utm_campaign=github-jamietanna)
-- [_Getting a --version flag for Cobra CLIs in Go_](https://www.jvt.me/posts/2023/05/27/go-cobra-version/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Introducing openapi-sorbet, a command-line tool for generating Sorbet types from OpenAPI_](https://www.jvt.me/posts/2023/05/31/openapi-sorbet/?utm_campaign=github-jamietanna)
 - [_Getting a --version flag for Cobra CLIs in Go_](https://www.jvt.me/posts/2023/05/27/go-cobra-version/?utm_campaign=github-jamietanna)
 - [_Performing downtime-inducing AWS RDS changes with no downtime☆_](https://www.jvt.me/posts/2023/05/23/aws-rds-downtimeless/?utm_campaign=github-jamietanna)
 - [_The Lazy engineer's guide to running your Go web application to AWS Lambda_](https://www.jvt.me/posts/2023/05/21/lazy-go-lambda/?utm_campaign=github-jamietanna)
 - [_Which OS and CPU architecture is this binary compiled for?_](https://www.jvt.me/posts/2023/05/15/go-parse-binary-architecture/?utm_campaign=github-jamietanna)
-- [_Creating an HTTP 404 handler for Go net/http servers_](https://www.jvt.me/posts/2023/05/11/go-404-handler/?utm_campaign=github-jamietanna)
 
 ---
 
