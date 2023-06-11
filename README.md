@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#23_](https://www.jvt.me/week-notes/2023/23/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#22_](https://www.jvt.me/week-notes/2023/22/?utm_campaign=github-jamietanna)
 - [_Introducing openapi-sorbet, a command-line tool for generating Sorbet types from OpenAPI_](https://www.jvt.me/posts/2023/05/31/openapi-sorbet/?utm_campaign=github-jamietanna)
-- [_Learn how to build tools_](https://www.jvt.me/posts/2023/05/29/learn-how-to-build-tools/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#22](https://www.jvt.me/week-notes/2023/22/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#23](https://www.jvt.me/week-notes/2023/23/?utm_campaign=github-jamietanna).
 
 ---
 
