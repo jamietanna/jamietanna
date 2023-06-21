@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Ego death. | Kris Nóva_](https://krisnova.net/posts/ego-death/?utm_campaign=github-jamietanna)
 - [_You Can Write About Anything_](https://roytang.net/2023/06/write-anything/?utm_campaign=github-jamietanna)
 - [_Secrets Exposed: How to mitigate risk from secrets leaks — and prevent future breaches_](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps?utm_campaign=github-jamietanna)
 - [_The Importance of Labor Organizing in Tech (To Me)_](https://jacky.wtf/2023/5/E57b?utm_campaign=github-jamietanna)
 - [_Read Every Single Error_](https://www.pulumi.com/blog/reducing-our-error-rate/?utm_campaign=github-jamietanna)
-- [_A new way to measure developer productivity – from the creators of DORA and SPACE_](https://newsletter.pragmaticengineer.com/p/developer-productivity-a-new-framework?utm_campaign=github-jamietanna)
 
 ---
 
