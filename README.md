@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_I'm joining Elastic_](https://www.jvt.me/posts/2023/06/26/joining-elastic/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#25_](https://www.jvt.me/week-notes/2023/25/?utm_campaign=github-jamietanna)
 - [_Using go.mod versions to go install a binary_](https://www.jvt.me/posts/2023/06/19/go-install-from-mod/?utm_campaign=github-jamietanna)
-- [_Checking the migration status with golang-migrate_](https://www.jvt.me/posts/2023/06/19/golang-migrate-status/?utm_campaign=github-jamietanna)
 
 ---
 
