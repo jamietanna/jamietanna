@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Introducing dmd-web, a web frontend for Dependency Management Data (DMD)_](https://www.jvt.me/posts/2023/07/08/dmd-web/?utm_campaign=github-jamietanna)
 - [_Sharing state between net/http method calls in Go_](https://www.jvt.me/posts/2023/07/03/go-http-server-state/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#26_](https://www.jvt.me/week-notes/2023/26/?utm_campaign=github-jamietanna)
-- [_Who do these Google (JSON file) credentials belong to?_](https://www.jvt.me/posts/2023/06/30/who-google-credentials/?utm_campaign=github-jamietanna)
 
 ---
 
