@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Merging a branch in GitHub - the hard way_](https://www.jvt.me/posts/2023/07/13/github-merge-api-manual/?utm_campaign=github-jamietanna)
 - [_Validating Renovate configuration changes before merging_](https://www.jvt.me/posts/2023/07/10/renovate-dry-run/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#27_](https://www.jvt.me/week-notes/2023/27/?utm_campaign=github-jamietanna)
-- [_Introducing dmd-web, a web frontend for Dependency Management Data (DMD)_](https://www.jvt.me/posts/2023/07/08/dmd-web/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Merging a branch in GitHub - the hard way_](https://www.jvt.me/posts/2023/07/13/github-merge-api-manual/?utm_campaign=github-jamietanna)
 - [_Validating Renovate configuration changes before merging_](https://www.jvt.me/posts/2023/07/10/renovate-dry-run/?utm_campaign=github-jamietanna)
 - [_Sharing state between net/http method calls in Go_](https://www.jvt.me/posts/2023/07/03/go-http-server-state/?utm_campaign=github-jamietanna)
 - [_Who do these Google (JSON file) credentials belong to?_](https://www.jvt.me/posts/2023/06/30/who-google-credentials/?utm_campaign=github-jamietanna)
 - [_Using go.mod versions to go install a binary_](https://www.jvt.me/posts/2023/06/19/go-install-from-mod/?utm_campaign=github-jamietanna)
-- [_Checking the migration status with golang-migrate_](https://www.jvt.me/posts/2023/06/19/golang-migrate-status/?utm_campaign=github-jamietanna)
 
 ---
 
