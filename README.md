@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#28_](https://www.jvt.me/week-notes/2023/28/?utm_campaign=github-jamietanna)
 - [_Merging a branch in GitHub - the hard way_](https://www.jvt.me/posts/2023/07/13/github-merge-api-manual/?utm_campaign=github-jamietanna)
 - [_Validating Renovate configuration changes before merging_](https://www.jvt.me/posts/2023/07/10/renovate-dry-run/?utm_campaign=github-jamietanna)
-- [_Week Notes 23#27_](https://www.jvt.me/week-notes/2023/27/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#27](https://www.jvt.me/week-notes/2023/27/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#28](https://www.jvt.me/week-notes/2023/28/?utm_campaign=github-jamietanna).
 
 ---
 
