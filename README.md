@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Nobody cares about your blog._](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html?utm_campaign=github-jamietanna)
 - [_Advice for Operating a Public-Facing API_](https://jcs.org/2023/07/12/api?utm_campaign=github-jamietanna)
 - [_Every person on the planet should have their own website 💡 Amin Eftegarie_](https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/?utm_campaign=github-jamietanna)
 - [_Ego death. | Kris Nóva_](https://krisnova.net/posts/ego-death/?utm_campaign=github-jamietanna)
 - [_You Can Write About Anything_](https://roytang.net/2023/06/write-anything/?utm_campaign=github-jamietanna)
-- [_Secrets Exposed: How to mitigate risk from secrets leaks — and prevent future breaches_](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps?utm_campaign=github-jamietanna)
 
 ---
 
