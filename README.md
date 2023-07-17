@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_LeadDev London 2023_](https://www.jvt.me/posts/2023/07/17/lead-dev-2023/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#28_](https://www.jvt.me/week-notes/2023/28/?utm_campaign=github-jamietanna)
 - [_Merging a branch in GitHub - the hard way_](https://www.jvt.me/posts/2023/07/13/github-merge-api-manual/?utm_campaign=github-jamietanna)
-- [_Validating Renovate configuration changes before merging_](https://www.jvt.me/posts/2023/07/10/renovate-dry-run/?utm_campaign=github-jamietanna)
 
 ---
 
