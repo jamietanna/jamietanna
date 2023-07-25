@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Getting started with Dependency Management Data_](https://www.jvt.me/posts/2023/07/25/dmd-getting-started/?utm_campaign=github-jamietanna)
+- [_Quantifying your reliance on Open Source software_](https://www.jvt.me/posts/2023/07/25/dmd-talk/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#29_](https://www.jvt.me/week-notes/2023/29/?utm_campaign=github-jamietanna)
-- [_LeadDev London 2023_](https://www.jvt.me/posts/2023/07/17/lead-dev-2023/?utm_campaign=github-jamietanna)
-- [_Week Notes 23#28_](https://www.jvt.me/week-notes/2023/28/?utm_campaign=github-jamietanna)
 
 ---
 
