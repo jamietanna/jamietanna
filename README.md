@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Share Demos Every Friday_](https://taylor.town/friday-demos?utm_campaign=github-jamietanna)
 - [_Stick to boring architecture for as long as possible_](https://addyosmani.com/blog/boring-architecture/?utm_campaign=github-jamietanna)
 - [_Nobody cares about your blog._](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html?utm_campaign=github-jamietanna)
 - [_Advice for Operating a Public-Facing API_](https://jcs.org/2023/07/12/api?utm_campaign=github-jamietanna)
 - [_Every person on the planet should have their own website 💡 Amin Eftegarie_](https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/?utm_campaign=github-jamietanna)
-- [_Ego death. | Kris Nóva_](https://krisnova.net/posts/ego-death/?utm_campaign=github-jamietanna)
 
 ---
 
