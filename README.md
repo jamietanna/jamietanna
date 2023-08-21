@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#33_](https://www.jvt.me/week-notes/2023/33/?utm_campaign=github-jamietanna)
 - [_Running commands against every module in a Go multi-module project_](https://www.jvt.me/posts/2023/08/18/go-multi-module-execute/?utm_campaign=github-jamietanna)
 - [_Resolving Timeouts when generating entropy when generating a new GPG key_](https://www.jvt.me/posts/2023/08/15/gpg-timeout-pinentry/?utm_campaign=github-jamietanna)
-- [_Resolving black screen display with SDDM and NVIDIA GPUs_](https://www.jvt.me/posts/2023/08/14/sddm-nouveau/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#32](https://www.jvt.me/week-notes/2023/32/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#33](https://www.jvt.me/week-notes/2023/33/?utm_campaign=github-jamietanna).
 
 ---
 
