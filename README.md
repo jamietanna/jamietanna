@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Managing Buildkite Agent Images with Renovate_](https://www.jvt.me/posts/2023/08/22/renovate-buildkite-images/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#33_](https://www.jvt.me/week-notes/2023/33/?utm_campaign=github-jamietanna)
 - [_Running commands against every module in a Go multi-module project_](https://www.jvt.me/posts/2023/08/18/go-multi-module-execute/?utm_campaign=github-jamietanna)
-- [_Resolving Timeouts when generating entropy when generating a new GPG key_](https://www.jvt.me/posts/2023/08/15/gpg-timeout-pinentry/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Managing Buildkite Agent Images with Renovate_](https://www.jvt.me/posts/2023/08/22/renovate-buildkite-images/?utm_campaign=github-jamietanna)
 - [_Running commands against every module in a Go multi-module project_](https://www.jvt.me/posts/2023/08/18/go-multi-module-execute/?utm_campaign=github-jamietanna)
 - [_Resolving Timeouts when generating entropy when generating a new GPG key_](https://www.jvt.me/posts/2023/08/15/gpg-timeout-pinentry/?utm_campaign=github-jamietanna)
 - [_Resolving black screen display with SDDM and NVIDIA GPUs_](https://www.jvt.me/posts/2023/08/14/sddm-nouveau/?utm_campaign=github-jamietanna)
 - [_Analysing GitHub Pull Request review times with SQLite and Go_](https://www.jvt.me/posts/2023/08/10/measure-code-review-tool/?utm_campaign=github-jamietanna)
-- [_Merging a branch in GitHub - the hard way_](https://www.jvt.me/posts/2023/07/13/github-merge-api-manual/?utm_campaign=github-jamietanna)
 
 ---
 
