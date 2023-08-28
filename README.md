@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#34_](https://www.jvt.me/week-notes/2023/34/?utm_campaign=github-jamietanna)
 - [_Turning on Caps Lock when the Caps Lock key is bound to a different key_](https://www.jvt.me/posts/2023/08/25/caps-lock-linux-rebound/?utm_campaign=github-jamietanna)
 - [_Setting up real-time Slack notifications for GitHub_](https://www.jvt.me/posts/2023/08/23/github-slack-notifications/?utm_campaign=github-jamietanna)
-- [_Managing Buildkite Agent Images with Renovate_](https://www.jvt.me/posts/2023/08/22/renovate-buildkite-images/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#33](https://www.jvt.me/week-notes/2023/33/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#34](https://www.jvt.me/week-notes/2023/34/?utm_campaign=github-jamietanna).
 
 ---
 
