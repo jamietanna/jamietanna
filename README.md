@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Custom Advisories: the unsung hero of dependency-management-data_](https://www.jvt.me/posts/2023/08/29/dmd-custom-advisories/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#34_](https://www.jvt.me/week-notes/2023/34/?utm_campaign=github-jamietanna)
 - [_Turning on Caps Lock when the Caps Lock key is bound to a different key_](https://www.jvt.me/posts/2023/08/25/caps-lock-linux-rebound/?utm_campaign=github-jamietanna)
-- [_Setting up real-time Slack notifications for GitHub_](https://www.jvt.me/posts/2023/08/23/github-slack-notifications/?utm_campaign=github-jamietanna)
 
 ---
 
