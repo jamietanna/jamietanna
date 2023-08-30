@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Setting up Renovate On-Prem for GitLab.com on Fly.io_](https://www.jvt.me/posts/2023/08/30/renovate-fly-io/?utm_campaign=github-jamietanna)
 - [_Custom Advisories: the unsung hero of dependency-management-data_](https://www.jvt.me/posts/2023/08/29/dmd-custom-advisories/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#34_](https://www.jvt.me/week-notes/2023/34/?utm_campaign=github-jamietanna)
-- [_Turning on Caps Lock when the Caps Lock key is bound to a different key_](https://www.jvt.me/posts/2023/08/25/caps-lock-linux-rebound/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Setting up Renovate On-Prem for GitLab.com on Fly.io_](https://www.jvt.me/posts/2023/08/30/renovate-fly-io/?utm_campaign=github-jamietanna)
 - [_Turning on Caps Lock when the Caps Lock key is bound to a different key_](https://www.jvt.me/posts/2023/08/25/caps-lock-linux-rebound/?utm_campaign=github-jamietanna)
 - [_Setting up real-time Slack notifications for GitHub_](https://www.jvt.me/posts/2023/08/23/github-slack-notifications/?utm_campaign=github-jamietanna)
 - [_Managing Buildkite Agent Images with Renovate_](https://www.jvt.me/posts/2023/08/22/renovate-buildkite-images/?utm_campaign=github-jamietanna)
 - [_Running commands against every module in a Go multi-module project_](https://www.jvt.me/posts/2023/08/18/go-multi-module-execute/?utm_campaign=github-jamietanna)
-- [_Resolving Timeouts when generating entropy when generating a new GPG key_](https://www.jvt.me/posts/2023/08/15/gpg-timeout-pinentry/?utm_campaign=github-jamietanna)
 
 ---
 
