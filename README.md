@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Removing ANSI escape codes in Vim_](https://www.jvt.me/posts/2023/09/01/vim-ansi-escape/?utm_campaign=github-jamietanna)
 - [_Creating global middleware for net/http servers in Go_](https://www.jvt.me/posts/2023/09/01/golang-nethttp-global-middleware/?utm_campaign=github-jamietanna)
 - [_What Go versions are my modules and dependencies targeting?_](https://www.jvt.me/posts/2023/08/31/go-list-module-versions/?utm_campaign=github-jamietanna)
-- [_Why is Go trying to upgrade my go.mod to Go 1.21?_](https://www.jvt.me/posts/2023/08/31/go-121-why-upgrade/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Removing ANSI escape codes in Vim_](https://www.jvt.me/posts/2023/09/01/vim-ansi-escape/?utm_campaign=github-jamietanna)
 - [_Creating global middleware for net/http servers in Go_](https://www.jvt.me/posts/2023/09/01/golang-nethttp-global-middleware/?utm_campaign=github-jamietanna)
 - [_What Go versions are my modules and dependencies targeting?_](https://www.jvt.me/posts/2023/08/31/go-list-module-versions/?utm_campaign=github-jamietanna)
 - [_Why is Go trying to upgrade my go.mod to Go 1.21?_](https://www.jvt.me/posts/2023/08/31/go-121-why-upgrade/?utm_campaign=github-jamietanna)
 - [_Creating a Zoho Mail alias using the API_](https://www.jvt.me/posts/2023/08/30/zoho-mail-api-alias/?utm_campaign=github-jamietanna)
-- [_Setting up Renovate On-Prem for GitLab.com on Fly.io_](https://www.jvt.me/posts/2023/08/30/renovate-fly-io/?utm_campaign=github-jamietanna)
 
 ---
 
