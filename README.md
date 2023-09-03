@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#35_](https://www.jvt.me/week-notes/2023/35/?utm_campaign=github-jamietanna)
 - [_Setting up your Maven settings.xml to release a Jenkins plugin_](https://www.jvt.me/posts/2023/09/02/jenkins-plugin-release/?utm_campaign=github-jamietanna)
 - [_Removing ANSI escape codes in Vim_](https://www.jvt.me/posts/2023/09/01/vim-ansi-escape/?utm_campaign=github-jamietanna)
-- [_Creating global middleware for net/http servers in Go_](https://www.jvt.me/posts/2023/09/01/golang-nethttp-global-middleware/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#34](https://www.jvt.me/week-notes/2023/34/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#35](https://www.jvt.me/week-notes/2023/35/?utm_campaign=github-jamietanna).
 
 ---
 
