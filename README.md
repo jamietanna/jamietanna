@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
-- [_Week Notes 23#35_](https://www.jvt.me/week-notes/2023/35/?utm_campaign=github-jamietanna)
-- [_Setting up your Maven settings.xml to release a Jenkins plugin_](https://www.jvt.me/posts/2023/09/02/jenkins-plugin-release/?utm_campaign=github-jamietanna)
-- [_Removing ANSI escape codes in Vim_](https://www.jvt.me/posts/2023/09/01/vim-ansi-escape/?utm_campaign=github-jamietanna)
+- [_Week Notes 23#36_](https://www.jvt.me/week-notes/2023/36/?utm_campaign=github-jamietanna)
+- [_dependency-management-data now supports Software Bill of Materials (SBOMs) and has better Dependabot support_](https://www.jvt.me/posts/2023/09/10/dmd-sbom-dependabot/?utm_campaign=github-jamietanna)
+- [_Prefer using the GitHub Software Bill of Materials (SBOMs) API over the Dependency Graph GraphQL API_](https://www.jvt.me/posts/2023/09/10/github-dependency-api-sbom/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Prefer using the GitHub Software Bill of Materials (SBOMs) API over the Dependency Graph GraphQL API_](https://www.jvt.me/posts/2023/09/10/github-dependency-api-sbom/?utm_campaign=github-jamietanna)
 - [_Setting up your Maven settings.xml to release a Jenkins plugin_](https://www.jvt.me/posts/2023/09/02/jenkins-plugin-release/?utm_campaign=github-jamietanna)
 - [_Removing ANSI escape codes in Vim_](https://www.jvt.me/posts/2023/09/01/vim-ansi-escape/?utm_campaign=github-jamietanna)
 - [_Creating global middleware for net/http servers in Go_](https://www.jvt.me/posts/2023/09/01/golang-nethttp-global-middleware/?utm_campaign=github-jamietanna)
 - [_What Go versions are my modules and dependencies targeting?_](https://www.jvt.me/posts/2023/08/31/go-list-module-versions/?utm_campaign=github-jamietanna)
-- [_Why is Go trying to upgrade my go.mod to Go 1.21?_](https://www.jvt.me/posts/2023/08/31/go-121-why-upgrade/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#35](https://www.jvt.me/week-notes/2023/35/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#36](https://www.jvt.me/week-notes/2023/36/?utm_campaign=github-jamietanna).
 
 ---
 
