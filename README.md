@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_The Price of the Hallway Track_](https://hynek.me/articles/hallway-track/?utm_campaign=github-jamietanna)
 - [_Diátaxis_](https://diataxis.fr/?utm_campaign=github-jamietanna)
 - [_Revitalizing stalled open source projects - Kurt McKee_](https://kurtmckee.org/2023/08/revitalizing-stalled-open-source-projects/?utm_campaign=github-jamietanna)
 - [_“We’re All Just Temporarily Abled”_](https://blog.jim-nielsen.com/2023/temporarily-abled/?utm_campaign=github-jamietanna)
 - [_Exploring an AWS account after pwning it - Meanderings by Daniel Grzelak_](https://dagrz.com/writing/aws-security/exploring-an-aws-account-after-pwning-it/?utm_campaign=github-jamietanna)
-- [_Hacking Github AWS integrations again - Meanderings by Daniel Grzelak_](https://dagrz.com/writing/aws-security/hacking-github-aws-oidc/?utm_campaign=github-jamietanna)
 
 ---
 
