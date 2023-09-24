@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#38_](https://www.jvt.me/week-notes/2023/38/?utm_campaign=github-jamietanna)
 - [_Gotchas with pointing Go modules to a fork, when building an installable module_](https://www.jvt.me/posts/2023/09/20/go-mod-fork-gotcha/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#37_](https://www.jvt.me/week-notes/2023/37/?utm_campaign=github-jamietanna)
-- [_Building dynamic jobs with BuildKite_](https://www.jvt.me/posts/2023/09/14/buildkite-dynamic-pipelines/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#37](https://www.jvt.me/week-notes/2023/37/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#38](https://www.jvt.me/week-notes/2023/38/?utm_campaign=github-jamietanna).
 
 ---
 
