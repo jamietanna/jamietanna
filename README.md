@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Using dependency-management-data with GitLab's Pipeline-specific CycloneDX SBOM exports_](https://www.jvt.me/posts/2023/09/27/dmd-gitlab/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#38_](https://www.jvt.me/week-notes/2023/38/?utm_campaign=github-jamietanna)
 - [_Gotchas with pointing Go modules to a fork, when building an installable module_](https://www.jvt.me/posts/2023/09/20/go-mod-fork-gotcha/?utm_campaign=github-jamietanna)
-- [_Week Notes 23#37_](https://www.jvt.me/week-notes/2023/37/?utm_campaign=github-jamietanna)
 
 ---
 
