@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#39_](https://www.jvt.me/week-notes/2023/39/?utm_campaign=github-jamietanna)
 - [_Introducing tweetus-deletus 🐦🪄💀 - a tool to automate deleting your tweets, through the browser_](https://www.jvt.me/posts/2023/09/30/tweetus-deletus/?utm_campaign=github-jamietanna)
 - [_Reusing a browser session with Playwright_](https://www.jvt.me/posts/2023/09/30/playwright-use-existing-session/?utm_campaign=github-jamietanna)
-- [_Using dependency-management-data with GitLab's Pipeline-specific CycloneDX SBOM exports_](https://www.jvt.me/posts/2023/09/27/dmd-gitlab/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#38](https://www.jvt.me/week-notes/2023/38/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#39](https://www.jvt.me/week-notes/2023/39/?utm_campaign=github-jamietanna).
 
 ---
 
