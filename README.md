@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_How blogging has affected me, as a neurodiverse person_](https://www.jvt.me/posts/2023/10/04/blogging-neurodiversity/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#39_](https://www.jvt.me/week-notes/2023/39/?utm_campaign=github-jamietanna)
 - [_Introducing tweetus-deletus 🐦🪄💀 - a tool to automate deleting your tweets, through the browser_](https://www.jvt.me/posts/2023/09/30/tweetus-deletus/?utm_campaign=github-jamietanna)
-- [_Reusing a browser session with Playwright_](https://www.jvt.me/posts/2023/09/30/playwright-use-existing-session/?utm_campaign=github-jamietanna)
 
 ---
 
