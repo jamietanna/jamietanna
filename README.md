@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Solving /usr/lib/Xorg.wrap: Only console users are allowed to run the X server errors with tmux over SSH_](https://www.jvt.me/posts/2023/10/05/xorg-console-tmux/?utm_campaign=github-jamietanna)
 - [_This talk should also be a blog post_](https://www.jvt.me/posts/2023/10/05/talk-also-blog-post/?utm_campaign=github-jamietanna)
 - [_How blogging has affected me, as a neurodiverse person_](https://www.jvt.me/posts/2023/10/04/blogging-neurodiversity/?utm_campaign=github-jamietanna)
-- [_Week Notes 23#39_](https://www.jvt.me/week-notes/2023/39/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Solving /usr/lib/Xorg.wrap: Only console users are allowed to run the X server errors with tmux over SSH_](https://www.jvt.me/posts/2023/10/05/xorg-console-tmux/?utm_campaign=github-jamietanna)
 - [_Reusing a browser session with Playwright_](https://www.jvt.me/posts/2023/09/30/playwright-use-existing-session/?utm_campaign=github-jamietanna)
 - [_Gotchas with pointing Go modules to a fork, when building an installable module_](https://www.jvt.me/posts/2023/09/20/go-mod-fork-gotcha/?utm_campaign=github-jamietanna)
 - [_Building dynamic jobs with BuildKite_](https://www.jvt.me/posts/2023/09/14/buildkite-dynamic-pipelines/?utm_campaign=github-jamietanna)
 - [_Setting up a matrix for GitHub Actions with Go's go.mod and specific versions_](https://www.jvt.me/posts/2023/09/11/github-actions-go-matrix/?utm_campaign=github-jamietanna)
-- [_Prefer using the GitHub Software Bill of Materials (SBOMs) API over the Dependency Graph GraphQL API_](https://www.jvt.me/posts/2023/09/10/github-dependency-api-sbom/?utm_campaign=github-jamietanna)
 
 ---
 
