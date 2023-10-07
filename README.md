@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Why should you blog?_](https://www.jvt.me/posts/2023/10/07/why-blog/?utm_campaign=github-jamietanna)
 - [_Solving /usr/lib/Xorg.wrap: Only console users are allowed to run the X server errors with tmux over SSH_](https://www.jvt.me/posts/2023/10/05/xorg-console-tmux/?utm_campaign=github-jamietanna)
 - [_This talk should also be a blog post_](https://www.jvt.me/posts/2023/10/05/talk-also-blog-post/?utm_campaign=github-jamietanna)
-- [_How blogging has affected me, as a neurodiverse person_](https://www.jvt.me/posts/2023/10/04/blogging-neurodiversity/?utm_campaign=github-jamietanna)
 
 ---
 
