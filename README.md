@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#40_](https://www.jvt.me/week-notes/2023/40/?utm_campaign=github-jamietanna)
 - [_Why should you blog?_](https://www.jvt.me/posts/2023/10/07/why-blog/?utm_campaign=github-jamietanna)
 - [_Solving /usr/lib/Xorg.wrap: Only console users are allowed to run the X server errors with tmux over SSH_](https://www.jvt.me/posts/2023/10/05/xorg-console-tmux/?utm_campaign=github-jamietanna)
-- [_This talk should also be a blog post_](https://www.jvt.me/posts/2023/10/05/talk-also-blog-post/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#39](https://www.jvt.me/week-notes/2023/39/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#40](https://www.jvt.me/week-notes/2023/40/?utm_campaign=github-jamietanna).
 
 ---
 
