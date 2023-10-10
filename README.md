@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Gotcha: Using vCluster on Elastic Kubernetes Service requires a Container Storage Interface driver_](https://www.jvt.me/posts/2023/10/10/vcluster-eks-pvc/?utm_campaign=github-jamietanna)
+- [_Listing environment variables used to trigger a Buildkite pipeline_](https://www.jvt.me/posts/2023/10/10/buildkite-what-env-trigger/?utm_campaign=github-jamietanna)
 - [_Publishing My On-Call Compensation History_](https://www.jvt.me/posts/2023/10/10/public-on-call-history/?utm_campaign=github-jamietanna)
-- [_Week Notes 23#40_](https://www.jvt.me/week-notes/2023/40/?utm_campaign=github-jamietanna)
-- [_Why should you blog?_](https://www.jvt.me/posts/2023/10/07/why-blog/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Gotcha: Using vCluster on Elastic Kubernetes Service requires a Container Storage Interface driver_](https://www.jvt.me/posts/2023/10/10/vcluster-eks-pvc/?utm_campaign=github-jamietanna)
+- [_Listing environment variables used to trigger a Buildkite pipeline_](https://www.jvt.me/posts/2023/10/10/buildkite-what-env-trigger/?utm_campaign=github-jamietanna)
 - [_Solving /usr/lib/Xorg.wrap: Only console users are allowed to run the X server errors with tmux over SSH_](https://www.jvt.me/posts/2023/10/05/xorg-console-tmux/?utm_campaign=github-jamietanna)
 - [_Reusing a browser session with Playwright_](https://www.jvt.me/posts/2023/09/30/playwright-use-existing-session/?utm_campaign=github-jamietanna)
 - [_Gotchas with pointing Go modules to a fork, when building an installable module_](https://www.jvt.me/posts/2023/09/20/go-mod-fork-gotcha/?utm_campaign=github-jamietanna)
-- [_Building dynamic jobs with BuildKite_](https://www.jvt.me/posts/2023/09/14/buildkite-dynamic-pipelines/?utm_campaign=github-jamietanna)
-- [_Setting up a matrix for GitHub Actions with Go's go.mod and specific versions_](https://www.jvt.me/posts/2023/09/11/github-actions-go-matrix/?utm_campaign=github-jamietanna)
 
 ---
 
