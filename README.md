@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#41_](https://www.jvt.me/week-notes/2023/41/?utm_campaign=github-jamietanna)
 - [_Which version of Go was used to compile this binary?_](https://www.jvt.me/posts/2023/10/14/go-compile-version/?utm_campaign=github-jamietanna)
 - [_Utilising Renovate's local platform to make renovate-graph more efficient_](https://www.jvt.me/posts/2023/10/13/renovate-graph-local/?utm_campaign=github-jamietanna)
-- [_Gotcha: Using vCluster on Elastic Kubernetes Service requires a Container Storage Interface driver_](https://www.jvt.me/posts/2023/10/10/vcluster-eks-pvc/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#40](https://www.jvt.me/week-notes/2023/40/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#41](https://www.jvt.me/week-notes/2023/41/?utm_campaign=github-jamietanna).
 
 ---
 
