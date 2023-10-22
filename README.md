@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#42_](https://www.jvt.me/week-notes/2023/42/?utm_campaign=github-jamietanna)
 - [_Plea to Software Composition Analysis (SCA) providers and Software Bill of Materials (SBOMs) producers: give us more data!_](https://www.jvt.me/posts/2023/10/22/plea-sca-sbom-data/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#41_](https://www.jvt.me/week-notes/2023/41/?utm_campaign=github-jamietanna)
-- [_Which version of Go was used to compile this binary?_](https://www.jvt.me/posts/2023/10/14/go-compile-version/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#41](https://www.jvt.me/week-notes/2023/41/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#42](https://www.jvt.me/week-notes/2023/42/?utm_campaign=github-jamietanna).
 
 ---
 
