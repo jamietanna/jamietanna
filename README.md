@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_How we reduced oapi-codegen's dependency overhead by ~84%_](https://www.jvt.me/posts/2023/10/23/oapi-codegen-v2-decrease/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#42_](https://www.jvt.me/week-notes/2023/42/?utm_campaign=github-jamietanna)
 - [_Plea to Software Composition Analysis (SCA) providers and Software Bill of Materials (SBOMs) producers: give us more data!_](https://www.jvt.me/posts/2023/10/22/plea-sca-sbom-data/?utm_campaign=github-jamietanna)
-- [_Week Notes 23#41_](https://www.jvt.me/week-notes/2023/41/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_How we reduced oapi-codegen's dependency overhead by ~84%_](https://www.jvt.me/posts/2023/10/23/oapi-codegen-v2-decrease/?utm_campaign=github-jamietanna)
 - [_Which version of Go was used to compile this binary?_](https://www.jvt.me/posts/2023/10/14/go-compile-version/?utm_campaign=github-jamietanna)
 - [_Utilising Renovate's local platform to make renovate-graph more efficient_](https://www.jvt.me/posts/2023/10/13/renovate-graph-local/?utm_campaign=github-jamietanna)
 - [_Gotcha: Using vCluster on Elastic Kubernetes Service requires a Container Storage Interface driver_](https://www.jvt.me/posts/2023/10/10/vcluster-eks-pvc/?utm_campaign=github-jamietanna)
 - [_Listing environment variables used to trigger a Buildkite pipeline_](https://www.jvt.me/posts/2023/10/10/buildkite-what-env-trigger/?utm_campaign=github-jamietanna)
-- [_Solving /usr/lib/Xorg.wrap: Only console users are allowed to run the X server errors with tmux over SSH_](https://www.jvt.me/posts/2023/10/05/xorg-console-tmux/?utm_campaign=github-jamietanna)
 
 ---
 
