@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Getting Go modules to work with nested GitLab groups_](https://www.jvt.me/posts/2023/10/28/private-gitlab-subgroup-go/?utm_campaign=github-jamietanna)
+- [_Performing a v2 release of a Go module_](https://www.jvt.me/posts/2023/10/28/go-module-v2/?utm_campaign=github-jamietanna)
 - [_Building resilient, runnable command-line demos with Asciinema and demo_](https://www.jvt.me/posts/2023/10/23/asciinema-executable-demos/?utm_campaign=github-jamietanna)
-- [_Importing a subdirectory from one repo into another_](https://www.jvt.me/posts/2023/10/23/import-subtree-git-repo/?utm_campaign=github-jamietanna)
-- [_How we reduced oapi-codegen's dependency overhead by ~84%_](https://www.jvt.me/posts/2023/10/23/oapi-codegen-v2-decrease/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Getting Go modules to work with nested GitLab groups_](https://www.jvt.me/posts/2023/10/28/private-gitlab-subgroup-go/?utm_campaign=github-jamietanna)
+- [_Performing a v2 release of a Go module_](https://www.jvt.me/posts/2023/10/28/go-module-v2/?utm_campaign=github-jamietanna)
 - [_Building resilient, runnable command-line demos with Asciinema and demo_](https://www.jvt.me/posts/2023/10/23/asciinema-executable-demos/?utm_campaign=github-jamietanna)
 - [_Importing a subdirectory from one repo into another_](https://www.jvt.me/posts/2023/10/23/import-subtree-git-repo/?utm_campaign=github-jamietanna)
 - [_How we reduced oapi-codegen's dependency overhead by ~84%_](https://www.jvt.me/posts/2023/10/23/oapi-codegen-v2-decrease/?utm_campaign=github-jamietanna)
-- [_Which version of Go was used to compile this binary?_](https://www.jvt.me/posts/2023/10/14/go-compile-version/?utm_campaign=github-jamietanna)
-- [_Utilising Renovate's local platform to make renovate-graph more efficient_](https://www.jvt.me/posts/2023/10/13/renovate-graph-local/?utm_campaign=github-jamietanna)
 
 ---
 
