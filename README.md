@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_dependency-management-data now supports OSS Review Toolkit (ORT)_](https://www.jvt.me/posts/2023/10/31/dmd-ort/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#43_](https://www.jvt.me/week-notes/2023/43/?utm_campaign=github-jamietanna)
 - [_Getting Go modules to work with nested GitLab groups_](https://www.jvt.me/posts/2023/10/28/private-gitlab-subgroup-go/?utm_campaign=github-jamietanna)
-- [_Performing a v2 release of a Go module_](https://www.jvt.me/posts/2023/10/28/go-module-v2/?utm_campaign=github-jamietanna)
 
 ---
 
