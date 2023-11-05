@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Using dependency-management-data with npm's SPDX and CycloneDX SBOM export functionality_](https://www.jvt.me/posts/2023/11/05/npm-sbom-dmd/?utm_campaign=github-jamietanna)
 - [_Introducing renovate-to-sbom to convert Renovate data to Software Bill of Materials (SBOMs)_](https://www.jvt.me/posts/2023/11/03/renovate-to-sbom/?utm_campaign=github-jamietanna)
 - [_dependency-management-data now supports OSS Review Toolkit (ORT)_](https://www.jvt.me/posts/2023/10/31/dmd-ort/?utm_campaign=github-jamietanna)
-- [_Week Notes 23#43_](https://www.jvt.me/week-notes/2023/43/?utm_campaign=github-jamietanna)
 
 ---
 
