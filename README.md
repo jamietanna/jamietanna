@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Please Don't Ask if an Open Source Project is Dead_](https://minimaxir.com/2023/11/open-source-dead-github/?utm_campaign=github-jamietanna)
 - [_Bot comparison - Renovate Docs_](https://docs.renovatebot.com/bot-comparison/?utm_campaign=github-jamietanna)
 - [_https://www.kitze.io/posts/github-stars-wont-pay-your-rent_](https://www.kitze.io/posts/github-stars-wont-pay-your-rent?utm_campaign=github-jamietanna)
 - [_16 things you believe about software_](https://blog.testdouble.com/posts/2023-10-10-16-things-you-believe-about-software/?utm_campaign=github-jamietanna)
 - [_The forbidden topics_](https://drewdevault.com/2023/09/29/The-forbidden-topics.html?utm_campaign=github-jamietanna)
-- [_https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better_](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better?utm_campaign=github-jamietanna)
 
 ---
 
