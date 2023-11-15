@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Introducing snyk-export-sbom to export SPDX and CycloneDX SBOM from Snyk_](https://www.jvt.me/posts/2023/11/15/snyk-export-sbom/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#44_](https://www.jvt.me/week-notes/2023/44/?utm_campaign=github-jamietanna)
 - [_Using dependency-management-data with npm's SPDX and CycloneDX SBOM export functionality_](https://www.jvt.me/posts/2023/11/05/npm-sbom-dmd/?utm_campaign=github-jamietanna)
-- [_Introducing renovate-to-sbom to convert Renovate data to Software Bill of Materials (SBOMs)_](https://www.jvt.me/posts/2023/11/03/renovate-to-sbom/?utm_campaign=github-jamietanna)
 
 ---
 
