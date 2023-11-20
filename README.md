@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 23#46_](https://www.jvt.me/week-notes/2023/46/?utm_campaign=github-jamietanna)
+- [_Week Notes 23#45_](https://www.jvt.me/week-notes/2023/45/?utm_campaign=github-jamietanna)
 - [_Introducing snyk-export-sbom to export SPDX and CycloneDX SBOM from Snyk_](https://www.jvt.me/posts/2023/11/15/snyk-export-sbom/?utm_campaign=github-jamietanna)
-- [_Week Notes 23#44_](https://www.jvt.me/week-notes/2023/44/?utm_campaign=github-jamietanna)
-- [_Using dependency-management-data with npm's SPDX and CycloneDX SBOM export functionality_](https://www.jvt.me/posts/2023/11/05/npm-sbom-dmd/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#44](https://www.jvt.me/week-notes/2023/44/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 23#46](https://www.jvt.me/week-notes/2023/46/?utm_campaign=github-jamietanna).
 
 ---
 
