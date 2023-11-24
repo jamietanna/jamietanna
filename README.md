@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_You can now use Open Policy Agent with dependency-management-data_](https://www.jvt.me/posts/2023/11/24/dmd-opa/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#46_](https://www.jvt.me/week-notes/2023/46/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#45_](https://www.jvt.me/week-notes/2023/45/?utm_campaign=github-jamietanna)
-- [_Introducing snyk-export-sbom to export SPDX and CycloneDX SBOM from Snyk_](https://www.jvt.me/posts/2023/11/15/snyk-export-sbom/?utm_campaign=github-jamietanna)
 
 ---
 
