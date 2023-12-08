@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_You can now interact with dependency-management-data using GraphQL_](https://www.jvt.me/posts/2023/12/07/dmd-graphql/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#48_](https://www.jvt.me/week-notes/2023/48/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#47_](https://www.jvt.me/week-notes/2023/47/?utm_campaign=github-jamietanna)
-- [_You can now use Open Policy Agent with dependency-management-data_](https://www.jvt.me/posts/2023/11/24/dmd-opa/?utm_campaign=github-jamietanna)
 
 ---
 
