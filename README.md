@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_2023's Music In Review_](https://www.jvt.me/music-in-review/2023/?utm_campaign=github-jamietanna)
 - [_2023's Site In Review_](https://www.jvt.me/site-in-review/2023/?utm_campaign=github-jamietanna)
 - [_Week Notes 23#52_](https://www.jvt.me/week-notes/2023/52/?utm_campaign=github-jamietanna)
-- [_Week Notes 23#51_](https://www.jvt.me/week-notes/2023/51/?utm_campaign=github-jamietanna)
 
 ---
 
