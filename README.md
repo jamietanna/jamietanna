@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Using renovate-to-sbom with the GitHub Dependency Submission API_](https://www.jvt.me/posts/2024/01/16/renovate-github-dependency-submission/?utm_campaign=github-jamietanna)
 - [_Comparing the different Merge Request / Pull Request merge methods in GitLab and GitHub_](https://www.jvt.me/posts/2024/01/15/gitlab-rebase-merge/?utm_campaign=github-jamietanna)
 - [_How to unpublish/redact/undo/retract a Go release_](https://www.jvt.me/posts/2024/01/15/retract-go-release/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#02_](https://www.jvt.me/week-notes/2024/02/?utm_campaign=github-jamietanna)
 
 ---
 
