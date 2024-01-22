@@ -14,20 +14,20 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Why am I getting Too many arguments with vault?_](https://www.jvt.me/posts/2024/01/22/vault-too-many-arguments/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#03_](https://www.jvt.me/week-notes/2024/03/?utm_campaign=github-jamietanna)
 - [_Using renovate-to-sbom with the GitHub Dependency Submission API_](https://www.jvt.me/posts/2024/01/16/renovate-github-dependency-submission/?utm_campaign=github-jamietanna)
-- [_Comparing the different Merge Request / Pull Request merge methods in GitLab and GitHub_](https://www.jvt.me/posts/2024/01/15/gitlab-rebase-merge/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Why am I getting Too many arguments with vault?_](https://www.jvt.me/posts/2024/01/22/vault-too-many-arguments/?utm_campaign=github-jamietanna)
 - [_Comparing the different Merge Request / Pull Request merge methods in GitLab and GitHub_](https://www.jvt.me/posts/2024/01/15/gitlab-rebase-merge/?utm_campaign=github-jamietanna)
 - [_How to unpublish/redact/undo/retract a Go release_](https://www.jvt.me/posts/2024/01/15/retract-go-release/?utm_campaign=github-jamietanna)
 - [_How do you represent a JSON field in Go that could be absent, null or have a value?_](https://www.jvt.me/posts/2024/01/09/go-json-nullable/?utm_campaign=github-jamietanna)
 - [_Why is set -eu not working?_](https://www.jvt.me/posts/2024/01/05/set-u-no-fail/?utm_campaign=github-jamietanna)
-- [_Getting Go modules to work with nested GitLab groups_](https://www.jvt.me/posts/2023/10/28/private-gitlab-subgroup-go/?utm_campaign=github-jamietanna)
 
 ---
 
