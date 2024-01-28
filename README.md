@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Introducing insight into your dependencies' health in dependency-management-data_](https://www.jvt.me/posts/2024/01/27/dmd-dependency-health/?utm_campaign=github-jamietanna)
 - [_dependency-management-data now has a logo!_](https://www.jvt.me/posts/2024/01/24/dmd-logo/?utm_campaign=github-jamietanna)
 - [_Why am I getting Too many arguments with vault?_](https://www.jvt.me/posts/2024/01/22/vault-too-many-arguments/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#03_](https://www.jvt.me/week-notes/2024/03/?utm_campaign=github-jamietanna)
 
 ---
 
