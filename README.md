@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/_](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/?utm_campaign=github-jamietanna)
 - [_Minimum Wage Clock · Luna’s Blog_](https://moonbase.lgbt/blog/minimum-wage-clock/?utm_campaign=github-jamietanna)
 - [_Write inclusive documentation  |  Google developer documentation style guide  |  Google for Developers_](https://developers.google.com/style/inclusive-documentation?utm_campaign=github-jamietanna)
 - [_CSS { In Real Life } | What to Blog About When You Don’t Know What to Blog About_](https://css-irl.info/what-to-blog-about-when-you-dont-know-what-to-blog-about/?utm_campaign=github-jamietanna)
 - [_Building a digital vigil for those we've lost | nicole@web_](https://ntietz.com/blog/digital-vigil-for-tdor/?utm_campaign=github-jamietanna)
-- [_The Lack of Compensation in Open Source Software is Unsustainable_](https://trstringer.com/oss-compensation-broken/?utm_campaign=github-jamietanna)
 
 ---
 
