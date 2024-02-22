@@ -34,11 +34,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Our Company Is Doing So Well That You’re All Fired_](https://www.mcsweeneys.net/articles/our-company-is-doing-so-well-that-youre-all-fired?utm_campaign=github-jamietanna)
 - [_Paying people to work on open source is good actually - Jacob Kaplan-Moss_](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/?utm_campaign=github-jamietanna)
 - [_How I write HTTP services in Go after 13 years | Grafana Labs_](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/?utm_campaign=github-jamietanna)
 - [_(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup_](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/?utm_campaign=github-jamietanna)
 - [_Minimum Wage Clock · Luna’s Blog_](https://moonbase.lgbt/blog/minimum-wage-clock/?utm_campaign=github-jamietanna)
-- [_Write inclusive documentation  |  Google developer documentation style guide  |  Google for Developers_](https://developers.google.com/style/inclusive-documentation?utm_campaign=github-jamietanna)
 
 ---
 
