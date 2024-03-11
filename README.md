@@ -14,9 +14,9 @@ I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?ut
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#10_](https://www.jvt.me/week-notes/2024/10/?utm_campaign=github-jamietanna)
 - [_What routes is my http.ServeMux listening for?_](https://www.jvt.me/posts/2024/03/04/go-net-http-routes/?utm_campaign=github-jamietanna)
 - [_Why is Go 1.22's enhanced routing not working for me?_](https://www.jvt.me/posts/2024/03/04/go-net-http-why-404/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#09_](https://www.jvt.me/week-notes/2024/09/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -42,7 +42,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#09](https://www.jvt.me/week-notes/2024/09/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#10](https://www.jvt.me/week-notes/2024/10/?utm_campaign=github-jamietanna).
 
 ---
 
