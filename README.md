@@ -7,7 +7,9 @@ I have a [/now page](https://www.jvt.me/now/?utm_campaign=github-jamietanna), wh
 
 I use my [personal website](https://www.jvt.me/?utm_campaign=github-jamietanna) as a method of blogging about my learnings, as well as sharing information about projects I have previously, or am currently, working on in my spare time.
 
-I maintain [a number of Open Source projects](https://www.jvt.me/open-source/?utm_campaign=github-jamietanna), and primarily use [GitLab](https://gitlab.com/jamietanna) for my source control, but also use [GitHub](https://github.com/jamietanna) for some things.
+Right now, my two biggest side projects are [dependency-management-data](https://dmd.tanna.dev) and [`oapi-codegen`](https://github.com/deepmap/oapi-codegen/).
+
+As well as them, I maintain [a number of other Open Source projects](https://www.jvt.me/open-source/?utm_campaign=github-jamietanna), and primarily use [GitLab](https://gitlab.com/jamietanna) for my source control, but also use [GitHub](https://github.com/jamietanna) for some things.
 
 ---
 
