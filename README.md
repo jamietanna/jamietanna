@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#13_](https://www.jvt.me/week-notes/2024/13/?utm_campaign=github-jamietanna)
 - [_What can we learn about the backdooring of xz/liblzma, using OpenSSF Security Scorecards and dependency-management-data?_](https://www.jvt.me/posts/2024/03/29/xz-scorecards/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#12_](https://www.jvt.me/week-notes/2024/12/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#11_](https://www.jvt.me/week-notes/2024/11/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -36,7 +36,7 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
-- [_https://kerkour.com/sqlite-for-servers_](https://kerkour.com/sqlite-for-servers?utm_campaign=github-jamietanna)
+- [_Optimizing SQLite for servers_](https://kerkour.com/sqlite-for-servers?utm_campaign=github-jamietanna)
 - [_Everything I Know About the Xz Backdoor_](https://boehs.org/node/everything-i-know-about-the-xz-backdoor?utm_campaign=github-jamietanna)
 - [_So you've been reorg'd... - Jacob Kaplan-Moss_](https://jacobian.org/2024/mar/12/reorg/?utm_campaign=github-jamietanna)
 - [_Our Company Is Doing So Well That You’re All Fired_](https://www.mcsweeneys.net/articles/our-company-is-doing-so-well-that-youre-all-fired?utm_campaign=github-jamietanna)
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#12](https://www.jvt.me/week-notes/2024/12/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#13](https://www.jvt.me/week-notes/2024/13/?utm_campaign=github-jamietanna).
 
 ---
 
