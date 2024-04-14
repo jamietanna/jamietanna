@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#15_](https://www.jvt.me/week-notes/2024/15/?utm_campaign=github-jamietanna)
 - [_Querying your organisation's Renovate configuration using SQL(ite)_](https://www.jvt.me/posts/2024/04/14/renovate-config-sql/?utm_campaign=github-jamietanna)
 - [_Why I recommend Renovate over any other dependency update tools_](https://www.jvt.me/posts/2024/04/12/use-renovate/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#14_](https://www.jvt.me/week-notes/2024/14/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#14](https://www.jvt.me/week-notes/2024/14/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#15](https://www.jvt.me/week-notes/2024/15/?utm_campaign=github-jamietanna).
 
 ---
 
