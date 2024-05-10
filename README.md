@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_I'm on Cup o' Go!_](https://www.jvt.me/posts/2024/05/10/cupogo-oapi-codegen/?utm_campaign=github-jamietanna)
 - [_Responsible Disclosure: Using GitHub Search (without logging in using SSO) still allows searching_](https://www.jvt.me/posts/2024/05/09/hackerone-github-sso/?utm_campaign=github-jamietanna)
 - [_Creating a more sustainable model for oapi-codegen in the future_](https://www.jvt.me/posts/2024/05/09/oapi-codegen-sustainable/?utm_campaign=github-jamietanna)
-- [_oapi-codegen is moving to its own org_](https://www.jvt.me/posts/2024/05/09/oapi-codegen-org/?utm_campaign=github-jamietanna)
 
 ---
 
