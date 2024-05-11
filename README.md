@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Installing Google Cloud CLI components on Arch Linux_](https://www.jvt.me/posts/2024/05/11/gcloud-component-aur/?utm_campaign=github-jamietanna)
 - [_I'm on Cup o' Go!_](https://www.jvt.me/posts/2024/05/10/cupogo-oapi-codegen/?utm_campaign=github-jamietanna)
 - [_Responsible Disclosure: Using GitHub Search (without logging in using SSO) still allows searching_](https://www.jvt.me/posts/2024/05/09/hackerone-github-sso/?utm_campaign=github-jamietanna)
-- [_Creating a more sustainable model for oapi-codegen in the future_](https://www.jvt.me/posts/2024/05/09/oapi-codegen-sustainable/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Installing Google Cloud CLI components on Arch Linux_](https://www.jvt.me/posts/2024/05/11/gcloud-component-aur/?utm_campaign=github-jamietanna)
 - [_Lessons learned self-hosting Renovate_](https://www.jvt.me/posts/2024/05/03/renovate-self-hosting-lessons/?utm_campaign=github-jamietanna)
 - [_Automating the syncing of files between repos with GitHub Actions_](https://www.jvt.me/posts/2024/04/27/github-actions-update-file/?utm_campaign=github-jamietanna)
 - [_Querying your organisation's Renovate configuration using SQL(ite)_](https://www.jvt.me/posts/2024/04/14/renovate-config-sql/?utm_campaign=github-jamietanna)
 - [_Why I recommend Renovate over any other dependency update tools_](https://www.jvt.me/posts/2024/04/12/use-renovate/?utm_campaign=github-jamietanna)
-- [_What routes is my http.ServeMux listening for?_](https://www.jvt.me/posts/2024/03/04/go-net-http-routes/?utm_campaign=github-jamietanna)
 
 ---
 
