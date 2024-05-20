@@ -36,11 +36,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Brane Dump: "Is This Project Still Maintained?"_](https://www.hezmatt.org/~mpalmer/blog/2024/05/14/is-this-project-still-maintained.html?utm_campaign=github-jamietanna)
 - [_https://ohhelloana.blog/i-want-it-all/_](https://ohhelloana.blog/i-want-it-all/?utm_campaign=github-jamietanna)
 - [_Basic Things_](https://matklad.github.io/2024/03/22/basic-things.html?utm_campaign=github-jamietanna)
 - [_The free software commons_](https://jenniferplusplus.com/the-free-software-commons/?utm_campaign=github-jamietanna)
 - [_Optimizing SQLite for servers_](https://kerkour.com/sqlite-for-servers?utm_campaign=github-jamietanna)
-- [_Everything I Know About the Xz Backdoor_](https://boehs.org/node/everything-i-know-about-the-xz-backdoor?utm_campaign=github-jamietanna)
 
 ---
 
