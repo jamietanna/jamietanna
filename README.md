@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_My workflow for writing SQL(ite) queries (2024 edition)_](https://www.jvt.me/posts/2024/06/07/sql-workflow/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#22_](https://www.jvt.me/week-notes/2024/22/?utm_campaign=github-jamietanna)
 - [_Calculating the GitHub API's sha representation of a local file_](https://www.jvt.me/posts/2024/05/30/github-sha/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#21_](https://www.jvt.me/week-notes/2024/21/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_My workflow for writing SQL(ite) queries (2024 edition)_](https://www.jvt.me/posts/2024/06/07/sql-workflow/?utm_campaign=github-jamietanna)
 - [_Calculating the GitHub API's sha representation of a local file_](https://www.jvt.me/posts/2024/05/30/github-sha/?utm_campaign=github-jamietanna)
 - [_Making it easier to schedule cross-timezones, with the tz CLI_](https://www.jvt.me/posts/2024/05/15/tz/?utm_campaign=github-jamietanna)
 - [_Installing Google Cloud CLI components on Arch Linux_](https://www.jvt.me/posts/2024/05/11/gcloud-component-aur/?utm_campaign=github-jamietanna)
 - [_Lessons learned self-hosting Renovate_](https://www.jvt.me/posts/2024/05/03/renovate-self-hosting-lessons/?utm_campaign=github-jamietanna)
-- [_Automating the syncing of files between repos with GitHub Actions_](https://www.jvt.me/posts/2024/04/27/github-actions-update-file/?utm_campaign=github-jamietanna)
 
 ---
 
