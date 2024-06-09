@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#23_](https://www.jvt.me/week-notes/2024/23/?utm_campaign=github-jamietanna)
 - [_My workflow for writing SQL(ite) queries (2024 edition)_](https://www.jvt.me/posts/2024/06/07/sql-workflow/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#22_](https://www.jvt.me/week-notes/2024/22/?utm_campaign=github-jamietanna)
-- [_Calculating the GitHub API's sha representation of a local file_](https://www.jvt.me/posts/2024/05/30/github-sha/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -36,7 +36,7 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
-- [_https://thenewstack.io/tech-works-how-can-i-make-myself-more-productive/_](https://thenewstack.io/tech-works-how-can-i-make-myself-more-productive/?utm_campaign=github-jamietanna)
+- [_Tech Works: How Can I Make Myself More Productive?_](https://thenewstack.io/tech-works-how-can-i-make-myself-more-productive/?utm_campaign=github-jamietanna)
 - [_Why, after 8 years, I still like GraphQL sometimes in the right context_](https://www.magiroux.com/eight-years-of-graphql?utm_campaign=github-jamietanna)
 - [_Why, after 6 years, I’m over GraphQL_](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/?utm_campaign=github-jamietanna)
 - [_https://thenewstack.io/the-xz-hack-reveals-a-looming-8-8-trillion-infrastructure-disaster-hidden-in-plain-sight/_](https://thenewstack.io/the-xz-hack-reveals-a-looming-8-8-trillion-infrastructure-disaster-hidden-in-plain-sight/?utm_campaign=github-jamietanna)
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#22](https://www.jvt.me/week-notes/2024/22/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#23](https://www.jvt.me/week-notes/2024/23/?utm_campaign=github-jamietanna).
 
 ---
 
