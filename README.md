@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Dependency Management Data's web application can now be deployed as a single static binary_](https://www.jvt.me/posts/2024/06/16/dmd-web-embedded/?utm_campaign=github-jamietanna)
 - [_Using Go's database/sql to query an arbitrary columns of unknown type(s)_](https://www.jvt.me/posts/2024/06/13/go-sql-arbitrary/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#23_](https://www.jvt.me/week-notes/2024/23/?utm_campaign=github-jamietanna)
-- [_My workflow for writing SQL(ite) queries (2024 edition)_](https://www.jvt.me/posts/2024/06/07/sql-workflow/?utm_campaign=github-jamietanna)
 
 ---
 
