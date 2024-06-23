@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#25_](https://www.jvt.me/week-notes/2024/25/?utm_campaign=github-jamietanna)
 - [_Performing cross-database queries with SQLite_](https://www.jvt.me/posts/2024/06/19/cross-sqlite-query/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#24_](https://www.jvt.me/week-notes/2024/24/?utm_campaign=github-jamietanna)
-- [_Dependency Management Data's web application can now be deployed as a single static binary_](https://www.jvt.me/posts/2024/06/16/dmd-web-embedded/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#24](https://www.jvt.me/week-notes/2024/24/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#25](https://www.jvt.me/week-notes/2024/25/?utm_campaign=github-jamietanna).
 
 ---
 
