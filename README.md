@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#26_](https://www.jvt.me/week-notes/2024/26/?utm_campaign=github-jamietanna)
 - [_Dependency Management Data can now use sql-studio for database browsing_](https://www.jvt.me/posts/2024/06/28/dmd-sql-studio/?utm_campaign=github-jamietanna)
 - [_Creating a test harness for validating Renovate regex manager rules_](https://www.jvt.me/posts/2024/06/28/renovate-regex-test/?utm_campaign=github-jamietanna)
-- [_Modifying the response body of an httputil.ReverseProxy response_](https://www.jvt.me/posts/2024/06/25/modify-go-reverseproxy-response/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#25](https://www.jvt.me/week-notes/2024/25/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#26](https://www.jvt.me/week-notes/2024/26/?utm_campaign=github-jamietanna).
 
 ---
 
