@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_One THOUSAND blog posts_](https://www.jvt.me/posts/2024/07/01/1000-posts/?utm_campaign=github-jamietanna)
+- [_Reader survey: Who reads my blog?_](https://www.jvt.me/posts/2024/07/01/who-reads-blog/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#26_](https://www.jvt.me/week-notes/2024/26/?utm_campaign=github-jamietanna)
-- [_Dependency Management Data can now use sql-studio for database browsing_](https://www.jvt.me/posts/2024/06/28/dmd-sql-studio/?utm_campaign=github-jamietanna)
-- [_Creating a test harness for validating Renovate regex manager rules_](https://www.jvt.me/posts/2024/06/28/renovate-regex-test/?utm_campaign=github-jamietanna)
 
 ---
 
