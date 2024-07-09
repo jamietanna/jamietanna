@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Dependency Management Data is now a lot easier to work with when using Software Bill of Materials_](https://www.jvt.me/posts/2024/07/09/dmd-sbom/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#27_](https://www.jvt.me/week-notes/2024/27/?utm_campaign=github-jamietanna)
 - [_One THOUSAND blog posts_](https://www.jvt.me/posts/2024/07/01/1000-posts/?utm_campaign=github-jamietanna)
-- [_Reader survey: Who reads my blog?_](https://www.jvt.me/posts/2024/07/01/who-reads-blog/?utm_campaign=github-jamietanna)
 
 ---
 
