@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Dependency Management Data's now on Mastodon!_](https://www.jvt.me/posts/2024/07/14/dmd-mastodon/?utm_campaign=github-jamietanna)
+- [_Dynamically querying EndOfLife.date data for internal packages with Open Policy Agent and Dependency Management Data_](https://www.jvt.me/posts/2024/07/14/dmd-opa-eol/?utm_campaign=github-jamietanna)
 - [_89 things I know about Git commits_](https://www.jvt.me/posts/2024/07/12/things-know-commits/?utm_campaign=github-jamietanna)
-- [_Dependency Management Data is now a lot easier to work with when using Software Bill of Materials_](https://www.jvt.me/posts/2024/07/09/dmd-sbom/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#27_](https://www.jvt.me/week-notes/2024/27/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Dynamically querying EndOfLife.date data for internal packages with Open Policy Agent and Dependency Management Data_](https://www.jvt.me/posts/2024/07/14/dmd-opa-eol/?utm_campaign=github-jamietanna)
 - [_Creating a test harness for validating Renovate regex manager rules_](https://www.jvt.me/posts/2024/06/28/renovate-regex-test/?utm_campaign=github-jamietanna)
 - [_Modifying the response body of an httputil.ReverseProxy response_](https://www.jvt.me/posts/2024/06/25/modify-go-reverseproxy-response/?utm_campaign=github-jamietanna)
 - [_Performing cross-database queries with SQLite_](https://www.jvt.me/posts/2024/06/19/cross-sqlite-query/?utm_campaign=github-jamietanna)
 - [_Using Go's database/sql to query an arbitrary columns of unknown type(s)_](https://www.jvt.me/posts/2024/06/13/go-sql-arbitrary/?utm_campaign=github-jamietanna)
-- [_My workflow for writing SQL(ite) queries (2024 edition)_](https://www.jvt.me/posts/2024/06/07/sql-workflow/?utm_campaign=github-jamietanna)
 
 ---
 
