@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#28_](https://www.jvt.me/week-notes/2024/28/?utm_campaign=github-jamietanna)
 - [_Dependency Management Data's now on Mastodon!_](https://www.jvt.me/posts/2024/07/14/dmd-mastodon/?utm_campaign=github-jamietanna)
 - [_Dynamically querying EndOfLife.date data for internal packages with Open Policy Agent and Dependency Management Data_](https://www.jvt.me/posts/2024/07/14/dmd-opa-eol/?utm_campaign=github-jamietanna)
-- [_89 things I know about Git commits_](https://www.jvt.me/posts/2024/07/12/things-know-commits/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#27](https://www.jvt.me/week-notes/2024/27/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#28](https://www.jvt.me/week-notes/2024/28/?utm_campaign=github-jamietanna).
 
 ---
 
