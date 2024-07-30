@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Common issues faced with execing an executable on Linux_](https://www.jvt.me/posts/2024/07/30/exec-fork-errors/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#30_](https://www.jvt.me/week-notes/2024/30/?utm_campaign=github-jamietanna)
 - [_You can now parse repo-level Renovate configuration with renovate-graph_](https://www.jvt.me/posts/2024/07/28/renovate-graph-repo-config/?utm_campaign=github-jamietanna)
-- [_Dependency Management Data's Open Policy Agent support is now a whole lot more efficient_](https://www.jvt.me/posts/2024/07/27/dmd-opa-perf/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Common issues faced with execing an executable on Linux_](https://www.jvt.me/posts/2024/07/30/exec-fork-errors/?utm_campaign=github-jamietanna)
 - [_Migrating Renovate bots, while keeping existing PRs updated_](https://www.jvt.me/posts/2024/07/18/renovate-migrate-self-host/?utm_campaign=github-jamietanna)
 - [_Manually triggering a Buildkite pipeline for a fork_](https://www.jvt.me/posts/2024/07/16/buildkite-trigger-fork/?utm_campaign=github-jamietanna)
 - [_Dynamically querying EndOfLife.date data for internal packages with Open Policy Agent and Dependency Management Data_](https://www.jvt.me/posts/2024/07/14/dmd-opa-eol/?utm_campaign=github-jamietanna)
 - [_Creating a test harness for validating Renovate regex manager rules_](https://www.jvt.me/posts/2024/06/28/renovate-regex-test/?utm_campaign=github-jamietanna)
-- [_Modifying the response body of an httputil.ReverseProxy response_](https://www.jvt.me/posts/2024/06/25/modify-go-reverseproxy-response/?utm_campaign=github-jamietanna)
 
 ---
 
