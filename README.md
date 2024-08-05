@@ -36,11 +36,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Versioning as Communication_](https://xavd.id/blog/post/versioning-as-communication/?utm_campaign=github-jamietanna)
 - [_https://www.pawlean.com/posts/navigating-layoffs_](https://www.pawlean.com/posts/navigating-layoffs?utm_campaign=github-jamietanna)
 - [_Against Innovation Tokens_](https://blog.glyph.im/2024/07/against-innovation-tokens.html?utm_campaign=github-jamietanna)
 - [_Tech Works: How Can I Make Myself More Productive?_](https://thenewstack.io/tech-works-how-can-i-make-myself-more-productive/?utm_campaign=github-jamietanna)
 - [_Why, after 8 years, I still like GraphQL sometimes in the right context_](https://www.magiroux.com/eight-years-of-graphql?utm_campaign=github-jamietanna)
-- [_Why, after 6 years, I’m over GraphQL_](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/?utm_campaign=github-jamietanna)
 
 ---
 
