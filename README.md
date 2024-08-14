@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Creating a /typography page_](https://www.jvt.me/posts/2024/08/14/typography/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#32_](https://www.jvt.me/week-notes/2024/32/?utm_campaign=github-jamietanna)
 - [_I'm on Go Time!_](https://www.jvt.me/posts/2024/08/08/go-time-openapi/?utm_campaign=github-jamietanna)
-- [_New CSS, Who Dis? (2024 edition)_](https://www.jvt.me/posts/2024/08/05/new-css-who-dis/?utm_campaign=github-jamietanna)
 
 ---
 
