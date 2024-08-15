@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Gotcha: SXHKD doesn't like comments (in bindings)_](https://www.jvt.me/posts/2024/08/15/sxhkd-comments/?utm_campaign=github-jamietanna)
+- [_How to get the next window created set to floating in BSPWM_](https://www.jvt.me/posts/2024/08/15/bspwm-next-float/?utm_campaign=github-jamietanna)
 - [_Creating a /typography page_](https://www.jvt.me/posts/2024/08/14/typography/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#32_](https://www.jvt.me/week-notes/2024/32/?utm_campaign=github-jamietanna)
-- [_I'm on Go Time!_](https://www.jvt.me/posts/2024/08/08/go-time-openapi/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Gotcha: SXHKD doesn't like comments (in bindings)_](https://www.jvt.me/posts/2024/08/15/sxhkd-comments/?utm_campaign=github-jamietanna)
+- [_How to get the next window created set to floating in BSPWM_](https://www.jvt.me/posts/2024/08/15/bspwm-next-float/?utm_campaign=github-jamietanna)
 - [_Why isn't Hugo regenerating my SCSS files?_](https://www.jvt.me/posts/2024/08/05/hugo-no-scss/?utm_campaign=github-jamietanna)
 - [_Why can't I use a comma with gcloud?_](https://www.jvt.me/posts/2024/08/01/gcloud-escaping/?utm_campaign=github-jamietanna)
 - [_Using Spotless to auto-format Gradle Verification Metadata_](https://www.jvt.me/posts/2024/07/31/spotless-gradle-verification/?utm_campaign=github-jamietanna)
-- [_Common issues faced with execing an executable on Linux_](https://www.jvt.me/posts/2024/07/30/exec-fork-errors/?utm_campaign=github-jamietanna)
-- [_Migrating Renovate bots, while keeping existing PRs updated_](https://www.jvt.me/posts/2024/07/18/renovate-migrate-self-host/?utm_campaign=github-jamietanna)
 
 ---
 
