@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_GopherCon UK 2024_](https://www.jvt.me/posts/2024/08/16/gophercon-uk-2024/?utm_campaign=github-jamietanna)
 - [_Gotcha: SXHKD doesn't like comments (in bindings)_](https://www.jvt.me/posts/2024/08/15/sxhkd-comments/?utm_campaign=github-jamietanna)
 - [_How to get the next window created set to floating in BSPWM_](https://www.jvt.me/posts/2024/08/15/bspwm-next-float/?utm_campaign=github-jamietanna)
-- [_Creating a /typography page_](https://www.jvt.me/posts/2024/08/14/typography/?utm_campaign=github-jamietanna)
 
 ---
 
