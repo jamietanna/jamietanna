@@ -36,11 +36,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Breaking changes: a tooling problem - Richard Marmorstein_](https://twitchard.github.io/posts/2024-08-23-breaking-changes.html?utm_campaign=github-jamietanna)
 - [_Blog Posts vs. Social Posts_](https://blog.jim-nielsen.com/2024/blog-vs-social-posts/?utm_campaign=github-jamietanna)
 - [_Leaving Twitter for New Frontiers_](https://lu.is/2024/01/after-twitter/?utm_campaign=github-jamietanna)
 - [_Versioning as Communication_](https://xavd.id/blog/post/versioning-as-communication/?utm_campaign=github-jamietanna)
 - [_https://www.pawlean.com/posts/navigating-layoffs_](https://www.pawlean.com/posts/navigating-layoffs?utm_campaign=github-jamietanna)
-- [_Against Innovation Tokens_](https://blog.glyph.im/2024/07/against-innovation-tokens.html?utm_campaign=github-jamietanna)
 
 ---
 
