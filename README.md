@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_You're not mature enough to release your first version as v1_](https://www.jvt.me/posts/2024/08/26/v0/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#34_](https://www.jvt.me/week-notes/2024/34/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#33_](https://www.jvt.me/week-notes/2024/33/?utm_campaign=github-jamietanna)
-- [_GopherCon UK 2024_](https://www.jvt.me/posts/2024/08/16/gophercon-uk-2024/?utm_campaign=github-jamietanna)
 
 ---
 
