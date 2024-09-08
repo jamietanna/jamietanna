@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#36_](https://www.jvt.me/week-notes/2024/36/?utm_campaign=github-jamietanna)
 - [_How to use Dependency Management Data to discover which dependencies are participating in Hacktoberfest_](https://www.jvt.me/posts/2024/09/03/dmd-hacktoberfest/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#35_](https://www.jvt.me/week-notes/2024/35/?utm_campaign=github-jamietanna)
-- [_You're not mature enough to release your first version as v1_](https://www.jvt.me/posts/2024/08/26/v0/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#35](https://www.jvt.me/week-notes/2024/35/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#36](https://www.jvt.me/week-notes/2024/36/?utm_campaign=github-jamietanna).
 
 ---
 
