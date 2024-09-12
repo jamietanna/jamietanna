@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Nested teams in GitHub don't give you the control you think they do_](https://www.jvt.me/posts/2024/09/12/github-authz-teams/?utm_campaign=github-jamietanna)
 - [_Forcing pacman to perform post-upgrade tasks if it's failed part way through_](https://www.jvt.me/posts/2024/09/09/pacman-force-post-upgrade-hooks/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#36_](https://www.jvt.me/week-notes/2024/36/?utm_campaign=github-jamietanna)
-- [_How to use Dependency Management Data to discover which dependencies are participating in Hacktoberfest_](https://www.jvt.me/posts/2024/09/03/dmd-hacktoberfest/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Nested teams in GitHub don't give you the control you think they do_](https://www.jvt.me/posts/2024/09/12/github-authz-teams/?utm_campaign=github-jamietanna)
 - [_Forcing pacman to perform post-upgrade tasks if it's failed part way through_](https://www.jvt.me/posts/2024/09/09/pacman-force-post-upgrade-hooks/?utm_campaign=github-jamietanna)
 - [_Gotcha: SXHKD doesn't like comments (in bindings)_](https://www.jvt.me/posts/2024/08/15/sxhkd-comments/?utm_campaign=github-jamietanna)
 - [_How to get the next window created set to floating in BSPWM_](https://www.jvt.me/posts/2024/08/15/bspwm-next-float/?utm_campaign=github-jamietanna)
 - [_Why isn't Hugo regenerating my SCSS files?_](https://www.jvt.me/posts/2024/08/05/hugo-no-scss/?utm_campaign=github-jamietanna)
-- [_Why can't I use a comma with gcloud?_](https://www.jvt.me/posts/2024/08/01/gcloud-escaping/?utm_campaign=github-jamietanna)
 
 ---
 
