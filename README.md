@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Utilising Renovate's local platform to test more easily_](https://www.jvt.me/posts/2024/09/16/renovate-local/?utm_campaign=github-jamietanna)
 - [_Don't pretty print your API's JSON response body_](https://www.jvt.me/posts/2024/09/16/api-pretty/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#37_](https://www.jvt.me/week-notes/2024/37/?utm_campaign=github-jamietanna)
-- [_Nested teams in GitHub don't give you the control you think they do_](https://www.jvt.me/posts/2024/09/12/github-authz-teams/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Utilising Renovate's local platform to test more easily_](https://www.jvt.me/posts/2024/09/16/renovate-local/?utm_campaign=github-jamietanna)
 - [_Nested teams in GitHub don't give you the control you think they do_](https://www.jvt.me/posts/2024/09/12/github-authz-teams/?utm_campaign=github-jamietanna)
 - [_Forcing pacman to perform post-upgrade tasks if it's failed part way through_](https://www.jvt.me/posts/2024/09/09/pacman-force-post-upgrade-hooks/?utm_campaign=github-jamietanna)
 - [_Gotcha: SXHKD doesn't like comments (in bindings)_](https://www.jvt.me/posts/2024/08/15/sxhkd-comments/?utm_campaign=github-jamietanna)
 - [_How to get the next window created set to floating in BSPWM_](https://www.jvt.me/posts/2024/08/15/bspwm-next-float/?utm_campaign=github-jamietanna)
-- [_Why isn't Hugo regenerating my SCSS files?_](https://www.jvt.me/posts/2024/08/05/hugo-no-scss/?utm_campaign=github-jamietanna)
 
 ---
 
