@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_I'm on API Evangelist Conversation_](https://www.jvt.me/posts/2024/09/19/api-evangelist-conversation/?utm_campaign=github-jamietanna)
 - [_Utilising Renovate's local platform to test more easily_](https://www.jvt.me/posts/2024/09/16/renovate-local/?utm_campaign=github-jamietanna)
 - [_Don't pretty print your API's JSON response body_](https://www.jvt.me/posts/2024/09/16/api-pretty/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#37_](https://www.jvt.me/week-notes/2024/37/?utm_campaign=github-jamietanna)
 
 ---
 
