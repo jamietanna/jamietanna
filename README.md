@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#38_](https://www.jvt.me/week-notes/2024/38/?utm_campaign=github-jamietanna)
 - [_I'm on API Evangelist Conversation_](https://www.jvt.me/posts/2024/09/19/api-evangelist-conversation/?utm_campaign=github-jamietanna)
 - [_Utilising Renovate's local platform to test more easily_](https://www.jvt.me/posts/2024/09/16/renovate-local/?utm_campaign=github-jamietanna)
-- [_Don't pretty print your API's JSON response body_](https://www.jvt.me/posts/2024/09/16/api-pretty/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#37](https://www.jvt.me/week-notes/2024/37/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#38](https://www.jvt.me/week-notes/2024/38/?utm_campaign=github-jamietanna).
 
 ---
 
