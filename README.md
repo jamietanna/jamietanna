@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Don't do Agile, be agile_](https://www.jvt.me/posts/2024/10/02/be-agile/?utm_campaign=github-jamietanna)
 - [_Converting a Reveal.js slide deck to PDF_](https://www.jvt.me/posts/2024/10/01/reveal-pdf/?utm_campaign=github-jamietanna)
 - [_Getting symlinks to work with a git clone on Mac_](https://www.jvt.me/posts/2024/10/01/mac-symlinks-git/?utm_campaign=github-jamietanna)
-- [_Using a separate Go module for your tools.go_](https://www.jvt.me/posts/2024/09/30/go-tools-module/?utm_campaign=github-jamietanna)
 
 ---
 
