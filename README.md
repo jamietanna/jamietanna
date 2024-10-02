@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Converting a Reveal.js slide deck to PDF_](https://www.jvt.me/posts/2024/10/01/reveal-pdf/?utm_campaign=github-jamietanna)
 - [_Getting symlinks to work with a git clone on Mac_](https://www.jvt.me/posts/2024/10/01/mac-symlinks-git/?utm_campaign=github-jamietanna)
 - [_Using a separate Go module for your tools.go_](https://www.jvt.me/posts/2024/09/30/go-tools-module/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#39_](https://www.jvt.me/week-notes/2024/39/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Converting a Reveal.js slide deck to PDF_](https://www.jvt.me/posts/2024/10/01/reveal-pdf/?utm_campaign=github-jamietanna)
 - [_Getting symlinks to work with a git clone on Mac_](https://www.jvt.me/posts/2024/10/01/mac-symlinks-git/?utm_campaign=github-jamietanna)
 - [_Using a separate Go module for your tools.go_](https://www.jvt.me/posts/2024/09/30/go-tools-module/?utm_campaign=github-jamietanna)
 - [_Utilising Renovate's local platform to test more easily_](https://www.jvt.me/posts/2024/09/16/renovate-local/?utm_campaign=github-jamietanna)
 - [_Nested teams in GitHub don't give you the control you think they do_](https://www.jvt.me/posts/2024/09/12/github-authz-teams/?utm_campaign=github-jamietanna)
-- [_Forcing pacman to perform post-upgrade tasks if it's failed part way through_](https://www.jvt.me/posts/2024/09/09/pacman-force-post-upgrade-hooks/?utm_campaign=github-jamietanna)
 
 ---
 
