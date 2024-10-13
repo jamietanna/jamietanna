@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_OggCamp 2024_](https://www.jvt.me/posts/2024/10/13/oggcamp/?utm_campaign=github-jamietanna)
 - [_How I manage my dotfiles_](https://www.jvt.me/posts/2024/10/11/dotfiles/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#40_](https://www.jvt.me/week-notes/2024/40/?utm_campaign=github-jamietanna)
-- [_Don't do Agile, be agile_](https://www.jvt.me/posts/2024/10/02/be-agile/?utm_campaign=github-jamietanna)
 
 ---
 
