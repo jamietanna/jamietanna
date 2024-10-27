@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#43_](https://www.jvt.me/week-notes/2024/43/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#42_](https://www.jvt.me/week-notes/2024/42/?utm_campaign=github-jamietanna)
 - [_Why has Firefox 133 lost all my tabs?_](https://www.jvt.me/posts/2024/10/16/firefox-profile-133/?utm_campaign=github-jamietanna)
-- [_Creating a /slashes page_](https://www.jvt.me/posts/2024/10/15/slashes/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#42](https://www.jvt.me/week-notes/2024/42/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#43](https://www.jvt.me/week-notes/2024/43/?utm_campaign=github-jamietanna).
 
 ---
 
