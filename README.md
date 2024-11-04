@@ -36,11 +36,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Please just stop saying "just"_](https://sgringwe.com/2019/10/10/Please-just-stop-saying-just.html?utm_campaign=github-jamietanna)
 - [_RIP botsin.space_](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/?utm_campaign=github-jamietanna)
 - [_The Disappearance of an Internet Domain_](https://every.to/p/the-disappearance-of-an-internet-domain?utm_campaign=github-jamietanna)
 - [_I just crossed $1 million on GitHub Sponsors. 💰🎉_](http://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook?utm_campaign=github-jamietanna)
 - [_Elasticsearch is open source, again_](https://www.elastic.co/blog/elasticsearch-is-open-source-again?utm_campaign=github-jamietanna)
-- [_Breaking changes: a tooling problem - Richard Marmorstein_](https://twitchard.github.io/posts/2024-08-23-breaking-changes.html?utm_campaign=github-jamietanna)
 
 ---
 
