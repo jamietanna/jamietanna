@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Summarising the skipReasons for Renovate data exports_](https://www.jvt.me/posts/2024/11/08/renovate-packagedump-skip-reason/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#44_](https://www.jvt.me/week-notes/2024/44/?utm_campaign=github-jamietanna)
 - [_How to diff two datetimes_](https://www.jvt.me/posts/2024/10/31/date-diff/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#43_](https://www.jvt.me/week-notes/2024/43/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Summarising the skipReasons for Renovate data exports_](https://www.jvt.me/posts/2024/11/08/renovate-packagedump-skip-reason/?utm_campaign=github-jamietanna)
 - [_How to diff two datetimes_](https://www.jvt.me/posts/2024/10/31/date-diff/?utm_campaign=github-jamietanna)
 - [_Why has Firefox 133 lost all my tabs?_](https://www.jvt.me/posts/2024/10/16/firefox-profile-133/?utm_campaign=github-jamietanna)
 - [_Converting a Reveal.js slide deck to PDF_](https://www.jvt.me/posts/2024/10/01/reveal-pdf/?utm_campaign=github-jamietanna)
 - [_Getting symlinks to work with a git clone on Mac_](https://www.jvt.me/posts/2024/10/01/mac-symlinks-git/?utm_campaign=github-jamietanna)
-- [_Using a separate Go module for your tools.go_](https://www.jvt.me/posts/2024/09/30/go-tools-module/?utm_campaign=github-jamietanna)
 
 ---
 
