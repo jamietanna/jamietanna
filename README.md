@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#46_](https://www.jvt.me/week-notes/2024/46/?utm_campaign=github-jamietanna)
 - [_Lessons learned adding OpenTelemetry to a (Cobra) command-line Go tool_](https://www.jvt.me/posts/2024/11/17/cobra-otel-lessons/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#45_](https://www.jvt.me/week-notes/2024/45/?utm_campaign=github-jamietanna)
-- [_Summarising the skipReasons for Renovate data exports_](https://www.jvt.me/posts/2024/11/08/renovate-packagedump-skip-reason/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#45](https://www.jvt.me/week-notes/2024/45/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#46](https://www.jvt.me/week-notes/2024/46/?utm_campaign=github-jamietanna).
 
 ---
 
