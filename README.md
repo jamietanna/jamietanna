@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Gotcha: PersistentPostRunE only runs on successful commands in Cobra_](https://www.jvt.me/posts/2024/11/29/gotcha-cobra-persistentpostrune/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#47_](https://www.jvt.me/week-notes/2024/47/?utm_campaign=github-jamietanna)
 - [_Creating a Neovim plugin for my standup updates_](https://www.jvt.me/posts/2024/11/24/neovim-standup/?utm_campaign=github-jamietanna)
-- [_The joy of an asynchronous, always updating standup_](https://www.jvt.me/posts/2024/11/24/async-standups/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Gotcha: PersistentPostRunE only runs on successful commands in Cobra_](https://www.jvt.me/posts/2024/11/29/gotcha-cobra-persistentpostrune/?utm_campaign=github-jamietanna)
 - [_Creating a Neovim plugin for my standup updates_](https://www.jvt.me/posts/2024/11/24/neovim-standup/?utm_campaign=github-jamietanna)
 - [_Creating a private mirror of the Renovate docs_](https://www.jvt.me/posts/2024/11/19/renovate-private-docs/?utm_campaign=github-jamietanna)
 - [_Lessons learned adding OpenTelemetry to a (Cobra) command-line Go tool_](https://www.jvt.me/posts/2024/11/17/cobra-otel-lessons/?utm_campaign=github-jamietanna)
 - [_Summarising the skipReasons for Renovate data exports_](https://www.jvt.me/posts/2024/11/08/renovate-packagedump-skip-reason/?utm_campaign=github-jamietanna)
-- [_How to diff two datetimes_](https://www.jvt.me/posts/2024/10/31/date-diff/?utm_campaign=github-jamietanna)
 
 ---
 
