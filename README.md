@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#48_](https://www.jvt.me/week-notes/2024/48/?utm_campaign=github-jamietanna)
 - [_Gotcha: PersistentPostRunE only runs on successful commands in Cobra_](https://www.jvt.me/posts/2024/11/29/gotcha-cobra-persistentpostrune/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#47_](https://www.jvt.me/week-notes/2024/47/?utm_campaign=github-jamietanna)
-- [_Creating a Neovim plugin for my standup updates_](https://www.jvt.me/posts/2024/11/24/neovim-standup/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#47](https://www.jvt.me/week-notes/2024/47/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#48](https://www.jvt.me/week-notes/2024/48/?utm_campaign=github-jamietanna).
 
 ---
 
