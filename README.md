@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Creating renovate-packagedata-diff to diff Renovate package data dumps_](https://www.jvt.me/posts/2024/12/08/renovate-packagedata-diff/?utm_campaign=github-jamietanna)
 - [_Some useful SQL(ite) tips I've learned_](https://www.jvt.me/posts/2024/12/05/sql-tidbits/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#48_](https://www.jvt.me/week-notes/2024/48/?utm_campaign=github-jamietanna)
-- [_Gotcha: PersistentPostRunE only runs on successful commands in Cobra_](https://www.jvt.me/posts/2024/11/29/gotcha-cobra-persistentpostrune/?utm_campaign=github-jamietanna)
 
 ---
 
