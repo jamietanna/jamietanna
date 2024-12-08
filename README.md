@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 24#49_](https://www.jvt.me/week-notes/2024/49/?utm_campaign=github-jamietanna)
 - [_Creating renovate-packagedata-diff to diff Renovate package data dumps_](https://www.jvt.me/posts/2024/12/08/renovate-packagedata-diff/?utm_campaign=github-jamietanna)
 - [_Some useful SQL(ite) tips I've learned_](https://www.jvt.me/posts/2024/12/05/sql-tidbits/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#48_](https://www.jvt.me/week-notes/2024/48/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#48](https://www.jvt.me/week-notes/2024/48/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 24#49](https://www.jvt.me/week-notes/2024/49/?utm_campaign=github-jamietanna).
 
 ---
 
