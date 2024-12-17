@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Blocking 'Similar' and 'Because you like ...' suggestions on reddit with uBlock Origin_](https://www.jvt.me/posts/2024/12/17/ublock-origin-reddit/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#50_](https://www.jvt.me/week-notes/2024/50/?utm_campaign=github-jamietanna)
 - [_You can now resolve remote presets when using Renovate's local platform in renovate-graph_](https://www.jvt.me/posts/2024/12/12/renovate-graph-local-presets/?utm_campaign=github-jamietanna)
-- [_Some mixed thoughts on The Changelog Podcast Universe_](https://www.jvt.me/posts/2024/12/08/changelog-cpu/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Blocking 'Similar' and 'Because you like ...' suggestions on reddit with uBlock Origin_](https://www.jvt.me/posts/2024/12/17/ublock-origin-reddit/?utm_campaign=github-jamietanna)
 - [_Some useful SQL(ite) tips I've learned_](https://www.jvt.me/posts/2024/12/05/sql-tidbits/?utm_campaign=github-jamietanna)
 - [_Gotcha: PersistentPostRunE only runs on successful commands in Cobra_](https://www.jvt.me/posts/2024/11/29/gotcha-cobra-persistentpostrune/?utm_campaign=github-jamietanna)
 - [_Creating a Neovim plugin for my standup updates_](https://www.jvt.me/posts/2024/11/24/neovim-standup/?utm_campaign=github-jamietanna)
 - [_Creating a private mirror of the Renovate docs_](https://www.jvt.me/posts/2024/11/19/renovate-private-docs/?utm_campaign=github-jamietanna)
-- [_Lessons learned adding OpenTelemetry to a (Cobra) command-line Go tool_](https://www.jvt.me/posts/2024/11/17/cobra-otel-lessons/?utm_campaign=github-jamietanna)
 
 ---
 
