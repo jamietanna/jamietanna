@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_2024's Site In Review_](https://www.jvt.me/site-in-review/2024/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#52_](https://www.jvt.me/week-notes/2024/52/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#51_](https://www.jvt.me/week-notes/2024/51/?utm_campaign=github-jamietanna)
-- [_Blocking 'Similar' and 'Because you like ...' suggestions on reddit with uBlock Origin_](https://www.jvt.me/posts/2024/12/17/ublock-origin-reddit/?utm_campaign=github-jamietanna)
 
 ---
 
