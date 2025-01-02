@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_What level of access do I have on that GitHub repository?_](https://www.jvt.me/posts/2025/01/02/what-access-github/?utm_campaign=github-jamietanna)
 - [_2024's Site In Review_](https://www.jvt.me/site-in-review/2024/?utm_campaign=github-jamietanna)
 - [_Week Notes 24#52_](https://www.jvt.me/week-notes/2024/52/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#51_](https://www.jvt.me/week-notes/2024/51/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_What level of access do I have on that GitHub repository?_](https://www.jvt.me/posts/2025/01/02/what-access-github/?utm_campaign=github-jamietanna)
 - [_Blocking 'Similar' and 'Because you like ...' suggestions on reddit with uBlock Origin_](https://www.jvt.me/posts/2024/12/17/ublock-origin-reddit/?utm_campaign=github-jamietanna)
 - [_Some useful SQL(ite) tips I've learned_](https://www.jvt.me/posts/2024/12/05/sql-tidbits/?utm_campaign=github-jamietanna)
 - [_Gotcha: PersistentPostRunE only runs on successful commands in Cobra_](https://www.jvt.me/posts/2024/11/29/gotcha-cobra-persistentpostrune/?utm_campaign=github-jamietanna)
 - [_Creating a Neovim plugin for my standup updates_](https://www.jvt.me/posts/2024/11/24/neovim-standup/?utm_campaign=github-jamietanna)
-- [_Creating a private mirror of the Renovate docs_](https://www.jvt.me/posts/2024/11/19/renovate-private-docs/?utm_campaign=github-jamietanna)
 
 ---
 
