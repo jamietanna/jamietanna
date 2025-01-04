@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_2024's Music In Review_](https://www.jvt.me/music-in-review/2024/?utm_campaign=github-jamietanna)
 - [_What level of access do I have on that GitHub repository?_](https://www.jvt.me/posts/2025/01/02/what-access-github/?utm_campaign=github-jamietanna)
 - [_2024's Site In Review_](https://www.jvt.me/site-in-review/2024/?utm_campaign=github-jamietanna)
-- [_Week Notes 24#52_](https://www.jvt.me/week-notes/2024/52/?utm_campaign=github-jamietanna)
 
 ---
 
