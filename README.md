@@ -36,11 +36,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Don’t Write Code That Hurts People_](https://blog.carlana.net/post/2016-11-17-dont-hurt-people/?utm_campaign=github-jamietanna)
 - [_My month of rest and relaxation - localghost_](https://localghost.dev/blog/my-month-of-rest-and-relaxation/?utm_campaign=github-jamietanna)
 - [_My Approach to Building Large Technical Projects_](https://mitchellh.com/writing/building-large-technical-projects?utm_campaign=github-jamietanna)
 - [_Don’t Let That Content Go To Waste – Dan Moore!_](https://www.mooreds.com/wordpress/archives/3667?utm_campaign=github-jamietanna)
 - [_A letter to open-source maintainers_](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/?utm_campaign=github-jamietanna)
-- [_Tools for Go modules_](https://cirw.in/blog/go-tools?utm_campaign=github-jamietanna)
 
 ---
 
