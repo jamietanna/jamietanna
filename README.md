@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 25#03_](https://www.jvt.me/week-notes/2025/03/?utm_campaign=github-jamietanna)
 - [_Getting access to rich-text data from the clipboard (on Linux)_](https://www.jvt.me/posts/2025/01/26/linux-html-clipboard/?utm_campaign=github-jamietanna)
 - [_Why is zsh no longer storing history?_](https://www.jvt.me/posts/2025/01/22/zsh-history-loss/?utm_campaign=github-jamietanna)
-- [_Week Notes 25#02_](https://www.jvt.me/week-notes/2025/02/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 25#02](https://www.jvt.me/week-notes/2025/02/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 25#03](https://www.jvt.me/week-notes/2025/03/?utm_campaign=github-jamietanna).
 
 ---
 
