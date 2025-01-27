@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Go 1.24's go tool is one of the best additions to the ecosystem in years_](https://www.jvt.me/posts/2025/01/27/go-tools-124/?utm_campaign=github-jamietanna)
 - [_Week Notes 25#03_](https://www.jvt.me/week-notes/2025/03/?utm_campaign=github-jamietanna)
 - [_Getting access to rich-text data from the clipboard (on Linux)_](https://www.jvt.me/posts/2025/01/26/linux-html-clipboard/?utm_campaign=github-jamietanna)
-- [_Why is zsh no longer storing history?_](https://www.jvt.me/posts/2025/01/22/zsh-history-loss/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Go 1.24's go tool is one of the best additions to the ecosystem in years_](https://www.jvt.me/posts/2025/01/27/go-tools-124/?utm_campaign=github-jamietanna)
 - [_Getting access to rich-text data from the clipboard (on Linux)_](https://www.jvt.me/posts/2025/01/26/linux-html-clipboard/?utm_campaign=github-jamietanna)
 - [_Why is zsh no longer storing history?_](https://www.jvt.me/posts/2025/01/22/zsh-history-loss/?utm_campaign=github-jamietanna)
 - [_Accessing private Go modules in a Docker container_](https://www.jvt.me/posts/2025/01/14/go-private-docker/?utm_campaign=github-jamietanna)
 - [_Getting all comments from a given user on a GitHub Discussion_](https://www.jvt.me/posts/2025/01/08/github-discussion-comments/?utm_campaign=github-jamietanna)
-- [_What level of access do I have on that GitHub repository?_](https://www.jvt.me/posts/2025/01/02/what-access-github/?utm_campaign=github-jamietanna)
 
 ---
 
