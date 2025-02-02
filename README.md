@@ -36,11 +36,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_I want you to do these four things right now_](https://werd.io/2025/i-want-you-to-do-these-four-things-right-now?utm_campaign=github-jamietanna)
 - [_Once You're Laid Off, You'll Never Be the Same Again – Mert Bulan_](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/?utm_campaign=github-jamietanna)
 - [_Don’t Write Code That Hurts People_](https://blog.carlana.net/post/2016-11-17-dont-hurt-people/?utm_campaign=github-jamietanna)
 - [_My month of rest and relaxation - localghost_](https://localghost.dev/blog/my-month-of-rest-and-relaxation/?utm_campaign=github-jamietanna)
 - [_My Approach to Building Large Technical Projects_](https://mitchellh.com/writing/building-large-technical-projects?utm_campaign=github-jamietanna)
-- [_Don’t Let That Content Go To Waste – Dan Moore!_](https://www.mooreds.com/wordpress/archives/3667?utm_campaign=github-jamietanna)
 
 ---
 
