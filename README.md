@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 25#05_](https://www.jvt.me/week-notes/2025/05/?utm_campaign=github-jamietanna)
 - [_Celebrating dependency-management-data's second birthday_](https://www.jvt.me/posts/2025/02/06/dmd-birthday/?utm_campaign=github-jamietanna)
 - [_Week Notes 25#04_](https://www.jvt.me/week-notes/2025/04/?utm_campaign=github-jamietanna)
-- [_Go 1.24's go tool is one of the best additions to the ecosystem in years_](https://www.jvt.me/posts/2025/01/27/go-tools-124/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 25#04](https://www.jvt.me/week-notes/2025/04/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 25#05](https://www.jvt.me/week-notes/2025/05/?utm_campaign=github-jamietanna).
 
 ---
 
