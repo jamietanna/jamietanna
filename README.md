@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_I'm on Fallthrough: Patching Problems with Persnickety Proxies Purveyed by Paternalistic Princes_](https://www.jvt.me/posts/2025/02/17/fallthrough-go-mirror/?utm_campaign=github-jamietanna)
 - [_Week Notes 25#06_](https://www.jvt.me/week-notes/2025/06/?utm_campaign=github-jamietanna)
 - [_Go 1.24's omitzero is another one of the best additions to the ecosystem in years_](https://www.jvt.me/posts/2025/02/12/go-omitzero-124/?utm_campaign=github-jamietanna)
-- [_Week Notes 25#05_](https://www.jvt.me/week-notes/2025/05/?utm_campaign=github-jamietanna)
 
 ---
 
