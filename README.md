@@ -16,20 +16,20 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_Week Notes 25#08_](https://www.jvt.me/week-notes/2025/08/?utm_campaign=github-jamietanna)
+- [_Creating single-purpose RSS feeds with Hugo_](https://www.jvt.me/posts/2025/03/02/hugo-custom-feed/?utm_campaign=github-jamietanna)
 - [_Creating a test harness for validating Renovate Custom Datasource configuration_](https://www.jvt.me/posts/2025/03/01/renovate-custom-datasource-test/?utm_campaign=github-jamietanna)
-- [_Week Notes 25#07_](https://www.jvt.me/week-notes/2025/07/?utm_campaign=github-jamietanna)
-- [_Product requirements for a "fund your dependency tree" service_](https://www.jvt.me/posts/2025/02/20/funding-oss-product/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Creating single-purpose RSS feeds with Hugo_](https://www.jvt.me/posts/2025/03/02/hugo-custom-feed/?utm_campaign=github-jamietanna)
 - [_Creating a test harness for validating Renovate Custom Datasource configuration_](https://www.jvt.me/posts/2025/03/01/renovate-custom-datasource-test/?utm_campaign=github-jamietanna)
 - [_Go 1.24's omitzero is another one of the best additions to the ecosystem in years_](https://www.jvt.me/posts/2025/02/12/go-omitzero-124/?utm_campaign=github-jamietanna)
 - [_Go 1.24's go tool is one of the best additions to the ecosystem in years_](https://www.jvt.me/posts/2025/01/27/go-tools-124/?utm_campaign=github-jamietanna)
 - [_Getting access to rich-text data from the clipboard (on Linux)_](https://www.jvt.me/posts/2025/01/26/linux-html-clipboard/?utm_campaign=github-jamietanna)
-- [_Why is zsh no longer storing history?_](https://www.jvt.me/posts/2025/01/22/zsh-history-loss/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -44,7 +44,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 25#07](https://www.jvt.me/week-notes/2025/07/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 25#08](https://www.jvt.me/week-notes/2025/08/?utm_campaign=github-jamietanna).
 
 ---
 
