@@ -36,11 +36,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_The Ideal Candidate Will Be Punched In the Stomach_](https://www.scottsmitelli.com/articles/ideal-candidate/?utm_campaign=github-jamietanna)
 - [_Open source maintainers are feeling the squeeze_](https://www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/?utm_campaign=github-jamietanna)
 - [_OpenAPI is hard_](https://quobix.com/articles/openapi-is-hard/?utm_campaign=github-jamietanna)
 - [_I want you to do these four things right now_](https://werd.io/2025/i-want-you-to-do-these-four-things-right-now?utm_campaign=github-jamietanna)
 - [_Once You're Laid Off, You'll Never Be the Same Again – Mert Bulan_](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/?utm_campaign=github-jamietanna)
-- [_Don’t Write Code That Hurts People_](https://blog.carlana.net/post/2016-11-17-dont-hurt-people/?utm_campaign=github-jamietanna)
 
 ---
 
