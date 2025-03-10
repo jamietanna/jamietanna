@@ -16,9 +16,9 @@ As well as them, I maintain [a number of other Open Source projects](https://www
 I write a fair bit on my blog:
 
 
+- [_I'm on Fallthrough: An Exploration of APIs, Versioning, & HTTP_](https://www.jvt.me/posts/2025/03/10/fallthrough-api-exploration/?utm_campaign=github-jamietanna)
 - [_Week Notes 25#09_](https://www.jvt.me/week-notes/2025/09/?utm_campaign=github-jamietanna)
 - [_Week Notes 25#08_](https://www.jvt.me/week-notes/2025/08/?utm_campaign=github-jamietanna)
-- [_Creating single-purpose RSS feeds with Hugo_](https://www.jvt.me/posts/2025/03/02/hugo-custom-feed/?utm_campaign=github-jamietanna)
 
 ---
 
