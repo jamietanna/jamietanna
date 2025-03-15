@@ -1,6 +1,12 @@
 Hey, I'm Jamie
 Tanna (he/him/his) 👋
 
+🎂🎉🎁🎈🎂🎉🎁🎈
+
+It's my birthday week! If you want to give back, you could [support my work](https://www.jvt.me/support-me/?utm_campaign=github-jamietanna).
+
+🎂🎉🎁🎈🎂🎉🎁🎈
+
 I'm currently a Senior Software Engineer at [Elastic](https://elastic.co/), and I'm currently based in Nottingham.
 
 I have a [/now page](https://www.jvt.me/now/?utm_campaign=github-jamietanna), which aims to be a more up-to-date about page.
@@ -10,6 +16,8 @@ I use my [personal website](https://www.jvt.me/?utm_campaign=github-jamietanna) 
 Right now, my two biggest Open Source side projects are [dependency-management-data](https://dmd.tanna.dev) and [`oapi-codegen`](https://github.com/deepmap/oapi-codegen/), and the SAAS platform [deps.fyi](https://deps.fyi).
 
 As well as them, I maintain [a number of other Open Source projects](https://www.jvt.me/open-source/?utm_campaign=github-jamietanna), and primarily use [GitLab](https://gitlab.com/jamietanna) for my source control, but also use [GitHub](https://github.com/jamietanna) for some things.
+
+You may also know me for being very public with [sharing my salary history publicly](https://www.jvt.me/salary/?utm_campaign=github-jamietanna).
 
 ---
 
