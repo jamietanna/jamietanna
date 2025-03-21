@@ -1,12 +1,6 @@
 Hey, I'm Jamie
 Tanna (he/him/his) 👋
 
-🎂 🎉 🎁 🎈 🎂 🎉 🎁 🎈
-
-It's my birthday week! If you want to give back, you could [support my work](https://www.jvt.me/support-me/?utm_campaign=github-jamietanna).
-
-🎂 🎉 🎁 🎈 🎂 🎉 🎁 🎈
-
 I'm currently a Senior Software Engineer at [Elastic](https://elastic.co/), and I'm currently based in Nottingham.
 
 I have a [/now page](https://www.jvt.me/now/?utm_campaign=github-jamietanna), which aims to be a more up-to-date about page.
