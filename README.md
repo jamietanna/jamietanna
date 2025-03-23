@@ -5,6 +5,8 @@ I'm currently a Senior Software Engineer at [Elastic](https://elastic.co/), and 
 
 I have a [/now page](https://www.jvt.me/now/?utm_campaign=github-jamietanna), which aims to be a more up-to-date about page.
 
+If you're looking at how best to work with me, you may want to read my [Manual of Me](https://manual.jvt.me/?utm_campaign=github-jamietanna).
+
 I use my [personal website](https://www.jvt.me/?utm_campaign=github-jamietanna) as a method of blogging about my learnings, as well as sharing information about projects I have previously, or am currently, working on in my spare time.
 
 Right now, my two biggest Open Source side projects are [dependency-management-data](https://dmd.tanna.dev) and [`oapi-codegen`](https://github.com/deepmap/oapi-codegen/), and the SAAS platform [deps.fyi](https://deps.fyi).
@@ -19,8 +21,8 @@ I write a fair bit on my blog:
 
 
 - [_I'm on Fallthrough: An Exploration of APIs, Versioning, & HTTP_](https://www.jvt.me/posts/2025/03/10/fallthrough-api-exploration/?utm_campaign=github-jamietanna)
-- [_Week Notes 25#09_](https://www.jvt.me/week-notes/2025/09/?utm_campaign=github-jamietanna)
-- [_Week Notes 25#08_](https://www.jvt.me/week-notes/2025/08/?utm_campaign=github-jamietanna)
+- [_Creating single-purpose RSS feeds with Hugo_](https://www.jvt.me/posts/2025/03/02/hugo-custom-feed/?utm_campaign=github-jamietanna)
+- [_Creating a test harness for validating Renovate Custom Datasource configuration_](https://www.jvt.me/posts/2025/03/01/renovate-custom-datasource-test/?utm_campaign=github-jamietanna)
 
 ---
 
