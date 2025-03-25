@@ -20,20 +20,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Updating apk add definitions in Dockerfiles_](https://www.jvt.me/posts/2025/03/24/renovate-regex-dockerfile-apk/?utm_campaign=github-jamietanna)
 - [_I'm on Fallthrough: An Exploration of APIs, Versioning, & HTTP_](https://www.jvt.me/posts/2025/03/10/fallthrough-api-exploration/?utm_campaign=github-jamietanna)
 - [_Creating single-purpose RSS feeds with Hugo_](https://www.jvt.me/posts/2025/03/02/hugo-custom-feed/?utm_campaign=github-jamietanna)
-- [_Creating a test harness for validating Renovate Custom Datasource configuration_](https://www.jvt.me/posts/2025/03/01/renovate-custom-datasource-test/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Updating apk add definitions in Dockerfiles_](https://www.jvt.me/posts/2025/03/24/renovate-regex-dockerfile-apk/?utm_campaign=github-jamietanna)
 - [_Creating single-purpose RSS feeds with Hugo_](https://www.jvt.me/posts/2025/03/02/hugo-custom-feed/?utm_campaign=github-jamietanna)
 - [_Creating a test harness for validating Renovate Custom Datasource configuration_](https://www.jvt.me/posts/2025/03/01/renovate-custom-datasource-test/?utm_campaign=github-jamietanna)
 - [_Go 1.24's omitzero is another one of the best additions to the ecosystem in years_](https://www.jvt.me/posts/2025/02/12/go-omitzero-124/?utm_campaign=github-jamietanna)
 - [_Go 1.24's go tool is one of the best additions to the ecosystem in years_](https://www.jvt.me/posts/2025/01/27/go-tools-124/?utm_campaign=github-jamietanna)
-- [_Getting access to rich-text data from the clipboard (on Linux)_](https://www.jvt.me/posts/2025/01/26/linux-html-clipboard/?utm_campaign=github-jamietanna)
 
 ---
 
