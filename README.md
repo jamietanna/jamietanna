@@ -20,20 +20,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Automagically migrating golangci-lint configuration to v2 with Renovate_](https://www.jvt.me/posts/2025/04/10/renovate-golangci-lint-v2/?utm_campaign=github-jamietanna)
 - [_I'm on Fallthrough: APIs: Design Imperfectly, Improve Relentlessly_](https://www.jvt.me/posts/2025/04/07/fallthrough-api-design/?utm_campaign=github-jamietanna)
 - [_Logging into Hashicorp Vault via a GitHub token in the environment_](https://www.jvt.me/posts/2025/03/28/vault-github/?utm_campaign=github-jamietanna)
-- [_Performing group_concat queries over distinct values, with a custom delimiter, with SQLite_](https://www.jvt.me/posts/2025/03/25/sqlite-distinct-group-concat/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Automagically migrating golangci-lint configuration to v2 with Renovate_](https://www.jvt.me/posts/2025/04/10/renovate-golangci-lint-v2/?utm_campaign=github-jamietanna)
 - [_Logging into Hashicorp Vault via a GitHub token in the environment_](https://www.jvt.me/posts/2025/03/28/vault-github/?utm_campaign=github-jamietanna)
 - [_Performing group_concat queries over distinct values, with a custom delimiter, with SQLite_](https://www.jvt.me/posts/2025/03/25/sqlite-distinct-group-concat/?utm_campaign=github-jamietanna)
 - [_Updating apk add definitions in Dockerfiles_](https://www.jvt.me/posts/2025/03/24/renovate-regex-dockerfile-apk/?utm_campaign=github-jamietanna)
 - [_Creating single-purpose RSS feeds with Hugo_](https://www.jvt.me/posts/2025/03/02/hugo-custom-feed/?utm_campaign=github-jamietanna)
-- [_Creating a test harness for validating Renovate Custom Datasource configuration_](https://www.jvt.me/posts/2025/03/01/renovate-custom-datasource-test/?utm_campaign=github-jamietanna)
 
 ---
 
