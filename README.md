@@ -20,9 +20,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Things I've learned about building + delivering software for other engineers while working in Engineering Productivity_](https://www.jvt.me/posts/2025/04/17/lessons-learned-engprod/?utm_campaign=github-jamietanna)
 - [_Properly patching packages: persistently producing patches for published projects, particularly practically prevented by patch-package policy_](https://www.jvt.me/posts/2025/04/12/patch-package-distribute/?utm_campaign=github-jamietanna)
 - [_Automagically migrating golangci-lint configuration to v2 with Renovate_](https://www.jvt.me/posts/2025/04/10/renovate-golangci-lint-v2/?utm_campaign=github-jamietanna)
-- [_I'm on Fallthrough: APIs: Design Imperfectly, Improve Relentlessly_](https://www.jvt.me/posts/2025/04/07/fallthrough-api-design/?utm_campaign=github-jamietanna)
 
 ---
 
