@@ -20,20 +20,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Rendering diffs for Go's testable examples_](https://www.jvt.me/posts/2025/04/24/go-testable-example-diff/?utm_campaign=github-jamietanna)
 - [_Authoring Markdown externally and pasting the 'pretty' output into Slack (on Linux)_](https://www.jvt.me/posts/2025/04/19/slack-external-markdown/?utm_campaign=github-jamietanna)
 - [_Things I've learned about building + delivering software for other engineers while working in Engineering Productivity_](https://www.jvt.me/posts/2025/04/17/lessons-learned-engprod/?utm_campaign=github-jamietanna)
-- [_Properly patching packages: persistently producing patches for published projects, particularly practically prevented by patch-package policy_](https://www.jvt.me/posts/2025/04/12/patch-package-distribute/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Rendering diffs for Go's testable examples_](https://www.jvt.me/posts/2025/04/24/go-testable-example-diff/?utm_campaign=github-jamietanna)
 - [_Authoring Markdown externally and pasting the 'pretty' output into Slack (on Linux)_](https://www.jvt.me/posts/2025/04/19/slack-external-markdown/?utm_campaign=github-jamietanna)
 - [_Properly patching packages: persistently producing patches for published projects, particularly practically prevented by patch-package policy_](https://www.jvt.me/posts/2025/04/12/patch-package-distribute/?utm_campaign=github-jamietanna)
 - [_Automagically migrating golangci-lint configuration to v2 with Renovate_](https://www.jvt.me/posts/2025/04/10/renovate-golangci-lint-v2/?utm_campaign=github-jamietanna)
 - [_Logging into Hashicorp Vault via a GitHub token in the environment_](https://www.jvt.me/posts/2025/03/28/vault-github/?utm_campaign=github-jamietanna)
-- [_Performing group_concat queries over distinct values, with a custom delimiter, with SQLite_](https://www.jvt.me/posts/2025/03/25/sqlite-distinct-group-concat/?utm_campaign=github-jamietanna)
 
 ---
 
