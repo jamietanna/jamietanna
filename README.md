@@ -20,35 +20,35 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Tricking oapi-codegen into working with OpenAPI 3.1 specs_](https://www.jvt.me/posts/2025/05/04/oapi-codegen-trick-openapi-3-1/?utm_campaign=github-jamietanna)
 - [_Gotcha: docker inspect can lie about the architecture of an image_](https://www.jvt.me/posts/2025/04/25/docker-inspect-lies/?utm_campaign=github-jamietanna)
 - [_Rendering diffs for Go's testable examples_](https://www.jvt.me/posts/2025/04/24/go-testable-example-diff/?utm_campaign=github-jamietanna)
-- [_Authoring Markdown externally and pasting the 'pretty' output into Slack (on Linux)_](https://www.jvt.me/posts/2025/04/19/slack-external-markdown/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Tricking oapi-codegen into working with OpenAPI 3.1 specs_](https://www.jvt.me/posts/2025/05/04/oapi-codegen-trick-openapi-3-1/?utm_campaign=github-jamietanna)
 - [_Gotcha: docker inspect can lie about the architecture of an image_](https://www.jvt.me/posts/2025/04/25/docker-inspect-lies/?utm_campaign=github-jamietanna)
 - [_Rendering diffs for Go's testable examples_](https://www.jvt.me/posts/2025/04/24/go-testable-example-diff/?utm_campaign=github-jamietanna)
 - [_Authoring Markdown externally and pasting the 'pretty' output into Slack (on Linux)_](https://www.jvt.me/posts/2025/04/19/slack-external-markdown/?utm_campaign=github-jamietanna)
 - [_Properly patching packages: persistently producing patches for published projects, particularly practically prevented by patch-package policy_](https://www.jvt.me/posts/2025/04/12/patch-package-distribute/?utm_campaign=github-jamietanna)
-- [_Automagically migrating golangci-lint configuration to v2 with Renovate_](https://www.jvt.me/posts/2025/04/10/renovate-golangci-lint-v2/?utm_campaign=github-jamietanna)
 
 ---
 
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Just Enough Docs | LornaJane_](https://lornajane.net/posts/2025/just-enough-docs?utm_campaign=github-jamietanna)
 - [_What Makes a Great Developer Experience? » Code Simplicity_](https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/?utm_campaign=github-jamietanna)
 - [_Bored of it_](https://paulrobertlloyd.com/2025/087/a1/bored/?utm_campaign=github-jamietanna)
 - [_Ludic's Guide To Getting Software Engineering Jobs — Ludicity_](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/?utm_campaign=github-jamietanna)
 - [_The Ideal Candidate Will Be Punched In the Stomach_](https://www.scottsmitelli.com/articles/ideal-candidate/?utm_campaign=github-jamietanna)
-- [_Open source maintainers are feeling the squeeze_](https://www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/?utm_campaign=github-jamietanna)
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 25#16](https://www.jvt.me/week-notes/2025/16/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 25#17](https://www.jvt.me/week-notes/2025/17/?utm_campaign=github-jamietanna).
 
 ---
 
