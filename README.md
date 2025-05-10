@@ -20,20 +20,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Using type assertions in Go with concrete types_](https://www.jvt.me/posts/2025/05/10/go-type-assertion-concrete/?utm_campaign=github-jamietanna)
 - [_Getting Renovate to provide a changelog for digest updates to packages (on GitHub.com)_](https://www.jvt.me/posts/2025/05/08/renovate-digest-changelog/?utm_campaign=github-jamietanna)
 - [_Tricking oapi-codegen into working with OpenAPI 3.1 specs_](https://www.jvt.me/posts/2025/05/04/oapi-codegen-trick-openapi-3-1/?utm_campaign=github-jamietanna)
-- [_Gotcha: docker inspect can lie about the architecture of an image_](https://www.jvt.me/posts/2025/04/25/docker-inspect-lies/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Using type assertions in Go with concrete types_](https://www.jvt.me/posts/2025/05/10/go-type-assertion-concrete/?utm_campaign=github-jamietanna)
 - [_Getting Renovate to provide a changelog for digest updates to packages (on GitHub.com)_](https://www.jvt.me/posts/2025/05/08/renovate-digest-changelog/?utm_campaign=github-jamietanna)
 - [_Tricking oapi-codegen into working with OpenAPI 3.1 specs_](https://www.jvt.me/posts/2025/05/04/oapi-codegen-trick-openapi-3-1/?utm_campaign=github-jamietanna)
 - [_Gotcha: docker inspect can lie about the architecture of an image_](https://www.jvt.me/posts/2025/04/25/docker-inspect-lies/?utm_campaign=github-jamietanna)
 - [_Rendering diffs for Go's testable examples_](https://www.jvt.me/posts/2025/04/24/go-testable-example-diff/?utm_campaign=github-jamietanna)
-- [_Authoring Markdown externally and pasting the 'pretty' output into Slack (on Linux)_](https://www.jvt.me/posts/2025/04/19/slack-external-markdown/?utm_campaign=github-jamietanna)
 
 ---
 
