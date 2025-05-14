@@ -40,11 +40,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/_](https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/?utm_campaign=github-jamietanna)
 - [_Just Enough Docs | LornaJane_](https://lornajane.net/posts/2025/just-enough-docs?utm_campaign=github-jamietanna)
 - [_What Makes a Great Developer Experience? » Code Simplicity_](https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/?utm_campaign=github-jamietanna)
 - [_Bored of it_](https://paulrobertlloyd.com/2025/087/a1/bored/?utm_campaign=github-jamietanna)
 - [_Ludic's Guide To Getting Software Engineering Jobs — Ludicity_](https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/?utm_campaign=github-jamietanna)
-- [_The Ideal Candidate Will Be Punched In the Stomach_](https://www.scottsmitelli.com/articles/ideal-candidate/?utm_campaign=github-jamietanna)
 
 ---
 
