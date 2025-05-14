@@ -20,20 +20,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Overriding a Gradle project property which has . and _ characters, without modifying the buildscript_](https://www.jvt.me/posts/2025/05/14/gradle-env-property/?utm_campaign=github-jamietanna)
 - [_How to set up the 'Follow' button on LinkedIn_](https://www.jvt.me/posts/2025/05/13/linkedin-enable-follows/?utm_campaign=github-jamietanna)
 - [_Migrating secrets between two Vault instances_](https://www.jvt.me/posts/2025/05/13/migrate-vault-path/?utm_campaign=github-jamietanna)
-- [_Using type assertions in Go with concrete types_](https://www.jvt.me/posts/2025/05/10/go-type-assertion-concrete/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Overriding a Gradle project property which has . and _ characters, without modifying the buildscript_](https://www.jvt.me/posts/2025/05/14/gradle-env-property/?utm_campaign=github-jamietanna)
 - [_How to set up the 'Follow' button on LinkedIn_](https://www.jvt.me/posts/2025/05/13/linkedin-enable-follows/?utm_campaign=github-jamietanna)
 - [_Migrating secrets between two Vault instances_](https://www.jvt.me/posts/2025/05/13/migrate-vault-path/?utm_campaign=github-jamietanna)
 - [_Using type assertions in Go with concrete types_](https://www.jvt.me/posts/2025/05/10/go-type-assertion-concrete/?utm_campaign=github-jamietanna)
 - [_Getting Renovate to provide a changelog for digest updates to packages (on GitHub.com)_](https://www.jvt.me/posts/2025/05/08/renovate-digest-changelog/?utm_campaign=github-jamietanna)
-- [_Tricking oapi-codegen into working with OpenAPI 3.1 specs_](https://www.jvt.me/posts/2025/05/04/oapi-codegen-trick-openapi-3-1/?utm_campaign=github-jamietanna)
 
 ---
 
