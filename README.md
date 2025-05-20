@@ -20,9 +20,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_My experience as a maintainer_](https://www.jvt.me/posts/2025/05/20/my-experience-maintainer/?utm_campaign=github-jamietanna)
 - [_Creating nested fenced code blocks with Hugo_](https://www.jvt.me/posts/2025/05/19/hugo-nested-code/?utm_campaign=github-jamietanna)
 - [_Taking more control over your Cobra CLI documentation_](https://www.jvt.me/posts/2025/05/19/cobra-doc-template/?utm_campaign=github-jamietanna)
-- [_Setting up SSH key signing with Git_](https://www.jvt.me/posts/2025/05/19/git-sign-ssh/?utm_campaign=github-jamietanna)
 
 ---
 
