@@ -20,20 +20,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_What's the difference between Renovate's depName and packageName?_](https://www.jvt.me/posts/2025/05/21/renovate-depname-packagename/?utm_campaign=github-jamietanna)
 - [_My experience as a maintainer_](https://www.jvt.me/posts/2025/05/20/my-experience-maintainer/?utm_campaign=github-jamietanna)
 - [_Creating nested fenced code blocks with Hugo_](https://www.jvt.me/posts/2025/05/19/hugo-nested-code/?utm_campaign=github-jamietanna)
-- [_Taking more control over your Cobra CLI documentation_](https://www.jvt.me/posts/2025/05/19/cobra-doc-template/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_What's the difference between Renovate's depName and packageName?_](https://www.jvt.me/posts/2025/05/21/renovate-depname-packagename/?utm_campaign=github-jamietanna)
 - [_Creating nested fenced code blocks with Hugo_](https://www.jvt.me/posts/2025/05/19/hugo-nested-code/?utm_campaign=github-jamietanna)
 - [_Taking more control over your Cobra CLI documentation_](https://www.jvt.me/posts/2025/05/19/cobra-doc-template/?utm_campaign=github-jamietanna)
 - [_Setting up SSH key signing with Git_](https://www.jvt.me/posts/2025/05/19/git-sign-ssh/?utm_campaign=github-jamietanna)
 - [_Improving the experience of browsing Renovate debug logs_](https://www.jvt.me/posts/2025/05/18/renovate-pretty-log/?utm_campaign=github-jamietanna)
-- [_Overriding a Gradle project property which has . and _ characters, without modifying the buildscript_](https://www.jvt.me/posts/2025/05/14/gradle-env-property/?utm_campaign=github-jamietanna)
 
 ---
 
