@@ -20,20 +20,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Accessing your Renovate Dependency Dashboard, without GitHub/GitLab Issues enabled_](https://www.jvt.me/posts/2025/05/30/renovate-dependency-dashboardless/?utm_campaign=github-jamietanna)
+- [_Generating a Renovate Report from someone else's repo_](https://www.jvt.me/posts/2025/05/30/renovate-report-another-repo/?utm_campaign=github-jamietanna)
 - [_Checking the digest for a Docker image, using crane_](https://www.jvt.me/posts/2025/05/28/crane-digest/?utm_campaign=github-jamietanna)
-- [_What's the difference between Renovate's depName and packageName?_](https://www.jvt.me/posts/2025/05/21/renovate-depname-packagename/?utm_campaign=github-jamietanna)
-- [_My experience as a maintainer_](https://www.jvt.me/posts/2025/05/20/my-experience-maintainer/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Accessing your Renovate Dependency Dashboard, without GitHub/GitLab Issues enabled_](https://www.jvt.me/posts/2025/05/30/renovate-dependency-dashboardless/?utm_campaign=github-jamietanna)
+- [_Generating a Renovate Report from someone else's repo_](https://www.jvt.me/posts/2025/05/30/renovate-report-another-repo/?utm_campaign=github-jamietanna)
 - [_Checking the digest for a Docker image, using crane_](https://www.jvt.me/posts/2025/05/28/crane-digest/?utm_campaign=github-jamietanna)
 - [_What's the difference between Renovate's depName and packageName?_](https://www.jvt.me/posts/2025/05/21/renovate-depname-packagename/?utm_campaign=github-jamietanna)
 - [_Creating nested fenced code blocks with Hugo_](https://www.jvt.me/posts/2025/05/19/hugo-nested-code/?utm_campaign=github-jamietanna)
-- [_Taking more control over your Cobra CLI documentation_](https://www.jvt.me/posts/2025/05/19/cobra-doc-template/?utm_campaign=github-jamietanna)
-- [_Setting up SSH key signing with Git_](https://www.jvt.me/posts/2025/05/19/git-sign-ssh/?utm_campaign=github-jamietanna)
 
 ---
 
