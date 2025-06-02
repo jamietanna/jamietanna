@@ -40,11 +40,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_If you are useful, it doesn’t mean you are valued_](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean?utm_campaign=github-jamietanna)
 - [_XKCD's "Is It Worth the Time?" Considered Harmful_](https://will-keleher.com/posts/its-not-worth-the-time-yet.html?utm_campaign=github-jamietanna)
 - [_https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/_](https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/?utm_campaign=github-jamietanna)
 - [_Just Enough Docs | LornaJane_](https://lornajane.net/posts/2025/just-enough-docs?utm_campaign=github-jamietanna)
 - [_What Makes a Great Developer Experience? » Code Simplicity_](https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/?utm_campaign=github-jamietanna)
-- [_Bored of it_](https://paulrobertlloyd.com/2025/087/a1/bored/?utm_campaign=github-jamietanna)
 
 ---
 
