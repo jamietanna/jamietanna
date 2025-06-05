@@ -20,20 +20,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Generating Go code from JSON Schema documents_](https://www.jvt.me/posts/2025/06/05/json-schema-go/?utm_campaign=github-jamietanna)
 - [_Creating cross-compiled Docker images from Go binaries_](https://www.jvt.me/posts/2025/06/04/go-cross-compile-docker/?utm_campaign=github-jamietanna)
 - [_Accessing your Renovate Dependency Dashboard, without GitHub/GitLab Issues enabled_](https://www.jvt.me/posts/2025/05/30/renovate-dependency-dashboardless/?utm_campaign=github-jamietanna)
-- [_Generating a Renovate Report from someone else's repo_](https://www.jvt.me/posts/2025/05/30/renovate-report-another-repo/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Generating Go code from JSON Schema documents_](https://www.jvt.me/posts/2025/06/05/json-schema-go/?utm_campaign=github-jamietanna)
 - [_Creating cross-compiled Docker images from Go binaries_](https://www.jvt.me/posts/2025/06/04/go-cross-compile-docker/?utm_campaign=github-jamietanna)
 - [_Accessing your Renovate Dependency Dashboard, without GitHub/GitLab Issues enabled_](https://www.jvt.me/posts/2025/05/30/renovate-dependency-dashboardless/?utm_campaign=github-jamietanna)
 - [_Generating a Renovate Report from someone else's repo_](https://www.jvt.me/posts/2025/05/30/renovate-report-another-repo/?utm_campaign=github-jamietanna)
 - [_Checking the digest for a Docker image, using crane_](https://www.jvt.me/posts/2025/05/28/crane-digest/?utm_campaign=github-jamietanna)
-- [_What's the difference between Renovate's depName and packageName?_](https://www.jvt.me/posts/2025/05/21/renovate-depname-packagename/?utm_campaign=github-jamietanna)
 
 ---
 
