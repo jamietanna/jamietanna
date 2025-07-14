@@ -20,9 +20,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_I'm on Fallthrough: Why You're Wrong About REST_](https://www.jvt.me/posts/2025/07/14/fallthrough-hypermedia/?utm_campaign=github-jamietanna)
 - [_A few tips for optimising Renovate for multi-team monorepos_](https://www.jvt.me/posts/2025/07/07/renovate-monorepo/?utm_campaign=github-jamietanna)
 - [_Checking out the branch from a fork in GitHub Actions, when using pull_request_target_](https://www.jvt.me/posts/2025/06/26/github-actions-checkout-fork/?utm_campaign=github-jamietanna)
-- [_Disabling zsh history for a given shell session_](https://www.jvt.me/posts/2025/06/26/zsh-no-history/?utm_campaign=github-jamietanna)
 
 ---
 
