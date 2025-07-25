@@ -20,9 +20,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_I'm on Changelog and Friends: #define: props to astronomer_](https://www.jvt.me/posts/2025/07/25/changelog-friends-define/?utm_campaign=github-jamietanna)
 - [_I'm on Fallthrough: Versioning: We Did It To Ourselves_](https://www.jvt.me/posts/2025/07/21/fallthrough-versioning/?utm_campaign=github-jamietanna)
 - [_I'm on Fallthrough: Why You're Wrong About REST_](https://www.jvt.me/posts/2025/07/14/fallthrough-hypermedia/?utm_campaign=github-jamietanna)
-- [_A few tips for optimising Renovate for multi-team monorepos_](https://www.jvt.me/posts/2025/07/07/renovate-monorepo/?utm_campaign=github-jamietanna)
 
 ---
 
