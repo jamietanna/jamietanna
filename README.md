@@ -20,20 +20,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Syncing the WAL with SQLite_](https://www.jvt.me/posts/2025/07/29/sqlite-wal-sync/?utm_campaign=github-jamietanna)
 - [_I'm on Changelog and Friends: #define: props to astronomer_](https://www.jvt.me/posts/2025/07/25/changelog-friends-define/?utm_campaign=github-jamietanna)
 - [_I'm on Fallthrough: Versioning: We Did It To Ourselves_](https://www.jvt.me/posts/2025/07/21/fallthrough-versioning/?utm_campaign=github-jamietanna)
-- [_I'm on Fallthrough: Why You're Wrong About REST_](https://www.jvt.me/posts/2025/07/14/fallthrough-hypermedia/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Syncing the WAL with SQLite_](https://www.jvt.me/posts/2025/07/29/sqlite-wal-sync/?utm_campaign=github-jamietanna)
 - [_A few tips for optimising Renovate for multi-team monorepos_](https://www.jvt.me/posts/2025/07/07/renovate-monorepo/?utm_campaign=github-jamietanna)
 - [_Checking out the branch from a fork in GitHub Actions, when using pull_request_target_](https://www.jvt.me/posts/2025/06/26/github-actions-checkout-fork/?utm_campaign=github-jamietanna)
 - [_Disabling zsh history for a given shell session_](https://www.jvt.me/posts/2025/06/26/zsh-no-history/?utm_campaign=github-jamietanna)
 - [_Generating Go code from JSON Schema documents_](https://www.jvt.me/posts/2025/06/05/json-schema-go/?utm_campaign=github-jamietanna)
-- [_Creating cross-compiled Docker images from Go binaries_](https://www.jvt.me/posts/2025/06/04/go-cross-compile-docker/?utm_campaign=github-jamietanna)
 
 ---
 
