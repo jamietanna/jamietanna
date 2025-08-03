@@ -40,15 +40,15 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_If you're remote, ramble_](https://stephango.com/ramblings?utm_campaign=github-jamietanna)
 - [_https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass_](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass?utm_campaign=github-jamietanna)
 - [_If you are useful, it doesn’t mean you are valued_](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean?utm_campaign=github-jamietanna)
 - [_XKCD's "Is It Worth the Time?" Considered Harmful_](https://will-keleher.com/posts/its-not-worth-the-time-yet.html?utm_campaign=github-jamietanna)
 - [_https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/_](https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/?utm_campaign=github-jamietanna)
-- [_Just Enough Docs | LornaJane_](https://lornajane.net/posts/2025/just-enough-docs?utm_campaign=github-jamietanna)
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 25#29](https://www.jvt.me/week-notes/2025/29/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 25#30](https://www.jvt.me/week-notes/2025/30/?utm_campaign=github-jamietanna).
 
 ---
 
