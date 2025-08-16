@@ -20,9 +20,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_GopherCon UK 2025_](https://www.jvt.me/posts/2025/08/15/gophercon-uk-2025/?utm_campaign=github-jamietanna)
 - [_Clearing Language Server Protocol (LSP) diagnostics in Neovim_](https://www.jvt.me/posts/2025/08/15/neovim-standup/?utm_campaign=github-jamietanna)
 - [_Running Docker images from other architectures, on Linux_](https://www.jvt.me/posts/2025/08/12/docker-run-qemu/?utm_campaign=github-jamietanna)
-- [_Creating beautiful visualisations of dependency data with Evidence_](https://www.jvt.me/posts/2025/07/31/dmd-evidence/?utm_campaign=github-jamietanna)
 
 ---
 
