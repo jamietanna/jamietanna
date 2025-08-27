@@ -20,20 +20,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Additional lessons learned running Renovate at scale_](https://www.jvt.me/posts/2025/08/27/renovate-at-scale/?utm_campaign=github-jamietanna)
 - [_GopherCon UK 2025_](https://www.jvt.me/posts/2025/08/15/gophercon-uk-2025/?utm_campaign=github-jamietanna)
 - [_Clearing Language Server Protocol (LSP) diagnostics in Neovim_](https://www.jvt.me/posts/2025/08/15/nvim-lsp-clear/?utm_campaign=github-jamietanna)
-- [_Running Docker images from other architectures, on Linux_](https://www.jvt.me/posts/2025/08/12/docker-run-qemu/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Additional lessons learned running Renovate at scale_](https://www.jvt.me/posts/2025/08/27/renovate-at-scale/?utm_campaign=github-jamietanna)
 - [_Clearing Language Server Protocol (LSP) diagnostics in Neovim_](https://www.jvt.me/posts/2025/08/15/nvim-lsp-clear/?utm_campaign=github-jamietanna)
 - [_Running Docker images from other architectures, on Linux_](https://www.jvt.me/posts/2025/08/12/docker-run-qemu/?utm_campaign=github-jamietanna)
 - [_Creating beautiful visualisations of dependency data with Evidence_](https://www.jvt.me/posts/2025/07/31/dmd-evidence/?utm_campaign=github-jamietanna)
 - [_Accessing (accidentally) 'used' tickets in The Trainline's app_](https://www.jvt.me/posts/2025/07/31/trainline-archived/?utm_campaign=github-jamietanna)
-- [_Syncing the WAL with SQLite_](https://www.jvt.me/posts/2025/07/29/sqlite-wal-sync/?utm_campaign=github-jamietanna)
 
 ---
 
