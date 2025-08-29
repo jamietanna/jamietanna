@@ -40,11 +40,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_https://refactoringenglish.com/chapters/release-announcements/_](https://refactoringenglish.com/chapters/release-announcements/?utm_campaign=github-jamietanna)
+- [_https://ohhelloana.blog/my-indieweb-journey/_](https://ohhelloana.blog/my-indieweb-journey/?utm_campaign=github-jamietanna)
 - [_Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises_](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b?utm_campaign=github-jamietanna)
 - [_If you're remote, ramble_](https://stephango.com/ramblings?utm_campaign=github-jamietanna)
 - [_https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass_](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass?utm_campaign=github-jamietanna)
-- [_If you are useful, it doesn’t mean you are valued_](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean?utm_campaign=github-jamietanna)
-- [_XKCD's "Is It Worth the Time?" Considered Harmful_](https://will-keleher.com/posts/its-not-worth-the-time-yet.html?utm_campaign=github-jamietanna)
 
 ---
 
