@@ -20,9 +20,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Starless: How we accidentally vanished our most popular GitHub repos_](https://www.jvt.me/posts/2025/09/05/elastic-starless/?utm_campaign=github-jamietanna)
 - [_I'm joining Mend to work on Renovate full-time_](https://www.jvt.me/posts/2025/08/27/joining-mend/?utm_campaign=github-jamietanna)
 - [_Additional lessons learned running Renovate at scale_](https://www.jvt.me/posts/2025/08/27/renovate-at-scale/?utm_campaign=github-jamietanna)
-- [_GopherCon UK 2025_](https://www.jvt.me/posts/2025/08/15/gophercon-uk-2025/?utm_campaign=github-jamietanna)
 
 ---
 
