@@ -48,7 +48,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 25#35](https://www.jvt.me/week-notes/2025/35/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 25#36](https://www.jvt.me/week-notes/2025/36/?utm_campaign=github-jamietanna).
 
 ---
 
