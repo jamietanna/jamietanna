@@ -1,5 +1,4 @@
-Hey, I'm Jamie
-Tanna (he/him/his) 👋
+Hey, I'm Jamie Tanna (he/him/his) 👋
 
 I'm currently between jobs, and I'm currently based in Nottingham.
 
