@@ -1,6 +1,6 @@
 Hey, I'm Jamie Tanna (he/him/his) 👋
 
-I'm currently between jobs, and I'm currently based in Nottingham.
+I'm currently a Senior Developer and Open Source project maintainer at [Mend](https://mend.io), and I'm currently based in Nottingham.
 
 I have a [/now page](https://www.jvt.me/now/?utm_campaign=github-jamietanna), which aims to be a more up-to-date about page.
 
