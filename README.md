@@ -8,7 +8,7 @@ If you're looking at how best to work with me, you may want to read my [Manual o
 
 I use my [personal website](https://www.jvt.me/?utm_campaign=github-jamietanna) as a method of blogging about my learnings, as well as sharing information about projects I have previously, or am currently, working on in my spare time.
 
-Right now, my primary side projet - aside from my blog - is [`oapi-codegen`](https://github.com/deepmap/oapi-codegen/).
+Right now, my primary side project - aside from my blog - is [`oapi-codegen`](https://github.com/deepmap/oapi-codegen/).
 
 As well as them, I maintain [a number of other Open Source projects](https://www.jvt.me/open-source/?utm_campaign=github-jamietanna), and primarily use [GitLab](https://gitlab.com/jamietanna) for my source control, but also use [GitHub](https://github.com/jamietanna) for some things.
 
