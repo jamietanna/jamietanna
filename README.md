@@ -19,20 +19,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Finding missing releaseTimestamps in Renovate_](https://www.jvt.me/posts/2025/10/24/renovate-missing-releasetimestamp/?utm_campaign=github-jamietanna)
 - [_Adding type hints to Renovate config.js files_](https://www.jvt.me/posts/2025/10/21/renovate-configjs-hints/?utm_campaign=github-jamietanna)
 - [_Creating a gh CLI extension for creating GitHub Discussions via category forms_](https://www.jvt.me/posts/2025/09/22/gh-discussions/?utm_campaign=github-jamietanna)
-- [_Using jqp for interactive queries with jq_](https://www.jvt.me/posts/2025/09/12/jqp/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Finding missing releaseTimestamps in Renovate_](https://www.jvt.me/posts/2025/10/24/renovate-missing-releasetimestamp/?utm_campaign=github-jamietanna)
 - [_Adding type hints to Renovate config.js files_](https://www.jvt.me/posts/2025/10/21/renovate-configjs-hints/?utm_campaign=github-jamietanna)
 - [_Creating a gh CLI extension for creating GitHub Discussions via category forms_](https://www.jvt.me/posts/2025/09/22/gh-discussions/?utm_campaign=github-jamietanna)
 - [_Using jqp for interactive queries with jq_](https://www.jvt.me/posts/2025/09/12/jqp/?utm_campaign=github-jamietanna)
 - [_Determining the digest for a GitHub Action_](https://www.jvt.me/posts/2025/09/11/how-github-actions-digest/?utm_campaign=github-jamietanna)
-- [_Setting up govulncheck in GitHub Actions with GitHub Code Scanning alerts_](https://www.jvt.me/posts/2025/09/11/govulncheck-github-actions/?utm_campaign=github-jamietanna)
 
 ---
 
