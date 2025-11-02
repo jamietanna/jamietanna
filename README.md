@@ -39,11 +39,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_https://www.anildash.com/2025/10/17/the-majority-ai-view/_](https://www.anildash.com/2025/10/17/the-majority-ai-view/?utm_campaign=github-jamietanna)
 - [_It's insulting to read your AI-generated blog post_](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/?utm_campaign=github-jamietanna)
 - [_https://refactoringenglish.com/chapters/release-announcements/_](https://refactoringenglish.com/chapters/release-announcements/?utm_campaign=github-jamietanna)
 - [_https://ohhelloana.blog/my-indieweb-journey/_](https://ohhelloana.blog/my-indieweb-journey/?utm_campaign=github-jamietanna)
 - [_Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises_](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b?utm_campaign=github-jamietanna)
-- [_If you're remote, ramble_](https://stephango.com/ramblings?utm_campaign=github-jamietanna)
 
 ---
 
