@@ -39,11 +39,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Actions pull_request_target and environment branch protections changes - GitHub Changelog_](https://github.blog/changelog/2025-11-07-actions-pull_request_target-and-environment-branch-protections-changes/?utm_campaign=github-jamietanna)
 - [_Supply chain attacks are exploiting our assumptions_](https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/?utm_campaign=github-jamietanna)
 - [_https://www.anildash.com/2025/10/17/the-majority-ai-view/_](https://www.anildash.com/2025/10/17/the-majority-ai-view/?utm_campaign=github-jamietanna)
 - [_It's insulting to read your AI-generated blog post_](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/?utm_campaign=github-jamietanna)
 - [_https://refactoringenglish.com/chapters/release-announcements/_](https://refactoringenglish.com/chapters/release-announcements/?utm_campaign=github-jamietanna)
-- [_https://ohhelloana.blog/my-indieweb-journey/_](https://ohhelloana.blog/my-indieweb-journey/?utm_campaign=github-jamietanna)
 
 ---
 
