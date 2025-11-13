@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Building a more secure npm ecosystem with Mend Renovate_](https://www.jvt.me/posts/2025/11/06/secure-npm-ecosystem-with-mend-renovate/?utm_campaign=github-jamietanna)
 - [_Finding missing releaseTimestamps in Renovate_](https://www.jvt.me/posts/2025/10/24/renovate-missing-releasetimestamp/?utm_campaign=github-jamietanna)
 - [_Adding type hints to Renovate config.js files_](https://www.jvt.me/posts/2025/10/21/renovate-configjs-hints/?utm_campaign=github-jamietanna)
-- [_Creating a gh CLI extension for creating GitHub Discussions via category forms_](https://www.jvt.me/posts/2025/09/22/gh-discussions/?utm_campaign=github-jamietanna)
 
 ---
 
