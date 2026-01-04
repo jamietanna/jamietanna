@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_2025's Music In Review_](https://www.jvt.me/music-in-review/2025/?utm_campaign=github-jamietanna)
 - [_2025's Site In Review_](https://www.jvt.me/site-in-review/2025/?utm_campaign=github-jamietanna)
 - [_I'm on Open Source Security: Updating open source dependencies_](https://www.jvt.me/posts/2025/12/08/oss-security-renovate/?utm_campaign=github-jamietanna)
-- [_Worries about Open Source in the age of LLMs_](https://www.jvt.me/posts/2025/11/17/llm-oss/?utm_campaign=github-jamietanna)
 
 ---
 
