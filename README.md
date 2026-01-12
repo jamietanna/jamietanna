@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_2025's podcasts in review_](https://www.jvt.me/posts/2026/01/11/2025s-podcasts-in-review/?utm_campaign=github-jamietanna)
 - [_Why the Renovate project uses GitHub Discussions as our triage process_](https://www.jvt.me/posts/2026/01/07/renovate-why-discussions/?utm_campaign=github-jamietanna)
 - [_2025's Music In Review_](https://www.jvt.me/music-in-review/2025/?utm_campaign=github-jamietanna)
-- [_2025's Site In Review_](https://www.jvt.me/site-in-review/2025/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -47,7 +47,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 26#01](https://www.jvt.me/week-notes/2026/01/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 26#02](https://www.jvt.me/week-notes/2026/02/?utm_campaign=github-jamietanna).
 
 ---
 
