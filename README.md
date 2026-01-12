@@ -19,20 +19,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Creating a TUI for keeping an eye on GitHub Rate Limits_](https://www.jvt.me/posts/2026/01/12/github-rate-limit-tui/?utm_campaign=github-jamietanna)
 - [_2025's podcasts in review_](https://www.jvt.me/posts/2026/01/11/2025s-podcasts-in-review/?utm_campaign=github-jamietanna)
 - [_Why the Renovate project uses GitHub Discussions as our triage process_](https://www.jvt.me/posts/2026/01/07/renovate-why-discussions/?utm_campaign=github-jamietanna)
-- [_2025's Music In Review_](https://www.jvt.me/music-in-review/2025/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Creating a TUI for keeping an eye on GitHub Rate Limits_](https://www.jvt.me/posts/2026/01/12/github-rate-limit-tui/?utm_campaign=github-jamietanna)
 - [_Finding missing releaseTimestamps in Renovate_](https://www.jvt.me/posts/2025/10/24/renovate-missing-releasetimestamp/?utm_campaign=github-jamietanna)
 - [_Adding type hints to Renovate config.js files_](https://www.jvt.me/posts/2025/10/21/renovate-configjs-hints/?utm_campaign=github-jamietanna)
 - [_Creating a gh CLI extension for creating GitHub Discussions via category forms_](https://www.jvt.me/posts/2025/09/22/gh-discussions/?utm_campaign=github-jamietanna)
 - [_Using jqp for interactive queries with jq_](https://www.jvt.me/posts/2025/09/12/jqp/?utm_campaign=github-jamietanna)
-- [_Determining the digest for a GitHub Action_](https://www.jvt.me/posts/2025/09/11/how-github-actions-digest/?utm_campaign=github-jamietanna)
 
 ---
 
