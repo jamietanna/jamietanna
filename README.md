@@ -19,20 +19,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Using Ledger, plain text accounting and a touch of AI to fill in my UK tax return_](https://www.jvt.me/posts/2026/02/01/ledger/?utm_campaign=github-jamietanna)
 - [_What I've learned building an agent for Renovate config (as a cautious skeptic of AI)_](https://www.jvt.me/posts/2026/01/23/agentic-renovate/?utm_campaign=github-jamietanna)
 - [_The first 100 days as a Renovate maintainer: the shocking inside view of a popular Open Source project_](https://www.jvt.me/posts/2026/01/21/renovate-100-days/?utm_campaign=github-jamietanna)
-- [_Authoring Markdown externally and pasting the 'pretty' output into Slack (on Mac)_](https://www.jvt.me/posts/2026/01/13/mac-slack-external-markdown/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Using Ledger, plain text accounting and a touch of AI to fill in my UK tax return_](https://www.jvt.me/posts/2026/02/01/ledger/?utm_campaign=github-jamietanna)
 - [_Authoring Markdown externally and pasting the 'pretty' output into Slack (on Mac)_](https://www.jvt.me/posts/2026/01/13/mac-slack-external-markdown/?utm_campaign=github-jamietanna)
 - [_Getting access to rich-text data from the clipboard (on Mac)_](https://www.jvt.me/posts/2026/01/13/mac-html-clipboard/?utm_campaign=github-jamietanna)
 - [_Creating a TUI for keeping an eye on GitHub Rate Limits_](https://www.jvt.me/posts/2026/01/12/github-rate-limit-tui/?utm_campaign=github-jamietanna)
 - [_Finding missing releaseTimestamps in Renovate_](https://www.jvt.me/posts/2025/10/24/renovate-missing-releasetimestamp/?utm_campaign=github-jamietanna)
-- [_Adding type hints to Renovate config.js files_](https://www.jvt.me/posts/2025/10/21/renovate-configjs-hints/?utm_campaign=github-jamietanna)
 
 ---
 
