@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Lessons learned from oapi-codegen's time in the GitHub Secure Open Source Fund_](https://www.jvt.me/posts/2026/02/17/oapi-codegen-github-secure/?utm_campaign=github-jamietanna)
 - [_Using Ledger, plain text accounting and a touch of AI to fill in my UK tax return_](https://www.jvt.me/posts/2026/02/01/ledger/?utm_campaign=github-jamietanna)
 - [_What I've learned building an agent for Renovate config (as a cautious skeptic of AI)_](https://www.jvt.me/posts/2026/01/23/agentic-renovate/?utm_campaign=github-jamietanna)
-- [_The first 100 days as a Renovate maintainer: the shocking inside view of a popular Open Source project_](https://www.jvt.me/posts/2026/01/21/renovate-100-days/?utm_campaign=github-jamietanna)
 
 ---
 
