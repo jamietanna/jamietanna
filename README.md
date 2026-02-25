@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_How and why I attribute LLM-derived code_](https://www.jvt.me/posts/2026/02/25/llm-attribute/?utm_campaign=github-jamietanna)
 - [_Breaking free from GitHub Discussions' limitations_](https://www.jvt.me/posts/2026/02/20/renovate-discussions-data/?utm_campaign=github-jamietanna)
 - [_GitHub Actions' required properties aren't always required_](https://www.jvt.me/posts/2026/02/18/github-actions-required/?utm_campaign=github-jamietanna)
-- [_Lessons learned from oapi-codegen's time in the GitHub Secure Open Source Fund_](https://www.jvt.me/posts/2026/02/17/oapi-codegen-github-secure/?utm_campaign=github-jamietanna)
 
 ---
 
