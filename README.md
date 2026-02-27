@@ -19,7 +19,7 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
-- [_Automating the syncing of files between repos with Renovate and Venidr_](https://www.jvt.me/posts/2026/02/27/renovate-update-file/?utm_campaign=github-jamietanna)
+- [_Automating the syncing of files between repos with Renovate and Vendir_](https://www.jvt.me/posts/2026/02/27/renovate-update-file/?utm_campaign=github-jamietanna)
 - [_How and why I attribute LLM-derived code_](https://www.jvt.me/posts/2026/02/25/llm-attribute/?utm_campaign=github-jamietanna)
 - [_Breaking free from GitHub Discussions' limitations_](https://www.jvt.me/posts/2026/02/20/renovate-discussions-data/?utm_campaign=github-jamietanna)
 
@@ -28,7 +28,7 @@ I write a fair bit on my blog:
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
-- [_Automating the syncing of files between repos with Renovate and Venidr_](https://www.jvt.me/posts/2026/02/27/renovate-update-file/?utm_campaign=github-jamietanna)
+- [_Automating the syncing of files between repos with Renovate and Vendir_](https://www.jvt.me/posts/2026/02/27/renovate-update-file/?utm_campaign=github-jamietanna)
 - [_GitHub Actions' required properties aren't always required_](https://www.jvt.me/posts/2026/02/18/github-actions-required/?utm_campaign=github-jamietanna)
 - [_Using Ledger, plain text accounting and a touch of AI to fill in my UK tax return_](https://www.jvt.me/posts/2026/02/01/ledger/?utm_campaign=github-jamietanna)
 - [_Authoring Markdown externally and pasting the 'pretty' output into Slack (on Mac)_](https://www.jvt.me/posts/2026/01/13/mac-slack-external-markdown/?utm_campaign=github-jamietanna)
