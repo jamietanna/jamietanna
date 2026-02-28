@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_How I'm using Local Large Language Models_](https://www.jvt.me/posts/2026/02/28/local-ai/?utm_campaign=github-jamietanna)
 - [_Automating the syncing of files between repos with Renovate and Vendir_](https://www.jvt.me/posts/2026/02/27/renovate-update-file/?utm_campaign=github-jamietanna)
 - [_How and why I attribute LLM-derived code_](https://www.jvt.me/posts/2026/02/25/llm-attribute/?utm_campaign=github-jamietanna)
-- [_Breaking free from GitHub Discussions' limitations_](https://www.jvt.me/posts/2026/02/20/renovate-discussions-data/?utm_campaign=github-jamietanna)
 
 ---
 
