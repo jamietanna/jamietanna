@@ -25,20 +25,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_My workflow for testing Renovate config changes (2026 edition)_](https://www.jvt.me/posts/2026/03/08/renovate-test-config/?utm_campaign=github-jamietanna)
 - [_Does my site's analytics change how I write?_](https://www.jvt.me/posts/2026/03/03/analytics-use/?utm_campaign=github-jamietanna)
 - [_Automagically updating oapi-codegen JSON Schema version bumps with Renovate_](https://www.jvt.me/posts/2026/03/01/oapi-codegen-config-renovate/?utm_campaign=github-jamietanna)
-- [_How I'm using Local Large Language Models_](https://www.jvt.me/posts/2026/02/28/local-ai/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_My workflow for testing Renovate config changes (2026 edition)_](https://www.jvt.me/posts/2026/03/08/renovate-test-config/?utm_campaign=github-jamietanna)
 - [_Automagically updating oapi-codegen JSON Schema version bumps with Renovate_](https://www.jvt.me/posts/2026/03/01/oapi-codegen-config-renovate/?utm_campaign=github-jamietanna)
 - [_Automating the syncing of files between repos with Renovate and Vendir_](https://www.jvt.me/posts/2026/02/27/renovate-update-file/?utm_campaign=github-jamietanna)
 - [_GitHub Actions' required properties aren't always required_](https://www.jvt.me/posts/2026/02/18/github-actions-required/?utm_campaign=github-jamietanna)
 - [_Using Ledger, plain text accounting and a touch of AI to fill in my UK tax return_](https://www.jvt.me/posts/2026/02/01/ledger/?utm_campaign=github-jamietanna)
-- [_Authoring Markdown externally and pasting the 'pretty' output into Slack (on Mac)_](https://www.jvt.me/posts/2026/01/13/mac-slack-external-markdown/?utm_campaign=github-jamietanna)
 
 ---
 
