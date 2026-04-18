@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_I'm on Fallthrough: Supply Chain Reaction_](https://www.jvt.me/posts/2026/04/18/fallthrough-supply-chain/?utm_campaign=github-jamietanna)
 - [_Setting up Neovim with the Debug Adapter Protocol for Javascript/Typescript_](https://www.jvt.me/posts/2026/04/17/nvim-dap/?utm_campaign=github-jamietanna)
 - [_How to build a git diff driver_](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/?utm_campaign=github-jamietanna)
-- [_Using oasdiff for rich Git diffs of OpenAPI spec changes_](https://www.jvt.me/posts/2026/04/11/oasdiff-driver/?utm_campaign=github-jamietanna)
 
 ---
 
