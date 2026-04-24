@@ -19,20 +19,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_A deep dive into the wild world of GitHub Actions' tagging formats_](https://www.jvt.me/posts/2026/04/24/github-actions-tagging/?utm_campaign=github-jamietanna)
 - [_I'm on Fallthrough: Supply Chain Reaction_](https://www.jvt.me/posts/2026/04/18/fallthrough-supply-chain/?utm_campaign=github-jamietanna)
 - [_Setting up Neovim with the Debug Adapter Protocol for Javascript/Typescript_](https://www.jvt.me/posts/2026/04/17/nvim-dap/?utm_campaign=github-jamietanna)
-- [_How to build a git diff driver_](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_A deep dive into the wild world of GitHub Actions' tagging formats_](https://www.jvt.me/posts/2026/04/24/github-actions-tagging/?utm_campaign=github-jamietanna)
 - [_Setting up Neovim with the Debug Adapter Protocol for Javascript/Typescript_](https://www.jvt.me/posts/2026/04/17/nvim-dap/?utm_campaign=github-jamietanna)
 - [_How to build a git diff driver_](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/?utm_campaign=github-jamietanna)
 - [_Using oasdiff for rich Git diffs of OpenAPI spec changes_](https://www.jvt.me/posts/2026/04/11/oasdiff-driver/?utm_campaign=github-jamietanna)
 - [_Pointing lazy.nvim to a Pull Request_](https://www.jvt.me/posts/2026/03/22/lazy-nvim-pr/?utm_campaign=github-jamietanna)
-- [_My workflow for testing Renovate config changes (2026 edition)_](https://www.jvt.me/posts/2026/03/08/renovate-test-config/?utm_campaign=github-jamietanna)
 
 ---
 
