@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_I'm on Fallthrough: No Country for Old Maintainers_](https://www.jvt.me/posts/2026/04/25/fallthrough-supply-chain/?utm_campaign=github-jamietanna)
 - [_A deep dive into the wild world of GitHub Actions' tagging formats_](https://www.jvt.me/posts/2026/04/24/github-actions-tagging/?utm_campaign=github-jamietanna)
 - [_I'm on Fallthrough: Supply Chain Reaction_](https://www.jvt.me/posts/2026/04/18/fallthrough-supply-chain/?utm_campaign=github-jamietanna)
-- [_Setting up Neovim with the Debug Adapter Protocol for Javascript/Typescript_](https://www.jvt.me/posts/2026/04/17/nvim-dap/?utm_campaign=github-jamietanna)
 
 ---
 
