@@ -19,31 +19,31 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Configuring Renovate to only suggest updates that match your go directive_](https://www.jvt.me/posts/2026/05/02/renovate-only-go-directive/?utm_campaign=github-jamietanna)
 - [_I'm on Fallthrough: No Country for Old Maintainers_](https://www.jvt.me/posts/2026/04/25/fallthrough-supply-chain/?utm_campaign=github-jamietanna)
 - [_A deep dive into the wild world of GitHub Actions' tagging formats_](https://www.jvt.me/posts/2026/04/24/github-actions-tagging/?utm_campaign=github-jamietanna)
-- [_I'm on Fallthrough: Supply Chain Reaction_](https://www.jvt.me/posts/2026/04/18/fallthrough-supply-chain/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Configuring Renovate to only suggest updates that match your go directive_](https://www.jvt.me/posts/2026/05/02/renovate-only-go-directive/?utm_campaign=github-jamietanna)
 - [_A deep dive into the wild world of GitHub Actions' tagging formats_](https://www.jvt.me/posts/2026/04/24/github-actions-tagging/?utm_campaign=github-jamietanna)
 - [_Setting up Neovim with the Debug Adapter Protocol for Javascript/Typescript_](https://www.jvt.me/posts/2026/04/17/nvim-dap/?utm_campaign=github-jamietanna)
 - [_How to build a git diff driver_](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/?utm_campaign=github-jamietanna)
 - [_Using oasdiff for rich Git diffs of OpenAPI spec changes_](https://www.jvt.me/posts/2026/04/11/oasdiff-driver/?utm_campaign=github-jamietanna)
-- [_Pointing lazy.nvim to a Pull Request_](https://www.jvt.me/posts/2026/03/22/lazy-nvim-pr/?utm_campaign=github-jamietanna)
 
 ---
 
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_A GitHub for maintainers_](https://nesbitt.io/2026/05/02/a-github-for-maintainers.html?utm_campaign=github-jamietanna)
 - [_We should all be using dependency cooldowns_](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns?utm_campaign=github-jamietanna)
 - [_Actions pull_request_target and environment branch protections changes - GitHub Changelog_](https://github.blog/changelog/2025-11-07-actions-pull_request_target-and-environment-branch-protections-changes/?utm_campaign=github-jamietanna)
 - [_Supply chain attacks are exploiting our assumptions_](https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/?utm_campaign=github-jamietanna)
 - [_https://www.anildash.com/2025/10/17/the-majority-ai-view/_](https://www.anildash.com/2025/10/17/the-majority-ai-view/?utm_campaign=github-jamietanna)
-- [_It's insulting to read your AI-generated blog post_](https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/?utm_campaign=github-jamietanna)
 
 ---
 
