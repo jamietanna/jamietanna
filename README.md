@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_I'm on Fallthrough: He Who Controls the Source_](https://www.jvt.me/posts/2026/05/16/fallthrough/?utm_campaign=github-jamietanna)
 - [_Caveats around using Libyears_](https://www.jvt.me/posts/2026/05/14/caveat-libyear/?utm_campaign=github-jamietanna)
 - [_I hate the recent open-source rise_](https://www.jvt.me/posts/2026/05/12/open-source/?utm_campaign=github-jamietanna)
-- [_Gotcha: Yarn may need an empty NPM_TOKEN set to run_](https://www.jvt.me/posts/2026/05/05/yarn-npm-token/?utm_campaign=github-jamietanna)
 
 ---
 
