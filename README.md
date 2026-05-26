@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Is there space for 'craft' in the world of AI?_](https://www.jvt.me/posts/2026/05/26/ai-craft/?utm_campaign=github-jamietanna)
 - [_I'm on Fallthrough: He Who Controls the Source_](https://www.jvt.me/posts/2026/05/16/fallthrough/?utm_campaign=github-jamietanna)
 - [_Caveats around using Libyears_](https://www.jvt.me/posts/2026/05/14/caveat-libyear/?utm_campaign=github-jamietanna)
-- [_I hate the recent open-source rise_](https://www.jvt.me/posts/2026/05/12/open-source/?utm_campaign=github-jamietanna)
 
 ---
 
