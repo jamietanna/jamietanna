@@ -19,20 +19,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Determining adoption of AI through Git commits_](https://www.jvt.me/posts/2026/06/18/ai-adoption-commits/?utm_campaign=github-jamietanna)
 - [_Is there space for 'craft' in the world of AI?_](https://www.jvt.me/posts/2026/05/26/ai-craft/?utm_campaign=github-jamietanna)
 - [_I'm on Fallthrough: He Who Controls the Source_](https://www.jvt.me/posts/2026/05/16/fallthrough/?utm_campaign=github-jamietanna)
-- [_Caveats around using Libyears_](https://www.jvt.me/posts/2026/05/14/caveat-libyear/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Determining adoption of AI through Git commits_](https://www.jvt.me/posts/2026/06/18/ai-adoption-commits/?utm_campaign=github-jamietanna)
 - [_Caveats around using Libyears_](https://www.jvt.me/posts/2026/05/14/caveat-libyear/?utm_campaign=github-jamietanna)
 - [_Gotcha: Yarn may need an empty NPM_TOKEN set to run_](https://www.jvt.me/posts/2026/05/05/yarn-npm-token/?utm_campaign=github-jamietanna)
 - [_Configuring Renovate to only suggest updates that match your go directive_](https://www.jvt.me/posts/2026/05/02/renovate-only-go-directive/?utm_campaign=github-jamietanna)
 - [_A deep dive into the wild world of GitHub Actions' tagging formats_](https://www.jvt.me/posts/2026/04/24/github-actions-tagging/?utm_campaign=github-jamietanna)
-- [_Setting up Neovim with the Debug Adapter Protocol for Javascript/Typescript_](https://www.jvt.me/posts/2026/04/17/nvim-dap/?utm_campaign=github-jamietanna)
 
 ---
 
