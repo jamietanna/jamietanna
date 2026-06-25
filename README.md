@@ -39,11 +39,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Scrutineer: scanning open source without flooding maintainers_](https://nesbitt.io/2026/06/25/scrutineer.html?utm_campaign=github-jamietanna)
+- [_Blogging Can Just Be Stating The Obvious_](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/?utm_campaign=github-jamietanna)
 - [_https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0_](https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0?utm_campaign=github-jamietanna)
 - [_A GitHub for maintainers_](https://nesbitt.io/2026/05/02/a-github-for-maintainers.html?utm_campaign=github-jamietanna)
 - [_We should all be using dependency cooldowns_](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns?utm_campaign=github-jamietanna)
-- [_Actions pull_request_target and environment branch protections changes - GitHub Changelog_](https://github.blog/changelog/2025-11-07-actions-pull_request_target-and-environment-branch-protections-changes/?utm_campaign=github-jamietanna)
-- [_Supply chain attacks are exploiting our assumptions_](https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/?utm_campaign=github-jamietanna)
 
 ---
 
