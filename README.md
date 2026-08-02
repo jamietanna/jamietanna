@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_How much AI can a maintainer get away with using without losing their humanity?_](https://www.jvt.me/posts/2026/08/02/ai-maintainer/?utm_campaign=github-jamietanna)
 - [_Merging the default branch into a PR, from the API_](https://www.jvt.me/posts/2026/07/30/gh-update-branch/?utm_campaign=github-jamietanna)
 - [_Reducing overly nested Vendir paths_](https://www.jvt.me/posts/2026/07/21/vendir-nesting/?utm_campaign=github-jamietanna)
-- [_Determining adoption of AI through Git commits_](https://www.jvt.me/posts/2026/06/18/ai-adoption-commits/?utm_campaign=github-jamietanna)
 
 ---
 
@@ -47,7 +47,7 @@ I track articles and resources that I recommend I/others read [as bookmarks on m
 
 ---
 
-I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 26#30](https://www.jvt.me/week-notes/2026/30/?utm_campaign=github-jamietanna).
+I also write Week Notes as a way of summarising what's going on in my life. The last one can be found at [Week Notes 26#31](https://www.jvt.me/week-notes/2026/31/?utm_campaign=github-jamietanna).
 
 ---
 
