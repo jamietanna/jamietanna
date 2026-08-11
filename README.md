@@ -19,7 +19,7 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
-- [_Finding which PRs have been taken out of the Merge Queue due to failed status checks_](https://www.jvt.me/posts/2026/08/11/github-actions-tagging/?utm_campaign=github-jamietanna)
+- [_Finding which PRs have been taken out of the Merge Queue due to failed status checks_](https://www.jvt.me/posts/2026/08/11/github-merge-queue-prs/?utm_campaign=github-jamietanna)
 - [_How much AI can a maintainer get away with using without losing their humanity?_](https://www.jvt.me/posts/2026/08/02/ai-maintainer/?utm_campaign=github-jamietanna)
 - [_Merging the default branch into a PR, from the API_](https://www.jvt.me/posts/2026/07/30/gh-update-branch/?utm_campaign=github-jamietanna)
 
@@ -28,7 +28,7 @@ I write a fair bit on my blog:
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
-- [_Finding which PRs have been taken out of the Merge Queue due to failed status checks_](https://www.jvt.me/posts/2026/08/11/github-actions-tagging/?utm_campaign=github-jamietanna)
+- [_Finding which PRs have been taken out of the Merge Queue due to failed status checks_](https://www.jvt.me/posts/2026/08/11/github-merge-queue-prs/?utm_campaign=github-jamietanna)
 - [_Merging the default branch into a PR, from the API_](https://www.jvt.me/posts/2026/07/30/gh-update-branch/?utm_campaign=github-jamietanna)
 - [_Reducing overly nested Vendir paths_](https://www.jvt.me/posts/2026/07/21/vendir-nesting/?utm_campaign=github-jamietanna)
 - [_Determining adoption of AI through Git commits_](https://www.jvt.me/posts/2026/06/18/ai-adoption-commits/?utm_campaign=github-jamietanna)
