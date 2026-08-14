@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_GopherCon UK 2026_](https://www.jvt.me/posts/2026/08/14/gophercon-uk-2026/?utm_campaign=github-jamietanna)
 - [_Finding which PRs have been taken out of the Merge Queue due to failed status checks_](https://www.jvt.me/posts/2026/08/11/github-merge-queue-prs/?utm_campaign=github-jamietanna)
 - [_How much AI can a maintainer get away with using without losing their humanity?_](https://www.jvt.me/posts/2026/08/02/ai-maintainer/?utm_campaign=github-jamietanna)
-- [_Merging the default branch into a PR, from the API_](https://www.jvt.me/posts/2026/07/30/gh-update-branch/?utm_campaign=github-jamietanna)
 
 ---
 
