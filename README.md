@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Announcing some improvements to renovate-pretty-log-tui_](https://www.jvt.me/posts/2026/08/17/renovate-pretty-log/?utm_campaign=github-jamietanna)
 - [_Why I still hand write my commit messages_](https://www.jvt.me/posts/2026/08/17/hand-write-commits/?utm_campaign=github-jamietanna)
 - [_GopherCon UK 2026_](https://www.jvt.me/posts/2026/08/14/gophercon-uk-2026/?utm_campaign=github-jamietanna)
-- [_Finding which PRs have been taken out of the Merge Queue due to failed status checks_](https://www.jvt.me/posts/2026/08/11/github-merge-queue-prs/?utm_campaign=github-jamietanna)
 
 ---
 
