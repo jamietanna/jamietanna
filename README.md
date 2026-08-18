@@ -39,11 +39,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_And then the men with guns tell you to do it anyway_](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/?utm_campaign=github-jamietanna)
 - [_Open Source Must Be Fun (Or It Will Die)_](https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/?utm_campaign=github-jamietanna)
 - [_95 reasons for having your own website_](https://bellkiosk.website/blog/reasons-to-website.html?utm_campaign=github-jamietanna)
 - [_Scrutineer: scanning open source without flooding maintainers_](https://nesbitt.io/2026/06/25/scrutineer.html?utm_campaign=github-jamietanna)
 - [_Blogging Can Just Be Stating The Obvious_](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/?utm_campaign=github-jamietanna)
-- [_https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0_](https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0?utm_campaign=github-jamietanna)
 
 ---
 
