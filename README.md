@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_I'm on Fallthrough: A Modest Proposal Proposal_](https://www.jvt.me/posts/2026/08/22/fallthrough-proposals/?utm_campaign=github-jamietanna)
 - [_Announcing some improvements to renovate-pretty-log-tui_](https://www.jvt.me/posts/2026/08/17/renovate-pretty-log/?utm_campaign=github-jamietanna)
 - [_Why I still hand write my commit messages_](https://www.jvt.me/posts/2026/08/17/hand-write-commits/?utm_campaign=github-jamietanna)
-- [_GopherCon UK 2026_](https://www.jvt.me/posts/2026/08/14/gophercon-uk-2026/?utm_campaign=github-jamietanna)
 
 ---
 
