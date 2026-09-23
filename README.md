@@ -19,20 +19,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Getting a full-width PR review pane on GitHub temporary private forks_](https://www.jvt.me/posts/2026/09/23/ghsa-pr-width/?utm_campaign=github-jamietanna)
 - [_Looking back at my first year as the Renovate Project Lead_](https://www.jvt.me/posts/2026/09/21/renovate-1-year/?utm_campaign=github-jamietanna)
 - [_Updating apk add and apt install definitions in Dockerfiles with Renovate_](https://www.jvt.me/posts/2026/09/18/renovate-regex-dockerfile-apk/?utm_campaign=github-jamietanna)
-- [_Performing per-environment staged rollouts of dependency updates with Renovate_](https://www.jvt.me/posts/2026/09/08/renovate-staged-branches/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Getting a full-width PR review pane on GitHub temporary private forks_](https://www.jvt.me/posts/2026/09/23/ghsa-pr-width/?utm_campaign=github-jamietanna)
 - [_Updating apk add and apt install definitions in Dockerfiles with Renovate_](https://www.jvt.me/posts/2026/09/18/renovate-regex-dockerfile-apk/?utm_campaign=github-jamietanna)
 - [_Performing per-environment staged rollouts of dependency updates with Renovate_](https://www.jvt.me/posts/2026/09/08/renovate-staged-branches/?utm_campaign=github-jamietanna)
 - [_Exporting your chats from Claude.ai_](https://www.jvt.me/posts/2026/09/04/claude-chat-export/?utm_campaign=github-jamietanna)
 - [_Determining if your branch is part of a GitHub Stacked PR_](https://www.jvt.me/posts/2026/08/26/zsh-stacked-pr/?utm_campaign=github-jamietanna)
-- [_My new workflow for local code review with tuicr_](https://www.jvt.me/posts/2026/08/25/tuicr/?utm_campaign=github-jamietanna)
 
 ---
 
