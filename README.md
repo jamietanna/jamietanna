@@ -19,31 +19,31 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Authoring Markdown externally and getting even 'prettier' output in Slack with md2slack_](https://www.jvt.me/posts/2026/09/30/slack-prettier/?utm_campaign=github-jamietanna)
 - [_Uploading a large OpenTelemetry trace to a local OTLP/HTTP traces receiver_](https://www.jvt.me/posts/2026/09/30/large-otel/?utm_campaign=github-jamietanna)
 - [_Getting a full-width PR review pane on GitHub temporary private forks_](https://www.jvt.me/posts/2026/09/23/ghsa-pr-width/?utm_campaign=github-jamietanna)
-- [_Looking back at my first year as the Renovate Project Lead_](https://www.jvt.me/posts/2026/09/21/renovate-1-year/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Authoring Markdown externally and getting even 'prettier' output in Slack with md2slack_](https://www.jvt.me/posts/2026/09/30/slack-prettier/?utm_campaign=github-jamietanna)
 - [_Uploading a large OpenTelemetry trace to a local OTLP/HTTP traces receiver_](https://www.jvt.me/posts/2026/09/30/large-otel/?utm_campaign=github-jamietanna)
 - [_Getting a full-width PR review pane on GitHub temporary private forks_](https://www.jvt.me/posts/2026/09/23/ghsa-pr-width/?utm_campaign=github-jamietanna)
 - [_Updating apk add and apt install definitions in Dockerfiles with Renovate_](https://www.jvt.me/posts/2026/09/18/renovate-regex-dockerfile-apk/?utm_campaign=github-jamietanna)
 - [_Performing per-environment staged rollouts of dependency updates with Renovate_](https://www.jvt.me/posts/2026/09/08/renovate-staged-branches/?utm_campaign=github-jamietanna)
-- [_Exporting your chats from Claude.ai_](https://www.jvt.me/posts/2026/09/04/claude-chat-export/?utm_campaign=github-jamietanna)
 
 ---
 
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Commit Description as a Thinking Tool_](https://yedhu.me/posts/commit-description-as-a-thinking-tool/?utm_campaign=github-jamietanna)
 - [_Renovate: It was a packageRule all along_](https://secustor.dev/blog/renovate_config_debugger/?utm_campaign=github-jamietanna)
 - [_Don't paste the AI._](https://dontpastetheai.com/?utm_campaign=github-jamietanna)
 - [_And then the men with guns tell you to do it anyway_](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/?utm_campaign=github-jamietanna)
 - [_Open Source Must Be Fun (Or It Will Die)_](https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/?utm_campaign=github-jamietanna)
-- [_95 reasons for having your own website_](https://bellkiosk.website/blog/reasons-to-website.html?utm_campaign=github-jamietanna)
 
 ---
 
