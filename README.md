@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_A DECADE of writing on this blog_](https://www.jvt.me/posts/2026/10/01/10-years/?utm_campaign=github-jamietanna)
 - [_Authoring Markdown externally and getting even 'prettier' output in Slack with md2slack_](https://www.jvt.me/posts/2026/09/30/slack-prettier/?utm_campaign=github-jamietanna)
 - [_Uploading a large OpenTelemetry trace to a local OTLP/HTTP traces receiver_](https://www.jvt.me/posts/2026/09/30/large-otel/?utm_campaign=github-jamietanna)
-- [_Getting a full-width PR review pane on GitHub temporary private forks_](https://www.jvt.me/posts/2026/09/23/ghsa-pr-width/?utm_campaign=github-jamietanna)
 
 ---
 
