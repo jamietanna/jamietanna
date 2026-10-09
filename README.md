@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Logs as UX_](https://www.jvt.me/posts/2026/10/09/logs-interface/?utm_campaign=github-jamietanna)
 - [_Minifying JSON with jq_](https://www.jvt.me/posts/2026/10/08/minify-json-jq/?utm_campaign=github-jamietanna)
 - [_Gotcha: GitHub Custom Properties are public_](https://www.jvt.me/posts/2026/10/08/github-custom-properties-public/?utm_campaign=github-jamietanna)
-- [_A DECADE of writing on this blog_](https://www.jvt.me/posts/2026/10/01/10-years/?utm_campaign=github-jamietanna)
 
 ---
 
