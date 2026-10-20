@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Being more explicit with the limited AI usage in my blog posts' content_](https://www.jvt.me/posts/2026/10/20/ai/?utm_campaign=github-jamietanna)
 - [_Writing to AWS S3 from Fly.io (in Go)_](https://www.jvt.me/posts/2026/10/18/fly-s3/?utm_campaign=github-jamietanna)
 - [_Making an optional, required, status check with GitHub Actions_](https://www.jvt.me/posts/2026/10/16/github-actions-optional/?utm_campaign=github-jamietanna)
-- [_Reattaching tmux to your Xorg session_](https://www.jvt.me/posts/2026/10/16/tmux-reattach/?utm_campaign=github-jamietanna)
 
 ---
 
