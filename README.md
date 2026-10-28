@@ -19,31 +19,31 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Creating a Typescript union, while also having runtime access to the values_](https://www.jvt.me/posts/2026/10/28/typescript-const-array/?utm_campaign=github-jamietanna)
 - [_Adding date-based pagination to my site_](https://www.jvt.me/posts/2026/10/28/date-based-pagination/?utm_campaign=github-jamietanna)
 - [_Lukewarm recommendations for improving AI agents' interactions with your projects_](https://www.jvt.me/posts/2026/10/25/renovate-agent-improvements/?utm_campaign=github-jamietanna)
-- [_Being more explicit with the limited AI usage in my blog posts' content_](https://www.jvt.me/posts/2026/10/20/ai/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Creating a Typescript union, while also having runtime access to the values_](https://www.jvt.me/posts/2026/10/28/typescript-const-array/?utm_campaign=github-jamietanna)
 - [_Lukewarm recommendations for improving AI agents' interactions with your projects_](https://www.jvt.me/posts/2026/10/25/renovate-agent-improvements/?utm_campaign=github-jamietanna)
 - [_Writing to AWS S3 from Fly.io (in Go)_](https://www.jvt.me/posts/2026/10/18/fly-s3/?utm_campaign=github-jamietanna)
 - [_Making an optional, required, status check with GitHub Actions_](https://www.jvt.me/posts/2026/10/16/github-actions-optional/?utm_campaign=github-jamietanna)
 - [_Reattaching tmux to your Xorg session_](https://www.jvt.me/posts/2026/10/16/tmux-reattach/?utm_campaign=github-jamietanna)
-- [_Adding Pushover notifications to Claude Code_](https://www.jvt.me/posts/2026/10/12/claude-pushover/?utm_campaign=github-jamietanna)
 
 ---
 
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Suffering as a Feature_](https://blog.codinghorror.com/suffering-as-a-feature/?utm_campaign=github-jamietanna)
 - [_Men in tech #YesAllMen_](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen?utm_campaign=github-jamietanna)
 - [_https://gruhn.me/blog/2026-08-03/_](https://gruhn.me/blog/2026-08-03/?utm_campaign=github-jamietanna)
 - [_Commit Description as a Thinking Tool_](https://yedhu.me/posts/commit-description-as-a-thinking-tool/?utm_campaign=github-jamietanna)
 - [_Renovate: It was a packageRule all along_](https://secustor.dev/blog/renovate_config_debugger/?utm_campaign=github-jamietanna)
-- [_Don't paste the AI._](https://dontpastetheai.com/?utm_campaign=github-jamietanna)
 
 ---
 
