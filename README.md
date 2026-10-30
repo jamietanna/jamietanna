@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Thirteen backlogs in a trenchcoat: Analysing Renovate's many requests_](https://www.jvt.me/posts/2026/10/30/renovate-buckets/?utm_campaign=github-jamietanna)
 - [_Creating a Typescript union, while also having runtime access to the values_](https://www.jvt.me/posts/2026/10/28/typescript-const-array/?utm_campaign=github-jamietanna)
 - [_Adding date-based pagination to my site_](https://www.jvt.me/posts/2026/10/28/date-based-pagination/?utm_campaign=github-jamietanna)
-- [_Lukewarm recommendations for improving AI agents' interactions with your projects_](https://www.jvt.me/posts/2026/10/25/renovate-agent-improvements/?utm_campaign=github-jamietanna)
 
 ---
 
