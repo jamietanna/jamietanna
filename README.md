@@ -39,11 +39,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_The Gift of It's Your Problem Now_](https://apenwarr.ca/log/20211229-the-gift-of-its-your-problem-now?utm_campaign=github-jamietanna)
 - [_Suffering as a Feature_](https://blog.codinghorror.com/suffering-as-a-feature/?utm_campaign=github-jamietanna)
 - [_Men in tech #YesAllMen_](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen?utm_campaign=github-jamietanna)
 - [_https://gruhn.me/blog/2026-08-03/_](https://gruhn.me/blog/2026-08-03/?utm_campaign=github-jamietanna)
 - [_Commit Description as a Thinking Tool_](https://yedhu.me/posts/commit-description-as-a-thinking-tool/?utm_campaign=github-jamietanna)
-- [_Renovate: It was a packageRule all along_](https://secustor.dev/blog/renovate_config_debugger/?utm_campaign=github-jamietanna)
 
 ---
 
