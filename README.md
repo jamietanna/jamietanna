@@ -19,20 +19,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Adding Pushover notifications to Amp_](https://www.jvt.me/posts/2026/11/03/amp-pushover/?utm_campaign=github-jamietanna)
 - [_Thirteen backlogs in a trenchcoat: Analysing Renovate's many requests_](https://www.jvt.me/posts/2026/10/30/renovate-buckets/?utm_campaign=github-jamietanna)
 - [_Creating a Typescript union, while also having runtime access to the values_](https://www.jvt.me/posts/2026/10/28/typescript-const-array/?utm_campaign=github-jamietanna)
-- [_Adding date-based pagination to my site_](https://www.jvt.me/posts/2026/10/28/date-based-pagination/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Adding Pushover notifications to Amp_](https://www.jvt.me/posts/2026/11/03/amp-pushover/?utm_campaign=github-jamietanna)
 - [_Creating a Typescript union, while also having runtime access to the values_](https://www.jvt.me/posts/2026/10/28/typescript-const-array/?utm_campaign=github-jamietanna)
 - [_Lukewarm recommendations for improving AI agents' interactions with your projects_](https://www.jvt.me/posts/2026/10/25/renovate-agent-improvements/?utm_campaign=github-jamietanna)
 - [_Writing to AWS S3 from Fly.io (in Go)_](https://www.jvt.me/posts/2026/10/18/fly-s3/?utm_campaign=github-jamietanna)
 - [_Making an optional, required, status check with GitHub Actions_](https://www.jvt.me/posts/2026/10/16/github-actions-optional/?utm_campaign=github-jamietanna)
-- [_Reattaching tmux to your Xorg session_](https://www.jvt.me/posts/2026/10/16/tmux-reattach/?utm_campaign=github-jamietanna)
 
 ---
 
