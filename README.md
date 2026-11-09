@@ -19,9 +19,9 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_New CSS, Who Dis? (2026 edition)_](https://www.jvt.me/posts/2026/11/09/new-css-who-dis/?utm_campaign=github-jamietanna)
 - [_Avoiding being a Meat Proxy with Claude Code Mods_](https://www.jvt.me/posts/2026/11/03/honest-claude-meatproxy/?utm_campaign=github-jamietanna)
 - [_Adding Pushover notifications to Amp_](https://www.jvt.me/posts/2026/11/03/amp-pushover/?utm_campaign=github-jamietanna)
-- [_Thirteen backlogs in a trenchcoat: Analysing Renovate's many requests_](https://www.jvt.me/posts/2026/10/30/renovate-buckets/?utm_campaign=github-jamietanna)
 
 ---
 
