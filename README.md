@@ -39,11 +39,11 @@ I blog as a form of documentation, as noted in my post [Blogumentation - Writing
 I track articles and resources that I recommend I/others read [as bookmarks on my site](https://www.jvt.me/kind/bookmarks/?utm_campaign=github-jamietanna), the latest of which are:
 
 
+- [_Assume People Are Not Interested in Your Blog Post_](https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/?utm_campaign=github-jamietanna)
 - [_"I can tell you wrote this yourself"_](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/?utm_campaign=github-jamietanna)
 - [_All AI-generated code should be Open Source_](https://jakub.jankiewicz.org/blog/ai-code-open-source/?utm_campaign=github-jamietanna)
 - [_The Gift of It's Your Problem Now_](https://apenwarr.ca/log/20211229-the-gift-of-its-your-problem-now?utm_campaign=github-jamietanna)
 - [_Suffering as a Feature_](https://blog.codinghorror.com/suffering-as-a-feature/?utm_campaign=github-jamietanna)
-- [_Men in tech #YesAllMen_](https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen?utm_campaign=github-jamietanna)
 
 ---
 
