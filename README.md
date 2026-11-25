@@ -19,20 +19,20 @@ You may also know me for being very public with [sharing my salary history publi
 I write a fair bit on my blog:
 
 
+- [_Working around No artifacts named "github-pages" were found for this workflow run. in GitHub Actions_](https://www.jvt.me/posts/2026/11/25/github-pages-artifacts-bug/?utm_campaign=github-jamietanna)
 - [_Determining the size of the .git for a GitHub repo, without cloning it_](https://www.jvt.me/posts/2026/11/24/github-repo-size/?utm_campaign=github-jamietanna)
 - [_Using Renovate to update Amazon Bedrock model names_](https://www.jvt.me/posts/2026/11/23/renovate-bedrock-models/?utm_campaign=github-jamietanna)
-- [_Posting rich tables in your Slack messages (without code blocks)_](https://www.jvt.me/posts/2026/11/23/slack-tables/?utm_campaign=github-jamietanna)
 
 ---
 
 I blog as a form of documentation, as noted in my post [Blogumentation - Writing Blog Posts as a Method of Documentation](https://www.jvt.me/posts/2017/06/25/blogumentation/?utm_campaign=github-jamietanna):
 
 
+- [_Working around No artifacts named "github-pages" were found for this workflow run. in GitHub Actions_](https://www.jvt.me/posts/2026/11/25/github-pages-artifacts-bug/?utm_campaign=github-jamietanna)
 - [_Determining the size of the .git for a GitHub repo, without cloning it_](https://www.jvt.me/posts/2026/11/24/github-repo-size/?utm_campaign=github-jamietanna)
 - [_Using Renovate to update Amazon Bedrock model names_](https://www.jvt.me/posts/2026/11/23/renovate-bedrock-models/?utm_campaign=github-jamietanna)
 - [_Posting rich tables in your Slack messages (without code blocks)_](https://www.jvt.me/posts/2026/11/23/slack-tables/?utm_campaign=github-jamietanna)
 - [_Allowing Nix packages to override your version in Go_](https://www.jvt.me/posts/2026/11/23/go-no-vcs/?utm_campaign=github-jamietanna)
-- [_Posting syntax-highlighted code snippets in your Slack messages (without 'snippets')_](https://www.jvt.me/posts/2026/11/16/slack-syntax-highlight/?utm_campaign=github-jamietanna)
 
 ---
 
